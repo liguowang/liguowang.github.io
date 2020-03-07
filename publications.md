@@ -1,23 +1,24 @@
-# Liguo Wang's Publications
 
 ## Journal Publications
+-----------------------
 
 ### 2019
 
-1. Wei T, Nie J, Larson NB, Ye Z, Eckel Passow JE, Robertson KD, Kocher JA, Wang L. CpGtools: A Python Package for DNA Methylation Analysis. Bioinformatics. 2019 Dec 6 Epub 2019 Dec 06
+1. Wei T, Nie J, Larson NB, Ye Z, Eckel Passow JE, Robertson KD, Kocher JA, Wang L. CpGtools: A Python Package for DNA Methylation Analysis. ***Bioinformatics***. 2019 Dec 6 Epub 2019 Dec 06
 
-2. Wang G, Yin H, Li B, Yu C, Wang F, Xu X, Cao J, Bao Y, Wang L, Abbasi AA, Bajic VB, Ma L, Zhang Z. Characterization and identification of long non-coding RNAs based on feature relationship. Bioinformatics. 2019 Sep 1; 35 (17):2949-2956
+2. Wang G, Yin H, Li B, Yu C, Wang F, Xu X, Cao J, Bao Y, Wang L, Abbasi AA, Bajic VB, Ma L, Zhang Z. Characterization and identification of long non-coding RNAs based on feature relationship. ***Bioinformatics***. 2019 Sep 1; 35 (17):2949-2956
 
-3. Wang L, Marek GW 3rd, Hlady RA, Wagner RT, Zhao X, Clark VC, Fan AX, Liu C, Brantly M, Robertson KD. Alpha-1 Antitrypsin Deficiency Liver Disease, Mutational Homogeneity Modulated by Epigenetic Heterogeneity With Links to Obesity. Hepatology. 2019 Jul; 70 (1):51-66 Epub 2019 Mar 20
+3. Wang L, Marek GW 3rd, Hlady RA, Wagner RT, Zhao X, Clark VC, Fan AX, Liu C, Brantly M, Robertson KD. Alpha-1 Antitrypsin Deficiency Liver Disease, Mutational Homogeneity Modulated by Epigenetic Heterogeneity With Links to Obesity. ***Hepatology***. 2019 Jul; 70 (1):51-66 Epub 2019 Mar 20
 
-4. Zhao Y, Ding L, Wang D, Ye Z, He Y, Ma L, Zhu R, Pan Y, Wu Q, Pang K, Hou X, Weroha SJ, Han C, Coleman R, Coleman I, Karnes RJ, Zhang J, Nelson PS, Wang L, Huang H. EZH2 cooperates with gain-of-function p53 mutants to promote cancer growth and metastasis. EMBO J. 2019 Mar 1; 38 (5) Epub 2019 Feb 05
+4. Zhao Y, Ding L, Wang D, Ye Z, He Y, Ma L, Zhu R, Pan Y, Wu Q, Pang K, Hou X, Weroha SJ, Han C, Coleman R, Coleman I, Karnes RJ, Zhang J, Nelson PS, Wang L, Huang H. EZH2 cooperates with gain-of-function p53 mutants to promote cancer growth and metastasis. ***EMBO J***. 2019 Mar 1; 38 (5) Epub 2019 Feb 05
 
-5. Jimenez RE, Atwell TD, Sicotte H, Eckloff B, Wang L, Barman P, Sinnwell JP, Eiken PW, McMenomy BP, Tan W, Wang L, Carlson RE, Kohli M. A Prospective Correlation of Tissue Histopathology With Nucleic Acid Yield in Metastatic Castration-Resistant Prostate Cancer Biopsy Specimens. Mayo Clin Proc Innov Qual Outcomes. 2019 Mar; 3 (1):14-22 Epub 2019 Feb 26
+5. Jimenez RE, Atwell TD, Sicotte H, Eckloff B, Wang L, Barman P, Sinnwell JP, Eiken PW, McMenomy BP, Tan W, Wang L, Carlson RE, Kohli M. A Prospective Correlation of Tissue Histopathology With Nucleic Acid Yield in Metastatic Castration-Resistant Prostate Cancer Biopsy Specimens. ***Mayo Clin Proc Innov Qual Outcomes***. 2019 Mar; 3 (1):14-22 Epub 2019 Feb 26
 
-6. Jin X, Ding D, Yan Y, Li H, Wang B, Ma L, Ye Z, Ma T, Wu Q, Rodrigues DN, Kohli M, Jimenez R, Wang L, Goodrich DW, de Bono J, Dong H, Wu H, Zhu R, Huang H. Phosphorylated RB Promotes Cancer Immunity by Inhibiting NF-kappaB Activation and PD-L1 Expression. Mol Cell. 2019 Jan 3; 73 (1):22-35.e6 Epub 2018 Dec 06
+6. Jin X, Ding D, Yan Y, Li H, Wang B, Ma L, Ye Z, Ma T, Wu Q, Rodrigues DN, Kohli M, Jimenez R, Wang L, Goodrich DW, de Bono J, Dong H, Wu H, Zhu R, Huang H. Phosphorylated RB Promotes Cancer Immunity by Inhibiting NF-kappaB Activation and PD-L1 Expression. ***Mol Cell***. 2019 Jan 3; 73 (1):22-35.e6 Epub 2018 Dec 06
 
 7. Ma T, Ye Z, Wang L. Genome Wide Approaches to Identify Protein-DNA Interactions. Curr Med Chem. 2019; 26 (42):7641-7654
 
+### 2018
 
 Blee AM, He Y, Yang Y, Ye Z, Yan Y, Pan Y, Ma T, Dugdale J, Kuehn E, Kohli M, Jimenez R, Chen Y, Xu W, Wang L, Huang H. TMPRSS2-ERG Controls Luminal Epithelial Lineage and Antiandrogen Sensitivity in PTEN and TP53-Mutated Prostate Cancer. Clin Cancer Res. 2018 Sep 15; 24 (18):4551-4565 Epub 2018 May 29
 
