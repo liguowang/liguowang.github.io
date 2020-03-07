@@ -70,7 +70,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-   email: "wangliguo78@gmail.com"
+  email: "wangliguo78@gmail.com"
   linkedin: wangliguo78@gmail.com  
   facebook: wangliguo78@gmail.com
   github: liguowang
