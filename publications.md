@@ -1,4 +1,9 @@
-### Publications
+---
+layout: base
+title: Publications
+subtitle: Liguo Wang's Bibliography
+---
+
 
 ### Journal Publications
 -----------------------
