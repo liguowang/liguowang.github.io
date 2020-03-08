@@ -11,7 +11,7 @@
 
 ### 2019
 
-1. Wei T, Nie J, Larson NB, Ye Z, Eckel Passow JE, Robertson KD, Kocher JA, Wang L. CpGtools: A Python Package for DNA Methylation Analysis. ***Bioinformatics***. 2019 Dec 6 Epub 2019 Dec 06
+1. Wei T, Nie J, Larson NB, Ye Z, Eckel Passow JE, Robertson KD, Kocher JA, **Wang L**. CpGtools: A Python Package for DNA Methylation Analysis. ***Bioinformatics***. 2019 Dec 6 Epub 2019 Dec 06
 
 2. Wang G, Yin H, Li B, Yu C, Wang F, Xu X, Cao J, Bao Y, Wang L, Abbasi AA, Bajic VB, Ma L, Zhang Z. Characterization and identification of long non-coding RNAs based on feature relationship. ***Bioinformatics***. 2019 Sep 1; 35 (17):2949-2956
 
