@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: Liguo Wang
 subtitle: Associate Professor of Biomedical Informatics
 ---
