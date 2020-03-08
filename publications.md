@@ -182,5 +182,6 @@ subtitle: Liguo Wang's Bibliography
 
 ## Other resources
 
-- [Google Scholar Profile](https://scholar.google.com/citations?user=9sQzL0IAAAAJ&hl=en)
 - [Mayo Clinic Faculty Profile](https://www.mayo.edu/research/faculty/wang-liguo-ph-d/bio-00055202)
+- [Google Scholar Profile](https://scholar.google.com/citations?user=9sQzL0IAAAAJ&hl=en)
+- [My NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1rKnDv7Czr9Qi/bibliography/public/)
