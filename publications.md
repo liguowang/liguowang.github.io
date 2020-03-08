@@ -5,7 +5,7 @@ subtitle: Liguo Wang's Bibliography
 ---
 
 
-### Journal Publications
+## Journal Publications
 -----------------------
 
 ### 2020
