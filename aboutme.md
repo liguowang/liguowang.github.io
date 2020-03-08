@@ -23,3 +23,7 @@ subtitle: Associate Professor of Biomedical Informatics
 - B.Sc (2003), Biology Sciences
 	- [Jiangsu Normal University](http://en.jsnu.edu.cn/)
 
+### Professional Memberships
+
+- [American Association for Cancer Research (AACR)](https://www.aacr.org/)
+- [https://www.aacr.org/](https://www.allianceforclinicaltrialsinoncology.org/)
