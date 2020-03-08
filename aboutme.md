@@ -27,3 +27,16 @@ subtitle: Associate Professor of Biomedical Informatics
 
 - [American Association for Cancer Research](https://www.aacr.org/)
 - [Alliance for Clinical Trials in Oncology](https://www.allianceforclinicaltrialsinoncology.org/)
+
+### Contact
+
+LiguoWang,Ph.D.
+DivisionofBiomedicalStatisticsandInformatics
+DepartmentofHealthSciencesResearch
+HarwickBuilding
+200FirstStreetSWRochester,MN55905
+Phone:(507)284-8728
+Fax:(507)284-0745
+E-mail:Wang.Liguo@mayo.edu
+https://www.mayoclinic.org/
+
