@@ -179,3 +179,8 @@ subtitle: Liguo Wang's Bibliography
 1. Li X, Nair A, Wang S, **Wang L**#. Quality control of RNA-seq experiments. ***Methods Mol Biol*** (Springer). 2015; 1269:137-46
 
 2. L. Y, **Wang L**#. RNA coding potential prediction using alignment-free logistic regression model. (Springer). In Press
+
+## Other resources
+
+- [Google Scholar Profile](https://scholar.google.com/citations?user=9sQzL0IAAAAJ&hl=en)
+- [Mayo Clinic Faculty Profile](https://www.mayo.edu/research/faculty/wang-liguo-ph-d/bio-00055202)
