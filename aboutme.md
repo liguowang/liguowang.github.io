@@ -8,7 +8,7 @@ subtitle: Associate Professor of Biomedical Informatics
 
 - Associate Professor of Biomedical Informatics
 - Senior Associate Consultant
-- Mayo Clinic
+- Mayo Clinic (Rochester MN)
 
 ### Education
 
@@ -27,6 +27,10 @@ subtitle: Associate Professor of Biomedical Informatics
 
 - Member, [American Association for Cancer Research](https://www.aacr.org/)
 - Faculty, [Alliance for Clinical Trials in Oncology](https://www.allianceforclinicaltrialsinoncology.org/)
+
+### Journal Editorial
+
+- Associate editor, [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/about)
 
 ### Contact
 Liguo Wang, Ph.D.  
