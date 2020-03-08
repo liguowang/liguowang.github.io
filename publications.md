@@ -35,7 +35,7 @@ subtitle: Liguo Wang's Bibliography
 
 8. Blee AM, He Y, Yang Y, Ye Z, Yan Y, Pan Y, Ma T, Dugdale J, Kuehn E, Kohli M, Jimenez R, Chen Y, Xu W, **Wang L**#, Huang H. TMPRSS2-ERG Controls Luminal Epithelial Lineage and Antiandrogen Sensitivity in PTEN and TP53-Mutated Prostate Cancer. ***Clin Cancer Res***. 2018 Sep 15; 24 (18):4551-4565 Epub 2018 May 29
 
-9. Kohli M, Li J, Du M, Hillman DW, Dehm SM, Tan W, Carlson R, Campion MB, **Wang L**, **Wang L**, Zhang H, Zhang P, Kilari D, Huang CC, **Wang L**. Prognostic association of plasma cell-free DNA-based androgen receptor amplification and circulating tumor cells in pre-chemotherapy metastatic castration-resistant prostate cancer patients. ***Prostate Cancer Prostatic Dis***. 2018 Sep; 21 (3):411-418 Epub 2018 June 01
+9. Kohli M, Li J, Du M, Hillman DW, Dehm SM, Tan W, Carlson R, Campion MB, **Wang L**, Wang L, Zhang H, Zhang P, Kilari D, Huang CC, **Wang L**. Prognostic association of plasma cell-free DNA-based androgen receptor amplification and circulating tumor cells in pre-chemotherapy metastatic castration-resistant prostate cancer patients. ***Prostate Cancer Prostatic Dis***. 2018 Sep; 21 (3):411-418 Epub 2018 June 01
 
 10. Xu Y, Lee JH, Li Z, **Wang L**, Ordog T, Bailey RC. A droplet microfluidic platform for efficient enzymatic chromatin digestion enables robust determination of nucleosome positioning. ***Lab Chip***. 2018 Aug 21; 18 (17):2583-2592
 
@@ -65,7 +65,7 @@ subtitle: Liguo Wang's Bibliography
 
 22. Jin X, Pan Y, **Wang L**, Ma T, Zhang L, Tang AH, Billadeau DD, Wu H, Huang H. Fructose-1,6-bisphosphatase Inhibits ERK Activation and Bypasses Gemcitabine Resistance in Pancreatic Cancer by Blocking IQGAP1-MAPK Interaction. ***Cancer Res***. 2017 Aug 15; 77 (16):4328-4341 Epub 2017 July 18
 
-23. Kohli M, Ho Y, Ho Y, Hillman DW, Van Etten JL, Henzler C, Yang R, Sperger JM, Li Y, Tseng E, Hon T, Clark T, Tan W, Carlson RE, **Wang L**, Sicotte H, Thai H, Jimenez R, Huang H, Vedell PT, Eckloff BW, Quevedo JF, Pitot HC, Costello BA, Jen J, Wieben ED, Silverstein KAT, Lang JM, **Wang L**, Dehm SM. Androgen Receptor Variant AR-V9 Is Coexpressed with AR-V7 in Prostate Cancer Metastases and Predicts Abiraterone Resistance. ***Clin Cancer Res***. 2017 Aug 15; 23 (16):4704-4715 Epub 2017 May 04
+23. Kohli M, Ho Y, Ho Y, Hillman DW, Van Etten JL, Henzler C, Yang R, Sperger JM, Li Y, Tseng E, Hon T, Clark T, Tan W, Carlson RE, **Wang L**, Sicotte H, Thai H, Jimenez R, Huang H, Vedell PT, Eckloff BW, Quevedo JF, Pitot HC, Costello BA, Jen J, Wieben ED, Silverstein KAT, Lang JM, Wang L, Dehm SM. Androgen Receptor Variant AR-V9 Is Coexpressed with AR-V7 in Prostate Cancer Metastases and Predicts Abiraterone Resistance. ***Clin Cancer Res***. 2017 Aug 15; 23 (16):4704-4715 Epub 2017 May 04
 
 24. Ye Z, Ma T, Kalmbach MT, Dasari S, Kocher JA, **Wang L**#. CircularLogo: A lightweight web application to visualize intra-motif dependencies. ***BMC Bioinformatics***. 2017 May 22; 18 (1):269
 
@@ -88,9 +88,9 @@ subtitle: Liguo Wang's Bibliography
 
 33. Pan CW, Liu H, Zhao Y, Qian C, **Wang L**, Qi J. JNK2 downregulation promotes tumorigenesis and chemoresistance by decreasing p53 stability in bladder cancer. ***Oncotarget***. 2016 Jun 7; 7 (23):35119-31
 
-34. Zhao Y, **Wang L**, Ren S, **Wang L**, Blackburn PR, McNulty MS, Gao X, Qiao M, Vessella RL, Kohli M, Zhang J, Karnes RJ, Tindall DJ, Kim Y, MacLeod R, Ekker SC, Kang T, Sun Y, Huang H. Activation of P-TEFb by Androgen Receptor-Regulated Enhancer RNAs in Castration-Resistant Prostate Cancer. ***Cell Rep***. 2016 Apr 19; 15 (3):599-610 Epub 2016 Apr 07
+34. Zhao Y, **Wang L**, Ren S, Wang L, Blackburn PR, McNulty MS, Gao X, Qiao M, Vessella RL, Kohli M, Zhang J, Karnes RJ, Tindall DJ, Kim Y, MacLeod R, Ekker SC, Kang T, Sun Y, Huang H. Activation of P-TEFb by Androgen Receptor-Regulated Enhancer RNAs in Castration-Resistant Prostate Cancer. ***Cell Rep***. 2016 Apr 19; 15 (3):599-610 Epub 2016 Apr 07
 
-35. Hart SN, Ellingson MS, Schahl K, Vedell PT, Carlson RE, Sinnwell JP, Barman P, Sicotte H, Eckel-Passow JE, **Wang L**, Kalari KR, Qin R, Kruisselbrink TM, Jimenez RE, Bryce AH, Tan W, Weinshilboum R, **Wang L**, Kohli M. Determining the frequency of pathogenic germline variants from exome sequencing in patients with castrate-resistant prostate cancer. ***BMJ Open***. 2016 Apr 15; 6 (4):e010332
+35. Hart SN, Ellingson MS, Schahl K, Vedell PT, Carlson RE, Sinnwell JP, Barman P, Sicotte H, Eckel-Passow JE, **Wang L**, Kalari KR, Qin R, Kruisselbrink TM, Jimenez RE, Bryce AH, Tan W, Weinshilboum R, Wang L, Kohli M. Determining the frequency of pathogenic germline variants from exome sequencing in patients with castrate-resistant prostate cancer. ***BMJ Open***. 2016 Apr 15; 6 (4):e010332
 
 36. **Wang L**\*, Nie J\*, Sicotte H, Li Y, Eckel-Passow JE, Dasari S, Vedell PT, Barman P, Wang L, Weinshiboum R, Jen J, Huang H, Kohli M, Kocher JP. Measure transcript integrity using RNA-seq data. ***BMC Bioinformatics***. 2016 Feb 3; 17:58 Epub 2016 Feb 03
 
