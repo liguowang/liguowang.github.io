@@ -25,12 +25,11 @@ subtitle: Associate Professor of Biomedical Informatics
 
 ### Professional Memberships
 
-- [American Association for Cancer Research](https://www.aacr.org/)
-- [Alliance for Clinical Trials in Oncology](https://www.allianceforclinicaltrialsinoncology.org/)
+- Member, [American Association for Cancer Research](https://www.aacr.org/)
+- Faculty, [Alliance for Clinical Trials in Oncology](https://www.allianceforclinicaltrialsinoncology.org/)
 
 ### Contact
-
-Liguo Wang,Ph.D.
+Liguo Wang, Ph.D.  
 Division of Biomedical Statistics and Informatics  
 Department of Health Sciences Research  
 Harwick Building  
