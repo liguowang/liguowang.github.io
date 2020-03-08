@@ -48,23 +48,25 @@
 
 ### 2017
 
-Zhang X, Saarinen AM, Hitosugi T, Wang Z, Wang L, Ho TH, Liu J. Inhibition of intracellular lipolysis promotes human cancer cell adaptation to hypoxia. Elife. 2017 Dec 19; 6
+20. Zhang X, Saarinen AM, Hitosugi T, Wang Z, Wang L, Ho TH, Liu J. Inhibition of intracellular lipolysis promotes human cancer cell adaptation to hypoxia. ***Elife***. 2017 Dec 19; 6
 
-Zhang P, Wang D, Zhao Y, Ren S, Gao K, Ye Z, Wang S, Pan CW, Zhu Y, Yan Y, Yang Y, Wu D, He Y, Zhang J, Lu D, Liu X, Yu L, Zhao S, Li Y, Lin D, Wang Y, Wang L, Chen Y, Sun Y, Wang C, Huang H. Intrinsic BET inhibitor resistance in SPOP-mutated prostate cancer is mediated by BET protein stabilization and AKT-mTORC1 activation. Nat Med. 2017 Sep; 23 (9):1055-1062 Epub 2017 Aug 14
+21. Zhang P, Wang D, Zhao Y, Ren S, Gao K, Ye Z, Wang S, Pan CW, Zhu Y, Yan Y, Yang Y, Wu D, He Y, Zhang J, Lu D, Liu X, Yu L, Zhao S, Li Y, Lin D, Wang Y, Wang L, Chen Y, Sun Y, Wang C, Huang H. Intrinsic BET inhibitor resistance in SPOP-mutated prostate cancer is mediated by BET protein stabilization and AKT-mTORC1 activation. ***Nat Med***. 2017 Sep; 23 (9):1055-1062 Epub 2017 Aug 14
 
-Jin X, Pan Y, Wang L, Ma T, Zhang L, Tang AH, Billadeau DD, Wu H, Huang H. Fructose-1,6-bisphosphatase Inhibits ERK Activation and Bypasses Gemcitabine Resistance in Pancreatic Cancer by Blocking IQGAP1-MAPK Interaction. Cancer Res. 2017 Aug 15; 77 (16):4328-4341 Epub 2017 July 18
+22. Jin X, Pan Y, Wang L, Ma T, Zhang L, Tang AH, Billadeau DD, Wu H, Huang H. Fructose-1,6-bisphosphatase Inhibits ERK Activation and Bypasses Gemcitabine Resistance in Pancreatic Cancer by Blocking IQGAP1-MAPK Interaction. ***Cancer Res***. 2017 Aug 15; 77 (16):4328-4341 Epub 2017 July 18
 
-Kohli M, Ho Y, Ho Y, Hillman DW, Van Etten JL, Henzler C, Yang R, Sperger JM, Li Y, Tseng E, Hon T, Clark T, Tan W, Carlson RE, Wang L, Sicotte H, Thai H, Jimenez R, Huang H, Vedell PT, Eckloff BW, Quevedo JF, Pitot HC, Costello BA, Jen J, Wieben ED, Silverstein KAT, Lang JM, Wang L, Dehm SM. Androgen Receptor Variant AR-V9 Is Coexpressed with AR-V7 in Prostate Cancer Metastases and Predicts Abiraterone Resistance. Clin Cancer Res. 2017 Aug 15; 23 (16):4704-4715 Epub 2017 May 04
+23. Kohli M, Ho Y, Ho Y, Hillman DW, Van Etten JL, Henzler C, Yang R, Sperger JM, Li Y, Tseng E, Hon T, Clark T, Tan W, Carlson RE, Wang L, Sicotte H, Thai H, Jimenez R, Huang H, Vedell PT, Eckloff BW, Quevedo JF, Pitot HC, Costello BA, Jen J, Wieben ED, Silverstein KAT, Lang JM, Wang L, Dehm SM. Androgen Receptor Variant AR-V9 Is Coexpressed with AR-V7 in Prostate Cancer Metastases and Predicts Abiraterone Resistance. ***Clin Cancer Res***. 2017 Aug 15; 23 (16):4704-4715 Epub 2017 May 04
 
-Ye Z, Ma T, Kalmbach MT, Dasari S, Kocher JA, Wang L. CircularLogo: A lightweight web application to visualize intra-motif dependencies. BMC Bioinformatics. 2017 May 22; 18 (1):269
+24. Ye Z, Ma T, Kalmbach MT, Dasari S, Kocher JA, Wang L. CircularLogo: A lightweight web application to visualize intra-motif dependencies. ***BMC Bioinformatics***. 2017 May 22; 18 (1):269
 
-Pan CW, Jin X, Zhao Y, Pan Y, Yang J, Karnes RJ, Zhang J, Wang L, Huang H. AKT-phosphorylated FOXO1 suppresses ERK activation and chemoresistance by disrupting IQGAP1-MAPK interaction. EMBO J. 2017 Apr 13; 36 (8):995-1010 Epub 2017 Mar 09
+25. Pan CW, Jin X, Zhao Y, Pan Y, Yang J, Karnes RJ, Zhang J, Wang L, Huang H. AKT-phosphorylated FOXO1 suppresses ERK activation and chemoresistance by disrupting IQGAP1-MAPK interaction. ***EMBO J***. 2017 Apr 13; 36 (8):995-1010 Epub 2017 Mar 09
 
-Jin X, Pan Y, Wang L, Zhang L, Ravichandran R, Potts PR, Jiang J, Wu H, Huang H. MAGE-TRIM28 complex promotes the Warburg effect and hepatocellular carcinoma progression by targeting FBP1 for degradation. Oncogenesis. 2017 Apr 10; 6 (4):e312
+26. Jin X, Pan Y, Wang L, Zhang L, Ravichandran R, Potts PR, Jiang J, Wu H, Huang H. MAGE-TRIM28 complex promotes the Warburg effect and hepatocellular carcinoma progression by targeting FBP1 for degradation. ***Oncogenesis***. 2017 Apr 10; 6 (4):e312
 
-McNair C, Urbanucci A, Comstock CE, Augello MA, Goodwin JF, Launchbury R, Zhao SG, Schiewer MJ, Ertel A, Karnes J, Davicioni E, Wang L, Wang Q, Mills IG, Feng FY, Li W, Carroll JS, Knudsen KE. Cell cycle-coupled expansion of AR activity promotes cancer progression. Oncogene. 2017 Mar 23; 36 (12):1655-1668 Epub 2016 Sept 26
+27. McNair C, Urbanucci A, Comstock CE, Augello MA, Goodwin JF, Launchbury R, Zhao SG, Schiewer MJ, Ertel A, Karnes J, Davicioni E, Wang L, Wang Q, Mills IG, Feng FY, Li W, Carroll JS, Knudsen KE. Cell cycle-coupled expansion of AR activity promotes cancer progression. ***Oncogene***. 2017 Mar 23; 36 (12):1655-1668 Epub 2016 Sept 26
 
-Ho TH, Serie DJ, Parasramka M, Cheville JC, Bot BM, Tan W, Wang L, Joseph RW, Hilton T, Leibovich BC, Parker AS, Eckel-Passow JE. Differential gene expression profiling of matched primary renal cell carcinoma and metastases reveals upregulation of extracellular matrix genes. Ann Oncol. 2017 Mar 1; 28 (3):604-610
+28. Ho TH, Serie DJ, Parasramka M, Cheville JC, Bot BM, Tan W, Wang L, Joseph RW, Hilton T, Leibovich BC, Parker AS, Eckel-Passow JE. Differential gene expression profiling of matched primary renal cell carcinoma and metastases reveals upregulation of extracellular matrix genes. ***Ann Oncol***. 2017 Mar 1; 28 (3):604-610
+
+
 
 He Y, Peng S, Wang J, Chen H, Cong X, Chen A, Hu M, Qin M, Wu H, Gao S, Wang L, Wang X, Yi Z, Liu M. Ailanthone targets p23 to overcome MDV3100 resistance in castration-resistant prostate cancer. Nat Commun. 2016 Dec 13; 7:13122
 
