@@ -31,12 +31,20 @@ subtitle: Associate Professor of Biomedical Informatics
 ### Contact
 
 LiguoWang,Ph.D.
+
 DivisionofBiomedicalStatisticsandInformatics
+
 DepartmentofHealthSciencesResearch
+
 HarwickBuilding
+
 200FirstStreetSWRochester,MN55905
+
 Phone:(507)284-8728
+
 Fax:(507)284-0745
+
 E-mail:Wang.Liguo@mayo.edu
+
 https://www.mayoclinic.org/
 
