@@ -1,5 +1,7 @@
 
-## Journal Publications
+## Publications
+
+### Journal Publications
 -----------------------
 
 ### 2019
