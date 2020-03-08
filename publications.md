@@ -67,79 +67,103 @@
 28. Ho TH, Serie DJ, Parasramka M, Cheville JC, Bot BM, Tan W, Wang L, Joseph RW, Hilton T, Leibovich BC, Parker AS, Eckel-Passow JE. Differential gene expression profiling of matched primary renal cell carcinoma and metastases reveals upregulation of extracellular matrix genes. ***Ann Oncol***. 2017 Mar 1; 28 (3):604-610
 
 
+### 2016
 
-He Y, Peng S, Wang J, Chen H, Cong X, Chen A, Hu M, Qin M, Wu H, Gao S, Wang L, Wang X, Yi Z, Liu M. Ailanthone targets p23 to overcome MDV3100 resistance in castration-resistant prostate cancer. Nat Commun. 2016 Dec 13; 7:13122
+29. He Y, Peng S, Wang J, Chen H, Cong X, Chen A, Hu M, Qin M, Wu H, Gao S, Wang L, Wang X, Yi Z, Liu M. Ailanthone targets p23 to overcome MDV3100 resistance in castration-resistant prostate cancer. ***Nat Commun***. 2016 Dec 13; 7:13122
 
-Zhao J, Zhao Y, Wang L, Wang L, Zhang J, Karnes RJ, Kohli M, Wang G, Huang H. Alterations of androgen receptor-regulated enhancer RNAs (eRNAs) contribute to enzalutamide resistance in castration-resistant prostate cancer. Oncotarget. 2016 Jun 21; 7 (25):38551-38565
+30. Zhao J, Zhao Y, Wang L, Wang L, Zhang J, Karnes RJ, Kohli M, Wang G, Huang H. Alterations of androgen receptor-regulated enhancer RNAs (eRNAs) contribute to enzalutamide resistance in castration-resistant prostate cancer. ***Oncotarget***. 2016 Jun 21; 7 (25):38551-38565
 
-Zhao J, Zhao Y, Wang L, Wang L, Zhang J, Karnes RJ, Kohli M, Wang G, Huang H. Alterations of androgen receptor-regulated enhancer RNAs (eRNAs) contribute to enzalutamide resistance in castration-resistant prostate cancer. Oncotarget. 2016 Jun 21; 7 (25):38551-38565
+31. Zhao J, Zhao Y, Wang L, Wang L, Zhang J, Karnes RJ, Kohli M, Wang G, Huang H. Alterations of androgen receptor-regulated enhancer RNAs (eRNAs) contribute to enzalutamide resistance in castration-resistant prostate cancer. ***Oncotarget***. 2016 Jun 21; 7 (25):38551-38565
 
-Blee AM, Liu S, Wang L, Huang H. BET bromodomain-mediated interaction between ERG and BRD4 promotes prostate cancer cell invasion. Oncotarget. 2016 Jun 21; 7 (25):38319-38332
+32. Blee AM, Liu S, Wang L, Huang H. BET bromodomain-mediated interaction between ERG and BRD4 promotes prostate cancer cell invasion. ***Oncotarget***. 2016 Jun 21; 7 (25):38319-38332
 
-Pan CW, Liu H, Zhao Y, Qian C, Wang L, Qi J. JNK2 downregulation promotes tumorigenesis and chemoresistance by decreasing p53 stability in bladder cancer. Oncotarget. 2016 Jun 7; 7 (23):35119-31
+33. Pan CW, Liu H, Zhao Y, Qian C, Wang L, Qi J. JNK2 downregulation promotes tumorigenesis and chemoresistance by decreasing p53 stability in bladder cancer. ***Oncotarget***. 2016 Jun 7; 7 (23):35119-31
 
-Zhao Y, Wang L, Ren S, Wang L, Blackburn PR, McNulty MS, Gao X, Qiao M, Vessella RL, Kohli M, Zhang J, Karnes RJ, Tindall DJ, Kim Y, MacLeod R, Ekker SC, Kang T, Sun Y, Huang H. Activation of P-TEFb by Androgen Receptor-Regulated Enhancer RNAs in Castration-Resistant Prostate Cancer. Cell Rep. 2016 Apr 19; 15 (3):599-610 Epub 2016 Apr 07
+34. Zhao Y, Wang L, Ren S, Wang L, Blackburn PR, McNulty MS, Gao X, Qiao M, Vessella RL, Kohli M, Zhang J, Karnes RJ, Tindall DJ, Kim Y, MacLeod R, Ekker SC, Kang T, Sun Y, Huang H. Activation of P-TEFb by Androgen Receptor-Regulated Enhancer RNAs in Castration-Resistant Prostate Cancer. ***Cell Rep***. 2016 Apr 19; 15 (3):599-610 Epub 2016 Apr 07
 
-Hart SN, Ellingson MS, Schahl K, Vedell PT, Carlson RE, Sinnwell JP, Barman P, Sicotte H, Eckel-Passow JE, Wang L, Kalari KR, Qin R, Kruisselbrink TM, Jimenez RE, Bryce AH, Tan W, Weinshilboum R, Wang L, Kohli M. Determining the frequency of pathogenic germline variants from exome sequencing in patients with castrate-resistant prostate cancer. BMJ Open. 2016 Apr 15; 6 (4):e010332
+35. Hart SN, Ellingson MS, Schahl K, Vedell PT, Carlson RE, Sinnwell JP, Barman P, Sicotte H, Eckel-Passow JE, Wang L, Kalari KR, Qin R, Kruisselbrink TM, Jimenez RE, Bryce AH, Tan W, Weinshilboum R, Wang L, Kohli M. Determining the frequency of pathogenic germline variants from exome sequencing in patients with castrate-resistant prostate cancer. ***BMJ Open***. 2016 Apr 15; 6 (4):e010332
 
-Wang L, Nie J, Sicotte H, Li Y, Eckel-Passow JE, Dasari S, Vedell PT, Barman P, Wang L, Weinshiboum R, Jen J, Huang H, Kohli M, Kocher JP. Measure transcript integrity using RNA-seq data. BMC Bioinformatics. 2016 Feb 3; 17:58 Epub 2016 Feb 03
+36. Wang L, Nie J, Sicotte H, Li Y, Eckel-Passow JE, Dasari S, Vedell PT, Barman P, Wang L, Weinshiboum R, Jen J, Huang H, Kohli M, Kocher JP. Measure transcript integrity using RNA-seq data. ***BMC Bioinformatics***. 2016 Feb 3; 17:58 Epub 2016 Feb 03
 
-Wang D, Ding L, Wang L, Zhao Y, Sun Z, Karnes RJ, Zhang J, Huang H. LncRNA MALAT1 enhances oncogenic activities of EZH2 in castration-resistant prostate cancer. Oncotarget. 2015 Dec 1; 6 (38):41045-55
+### 2015
 
-An J, Ren S, Murphy SJ, Dalangood S, Chang C, Pang X, Cui Y, Wang L, Pan Y, Zhang X, Zhu Y, Wang C, Halling GC, Cheng L, Sukov WR, Karnes RJ, Vasmatzis G, Zhang Q, Zhang J, Cheville JC, Yan J, Sun Y, Huang H. Truncated ERG Oncoproteins from TMPRSS2-ERG Fusions Are Resistant to SPOP-Mediated Proteasome Degradation. Mol Cell. 2015 Sep 17; 59 (6):904-16 Epub 2015 Sept 03
+37. Wang D, Ding L, Wang L, Zhao Y, Sun Z, Karnes RJ, Zhang J, Huang H. LncRNA MALAT1 enhances oncogenic activities of EZH2 in castration-resistant prostate cancer. Oncotarget. 2015 Dec 1; 6 (38):41045-55
 
-Wang L, Nie JJ, Kocher JP. PVAAS: identify variants associated with aberrant splicing from RNA-seq. Bioinformatics. 2015 May 15; 31 (10):1668-70 Epub 2015 Jan 07
+38. An J, Ren S, Murphy SJ, Dalangood S, Chang C, Pang X, Cui Y, Wang L, Pan Y, Zhang X, Zhu Y, Wang C, Halling GC, Cheng L, Sukov WR, Karnes RJ, Vasmatzis G, Zhang Q, Zhang J, Cheville JC, Yan J, Sun Y, Huang H. Truncated ERG Oncoproteins from TMPRSS2-ERG Fusions Are Resistant to SPOP-Mediated Proteasome Degradation. ***Mol Cell***. 2015 Sep 17; 59 (6):904-16 Epub 2015 Sept 03
 
-Chen Z, Lan X, Thomas-Ahner JM, Wu D, Liu X, Ye Z, Wang L, Sunkel B, Grenade C, Chen J, Zynger DL, Yan PS, Huang J, Nephew KP, Huang TH, Lin S, Clinton SK, Li W, Jin VX, Wang Q. Agonist and antagonist switch DNA motifs recognized by human androgen receptor in prostate cancer. EMBO J. 2015 Feb 12; 34: (4)502-16.
+39. Wang L, Nie JJ, Kocher JP. PVAAS: identify variants associated with aberrant splicing from RNA-seq. ***Bioinformatics***. 2015 May 15; 31 (10):1668-70 Epub 2015 Jan 07
 
-Lu J, Lonergan PE, Nacusi LP, Wang L, Schmidt LJ, Sun Z, Van der Steen T, Boorjian SA, Kosari F, Vasmatzis G, Klee GG, Balk SP, Huang H, Wang C, Tindall DJ. The cistrome and gene signature of androgen receptor splice variants in castration resistant prostate cancer cells. J Urol. 2015 Feb; 193 (2):690-8 Epub 2014 Aug 14
+40. Chen Z, Lan X, Thomas-Ahner JM, Wu D, Liu X, Ye Z, Wang L, Sunkel B, Grenade C, Chen J, Zynger DL, Yan PS, Huang J, Nephew KP, Huang TH, Lin S, Clinton SK, Li W, Jin VX, Wang Q. Agonist and antagonist switch DNA motifs recognized by human androgen receptor in prostate cancer. ***EMBO J***. 2015 Feb 12; 34: (4)502-16.
 
-Kohli M, Wang L, Xie F, Sicotte H, Yin P, Dehm SM, Hart SN, Vedell PT, Barman P, Qin R, Mahoney DW, Carlson RE, Eckel-Passow JE, Atwell TD, Eiken PW, McMenomy BP, Wieben ED, Jha G, Jimenez RE, Weinshilboum R, Wang L. Mutational Landscapes of Sequential Prostate Metastases and Matched Patient Derived Xenografts during Enzalutamide Therapy. PLoS One. 2015; 10 (12):e0145176 Epub 2015 Dec 22
+41. Lu J, Lonergan PE, Nacusi LP, Wang L, Schmidt LJ, Sun Z, Van der Steen T, Boorjian SA, Kosari F, Vasmatzis G, Klee GG, Balk SP, Huang H, Wang C, Tindall DJ. The cistrome and gene signature of androgen receptor splice variants in castration resistant prostate cancer cells. ***J Urol***. 2015 Feb; 193 (2):690-8 Epub 2014 Aug 14
 
-Wang L, Huang H, Dougherty G, Zhao Y, Hossain A, Kocher JP. Epidaurus: aggregation and integration analysis of prostate cancer epigenome. Nucleic Acids Res. 2015 Jan; 43 (2):e7 Epub 2014 Nov 05
+42. Kohli M, Wang L, Xie F, Sicotte H, Yin P, Dehm SM, Hart SN, Vedell PT, Barman P, Qin R, Mahoney DW, Carlson RE, Eckel-Passow JE, Atwell TD, Eiken PW, McMenomy BP, Wieben ED, Jha G, Jimenez RE, Weinshilboum R, Wang L. Mutational Landscapes of Sequential Prostate Metastases and Matched Patient Derived Xenografts during Enzalutamide Therapy. ***PLoS One***. 2015; 10 (12):e0145176 Epub 2015 Dec 22
 
-Li X, Nair A, Wang S, Wang L. Quality control of RNA-seq experiments. Methods Mol Biol. 2015; 1269:137-46
+43. Wang L, Huang H, Dougherty G, Zhao Y, Hossain A, Kocher JP. Epidaurus: aggregation and integration analysis of prostate cancer epigenome. ***Nucleic Acids Res***. 2015 Jan; 43 (2):e7 Epub 2014 Nov 05
 
-Wang L, Chen J, Wang C, Uuskula-Reimand L, Chen K, Medina-Rivera A, Young EJ, Zimmermann MT, Yan H, Sun Z, Zhang Y, Wu ST, Huang H, Wilson MD, Kocher JP, Li W. MACE: model based analysis of ChIP-exo. Nucleic Acids Res. 2014 Nov 10; 42 (20):e156 Epub 2014 Sept 23
 
-Sowalsky AG, Xia Z, Wang L, Zhao H, Chen S, Bubley GJ, Balk SP, Li W. Whole Transcriptome Sequencing Reveals Extensive Unspliced mRNA in Metastatic Castration-Resistant Prostate Cancer. Mol Cancer Res. 2014 Sep 04.
+### 2014
 
-Yan H, Evans J, Kalmbach M, Moore R, Middha S, Luban S, Wang L, Bhagwate A, Li Y, Sun Z, Chen X, Kocher JP. HiChIP: a high-throughput pipeline for integrative analysis of ChIP-Seq data. BMC Bioinformatics. 2014 Aug 15; 15:280
+44. Wang L, Chen J, Wang C, Uuskula-Reimand L, Chen K, Medina-Rivera A, Young EJ, Zimmermann MT, Yan H, Sun Z, Zhang Y, Wu ST, Huang H, Wilson MD, Kocher JP, Li W. MACE: model based analysis of ChIP-exo. ***Nucleic Acids Res***. 2014 Nov 10; 42 (20):e156 Epub 2014 Sept 23
 
-Blackmore JK, Karmakar S, Gu G, Chaubal V, Wang L, Li W, Smith CL. The SMRT Coregulator Enhances Growth of Estrogen Receptor-alpha-Positive Breast Cancer Cells by Promotion of Cell Cycle Progression and Inhibition of Apoptosis. Endocrinology. 2014 Jun 27; en20141002.
+45. Sowalsky AG, Xia Z, Wang L, Zhao H, Chen S, Bubley GJ, Balk SP, Li W. Whole Transcriptome Sequencing Reveals Extensive Unspliced mRNA in Metastatic Castration-Resistant Prostate Cancer. ***Mol Cancer Res***. 2014 Sep 04.
 
-Zhao H, Sun Z, Wang J, Huang H, Kocher JP, Wang L. CrossMap: a versatile tool for coordinate conversion between genome assemblies. Bioinformatics. 2014 Apr 1; 30 (7):1006-7 Epub 2013 Dec 18
+46. Yan H, Evans J, Kalmbach M, Moore R, Middha S, Luban S, Wang L, Bhagwate A, Li Y, Sun Z, Chen X, Kocher JP. HiChIP: a high-throughput pipeline for integrative analysis of ChIP-Seq data. ***BMC Bioinformatics***. 2014 Aug 15; 15:280
 
-Adikesavan AK, Karmakar S, Pardo P, Wang L, Liu S, Li W, Smith CL. Activation of p53 transcriptional activity by SMRT: a histone deacetylase 3-independent function of a transcriptional corepressor. Mol Cell Biol. 2014 Apr; 34 (7):1246-61 Epub 2014 Jan 21
+47. Blackmore JK, Karmakar S, Gu G, Chaubal V, Wang L, Li W, Smith CL. The SMRT Coregulator Enhances Growth of Estrogen Receptor-alpha-Positive Breast Cancer Cells by Promotion of Cell Cycle Progression and Inhibition of Apoptosis. ***Endocrinology***. 2014 Jun 27; en20141002.
 
-Ding L, Chen S, Liu P, Pan Y, Zhong J, Regan KM, Wang L, Yu C, Rizzardi A, Cheng L, Zhang J, Schmechel SC, Cheville JC, Van Deursen J, Tindall DJ, Huang H. CBP loss cooperates with PTEN haploinsufficiency to drive prostate cancer: implications for epigenetic therapy. Cancer Res. 2014 Apr 1; 74 (7):2050-61 Epub 2014 Feb 03
+48. Zhao H, Sun Z, Wang J, Huang H, Kocher JP, Wang L. CrossMap: a versatile tool for coordinate conversion between genome assemblies. ***Bioinformatics***. 2014 Apr 1; 30 (7):1006-7 Epub 2013 Dec 18
 
-Wang L, Zeng X, Chen S, Ding L, Zhong J, Zhao JC, Wang L, Sarver A, Koller A, Zhi J, Ma Y, Yu J, Chen J, Huang H. BRCA1 is a negative modulator of the PRC2 complex. EMBO J. 2013 May 29; 32 (11):1584-97 Epub 2013 Apr 26
+49. Adikesavan AK, Karmakar S, Pardo P, Wang L, Liu S, Li W, Smith CL. Activation of p53 transcriptional activity by SMRT: a histone deacetylase 3-independent function of a transcriptional corepressor. ***Mol Cell Biol***. 2014 Apr; 34 (7):1246-61 Epub 2014 Jan 21
 
-Wang L, Park HJ, Dasari S, Wang S, Kocher JP, Li W. CPAT: Coding-Potential Assessment Tool using an alignment-free logistic regression model. Nucleic Acids Res. 2013 Apr 1; 41 (6):e74 Epub 2013 Jan 17
+50. Ding L, Chen S, Liu P, Pan Y, Zhong J, Regan KM, Wang L, Yu C, Rizzardi A, Cheng L, Zhang J, Schmechel SC, Cheville JC, Van Deursen J, Tindall DJ, Huang H. CBP loss cooperates with PTEN haploinsufficiency to drive prostate cancer: implications for epigenetic therapy. ***Cancer Res***. 2014 Apr 1; 74 (7):2050-61 Epub 2014 Feb 03
 
-Sun Z, Asmann YW, Nair A, Zhang Y, Wang L, Kalari KR, Bhagwate AV, Baker TR, Carr JM, Kocher JP, Perez EA, Thompson EA. Impact of library preparation on downstream analysis and interpretation of RNA-Seq data: comparison between Illumina PolyA and NuGEN Ovation protocol. PLoS One. 2013; 8 (8):e71745 Epub 2013 Aug 19
+### 2013
 
-Rijnkels M, Freeman-Zadrowski C, Hernandez J, Potluri V, Wang L, Li W, Lemay DG. Epigenetic modifications unlock the milk protein gene loci during mouse mammary gland development and differentiation. PLoS One. 2013; 8 (1):e53270 Epub 2013 Jan 02
+51. Wang L, Zeng X, Chen S, Ding L, Zhong J, Zhao JC, Wang L, Sarver A, Koller A, Zhi J, Ma Y, Yu J, Chen J, Huang H. BRCA1 is a negative modulator of the PRC2 complex. ***EMBO J***. 2013 May 29; 32 (11):1584-97 Epub 2013 Apr 26
 
-Wang L, Wang S, Li W. RSeQC: quality control of RNA-seq experiments. Bioinformatics. 2012 Aug 15; 28(16):2184-5. Epub 2012 Jun 27.
+52. Wang L, Park HJ, Dasari S, Wang S, Kocher JP, Li W. CPAT: Coding-Potential Assessment Tool using an alignment-free logistic regression model. ***Nucleic Acids Res***. 2013 Apr 1; 41 (6):e74 Epub 2013 Jan 17
 
-Zhang C, Wang L, Wu D, Chen H, Chen Z, Thomas-Ahner JM, Zynger DL, Eeckhoute J, Yu J, Luo J, Brown M, Clinton SK, Nephew KP, Huang TH, Li W, Wang Q. Definition of a FoxA1 Cistrome that is crucial for G1 to S-phase cell-cycle transit in castration-resistant prostate cancer. Cancer Res. 2011 Nov 1; 71(21):6738-48. Epub 2011 Sep 07.
+53. Sun Z, Asmann YW, Nair A, Zhang Y, Wang L, Kalari KR, Bhagwate AV, Baker TR, Carr JM, Kocher JP, Perez EA, Thompson EA. Impact of library preparation on downstream analysis and interpretation of RNA-Seq data: comparison between Illumina PolyA and NuGEN Ovation protocol. ***PLoS One***. 2013; 8 (8):e71745 Epub 2013 Aug 19
 
-Kannan K, Wang L, Wang J, Ittmann MM, Li W, Yen L. Recurrent chimeric RNAs enriched in human prostate cancer identified by deep sequencing. Proc Natl Acad Sci U S A. 2011 May 31; 108(22):9172-7. Epub 2011 May 12.
+54. Rijnkels M, Freeman-Zadrowski C, Hernandez J, Potluri V, Wang L, Li W, Lemay DG. Epigenetic modifications unlock the milk protein gene loci during mouse mammary gland development and differentiation. ***PLoS One***. 2013; 8 (1):e53270 Epub 2013 Jan 02
 
-Klisch TJ, Xi Y, Flora A, Wang L, Li W, Zoghbi HY. In vivo Atoh1 targetome reveals how a proneural transcription factor regulates cerebellar development. Proc Natl Acad Sci U S A. 2011 Feb 22; 108(8):3288-93. Epub 2011 Feb 07.
+### 2012
 
-Daines B, Wang H, Wang L, Li Y, Han Y, Emmert D, Gelbart W, Wang X, Li W, Gibbs R, Chen R. The Drosophila melanogaster transcriptome by paired-end RNA sequencing. Genome Res. 2011 Feb; 21(2):315-24. Epub 2010 Dec 22.
+55. Wang L, Wang S, Li W. RSeQC: quality control of RNA-seq experiments. Bioinformatics. 2012 Aug 15; 28(16):2184-5. Epub 2012 Jun 27.
 
-Chen Z, Wang L, Wang Q, Li W. Histone modifications and chromatin organization in prostate cancer. Epigenomics. 2010 Aug; 2(4):551-60.
+### 2011
 
-Lanz RB, Bulynko Y, Malovannaya A, Labhart P, Wang L, Li W, Qin J, Harper M, O'Malley BW. Global characterization of transcriptional impact of the SRC-3 coregulator. Mol Endocrinol. 2010 Apr; 24(4):859-72. Epub 2010 Feb 24.
+56. Zhang C, Wang L, Wu D, Chen H, Chen Z, Thomas-Ahner JM, Zynger DL, Eeckhoute J, Yu J, Luo J, Brown M, Clinton SK, Nephew KP, Huang TH, Li W, Wang Q. Definition of a FoxA1 Cistrome that is crucial for G1 to S-phase cell-cycle transit in castration-resistant prostate cancer. ***Cancer Res***. 2011 Nov 1; 71(21):6738-48. Epub 2011 Sep 07.
 
-Wang L, Xi Y, Yu J, Dong L, Yen L, Li W. A statistical method for the detection of alternative splicing using RNA-seq. PLoS One. 2010; 5(1):e8529. Epub 2010 Jan 08.
+57. Kannan K, Wang L, Wang J, Ittmann MM, Li W, Yen L. Recurrent chimeric RNAs enriched in human prostate cancer identified by deep sequencing. ***Proc Natl Acad Sci U S A***. 2011 May 31; 108(22):9172-7. Epub 2011 May 12.
 
-Wang L, Hao L, Li X, Hu S, Ge S, Yu J. SNP deserts of Asian cultivated rice: genomic regions under domestication. J Evol Biol. 2009 Apr; 22(4):751-61. Epub 2009 Feb 23.
+58. Klisch TJ, Xi Y, Flora A, Wang L, Li W, Zoghbi HY. In vivo Atoh1 targetome reveals how a proneural transcription factor regulates cerebellar development. ***Proc Natl Acad Sci U S A***. 2011 Feb 22; 108(8):3288-93. Epub 2011 Feb 07.
 
-Li X, Tan L, Wang L, Hu S, Sun C. Isolation and characterization of conserved non-coding sequences among rice (Oryza sativa L.) paralogous regions. Mol Genet Genomics. 2009 Jan; 281(1):11-8. Epub 2008 Sep 30.
+59. Daines B, Wang H, Wang L, Li Y, Han Y, Emmert D, Gelbart W, Wang X, Li W, Gibbs R, Chen R. The Drosophila melanogaster transcriptome by paired-end RNA sequencing. ***Genome Res***. 2011 Feb; 21(2):315-24. Epub 2010 Dec 22.
 
-Wang W, Meng B, Ge X, Song S, Yang Y, Yu X, Wang L, Hu S, Liu S, Yu J. Proteomic profiling of rice embryos from a hybrid rice cultivar and its parental lines. Proteomics. 2008 Nov; 8(22):4808-21. 
+
+### 2010
+
+60. Chen Z, Wang L, Wang Q, Li W. Histone modifications and chromatin organization in prostate cancer. ***Epigenomics***. 2010 Aug; 2(4):551-60.
+
+61. Lanz RB, Bulynko Y, Malovannaya A, Labhart P, Wang L, Li W, Qin J, Harper M, O'Malley BW. Global characterization of transcriptional impact of the SRC-3 coregulator. ***Mol Endocrinol***. 2010 Apr; 24(4):859-72. Epub 2010 Feb 24.
+
+62. Wang L, Xi Y, Yu J, Dong L, Yen L, Li W. A statistical method for the detection of alternative splicing using RNA-seq. ***PLoS One***. 2010; 5(1):e8529. Epub 2010 Jan 08.
+
+### 2009
+
+63. Wang L, Hao L, Li X, Hu S, Ge S, Yu J. SNP deserts of Asian cultivated rice: genomic regions under domestication. ***J Evol Biol***. 2009 Apr; 22(4):751-61. Epub 2009 Feb 23.
+
+64. Li X, Tan L, Wang L, Hu S, Sun C. Isolation and characterization of conserved non-coding sequences among rice (Oryza sativa L.) paralogous regions. ***Mol Genet Genomics***. 2009 Jan; 281(1):11-8. Epub 2008 Sep 30.
+
+
+### 2008
+
+65. Wang W, Meng B, Ge X, Song S, Yang Y, Yu X, Wang L, Hu S, Liu S, Yu J. Proteomic profiling of rice embryos from a hybrid rice cultivar and its parental lines. ***Proteomics***. 2008 Nov; 8(22):4808-21. 
+
+
+
+## Book Chapter
+1. Li X, Nair A, Wang S, Wang L. Quality control of RNA-seq experiments. ***Methods Mol Biol***. 2015; 1269:137-46
+
