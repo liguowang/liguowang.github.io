@@ -25,5 +25,5 @@ subtitle: Associate Professor of Biomedical Informatics
 
 ### Professional Memberships
 
-- [American Association for Cancer Research (AACR)](https://www.aacr.org/)
-- [https://www.aacr.org/](https://www.allianceforclinicaltrialsinoncology.org/)
+- [American Association for Cancer Research](https://www.aacr.org/)
+- [Alliance for Clinical Trials in Oncology](https://www.allianceforclinicaltrialsinoncology.org/)
