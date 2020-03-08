@@ -4,6 +4,11 @@
 ### Journal Publications
 -----------------------
 
+### 2020
+
+
+
+
 ### 2019
 
 1. Wei T, Nie J, Larson NB, Ye Z, Eckel Passow JE, Robertson KD, Kocher JA, Wang L. CpGtools: A Python Package for DNA Methylation Analysis. ***Bioinformatics***. 2019 Dec 6 Epub 2019 Dec 06
@@ -167,6 +172,6 @@
 ## Book Chapter
 ----------------
 
-1. Li X, Nair A, Wang S, Wang L. Quality control of RNA-seq experiments. ***Methods Mol Biol (Springer)***. 2015; 1269:137-46
+1. Li X, Nair A, Wang S, Wang L. Quality control of RNA-seq experiments. ***Methods Mol Biol*** (Springer). 2015; 1269:137-46
 
-2. L. Y, Wang L. RNA coding potential prediction using alignment-free logistic regression model. (Springer, In Press).
+2. L. Y, Wang L. RNA coding potential prediction using alignment-free logistic regression model. (Springer). In Press
