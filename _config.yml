@@ -4,14 +4,14 @@
 title: Liguo Wang's website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Liguo Wang's website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://lwang.org"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -55,10 +55,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#
 # navbar-img: "/img/mississippi_river.png"
 # footer-img: "/img/mississippi_river.png"
-# page-img: "/img/IMG_5909.png"
+page-img: "/img/mississippi_river.png"
 
 # --- Footer options --- #
 
@@ -161,7 +160,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
