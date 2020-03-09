@@ -11,7 +11,7 @@ description: Liguo Wang's website
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://lwang.org"
+url: "https://www.lwang.org"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/mississippi_river.png"
 # footer-img: "/img/mississippi_river.png"
-page-img: "/img/mississippi_river.png"
+# page-img: "/img/mississippi_river.png"
 
 # --- Footer options --- #
 
