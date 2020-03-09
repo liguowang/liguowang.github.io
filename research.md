@@ -3,6 +3,9 @@ layout: default
 title: Research Interests
 ---
 
+## Research Interests
+
+
 ### Bioinformatics tools/algorithms development
 
 As a bioinformatician, I have developed
@@ -22,7 +25,7 @@ sequence features. CPAT is not only accurate (sensitivity: 0.96, specificity: 0.
 but also much more efficient (~10,000 times faster) than other tools, which enables the
 users to process thousands of transcripts within seconds. We also developed a web interface
 for CPAT that allows users to submit sequences and receive the prediction results almost
-instantly ().
+instantly.
 
 - I developed [CrossMap](http://crossmap.sourceforge.net/), a versatile and efficient
 tool for converting genome analysis results between assemblies. It has been used by
