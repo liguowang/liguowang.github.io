@@ -3,8 +3,8 @@ layout: default
 title: Research Interests
 ---
 
-## Research Interests
-
+# Research Interests
+---------------------
 
 ### Bioinformatics tools/algorithms development
 
