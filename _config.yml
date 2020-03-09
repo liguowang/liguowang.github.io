@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 
 #
 navbar-img: "/img/mississippi_river.png"
-# footer-img: "/img/bgimage.png"
+footer-img: "/img/mississippi_river.png"
 # page-img: "/img/IMG_5909.png"
 
 # --- Footer options --- #
