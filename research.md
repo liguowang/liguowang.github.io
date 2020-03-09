@@ -1,3 +1,7 @@
+---
+layout: default
+title: Research Interests
+---
 
 ### Bioinformatics tools/algorithms development
 
