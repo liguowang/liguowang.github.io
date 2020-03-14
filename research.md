@@ -47,7 +47,8 @@ such as DKK4, SFRP2 and LRP6 were more frequently deleted in patients exhibiting
 to abiraterone acetate.
 [Ann Oncol, 2018](https://www.ncbi.nlm.nih.gov/pubmed/29069303)
 
-- Through integrative analyses of the copy-number profiles of 10,759 patients across 31
+- Only a small portion of people who receive immunotherapy will respond to the treatment.
+Through integrative analyses of the copy-number profiles of 10,759 patients across 31
 cancer types from The Cancer Genome Atlas (TCGA) project, we found the homozygous deletion
 of interferon (P = 0.0029, OR = 11.8) and defensin (P = 0.06, OR = 2.79) genes are significantly
 associated with resistance to anti-CTLA4 immunotherapy.
