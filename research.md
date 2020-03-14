@@ -62,3 +62,5 @@ Despite the common gene mutation, A1AD is characterized by marked heterogeneity 
 Through analyzing the DNA methylation (5-methylcytosine [5mC]) profiles of 94 A1AD patients, we identify
 DNA methylation signature that can be used to stratify patients for liver disease risk. 
 [Hepatology, 2019](https://www.ncbi.nlm.nih.gov/pubmed/30681738)
+
+### High dimensional data mining and integration using system biology and machine learning approaches. 
