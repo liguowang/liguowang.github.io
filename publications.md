@@ -25,7 +25,7 @@ subtitle: Liguo Wang's Bibliography
 
 4. Zhao Y, Ding L, Wang D, Ye Z, He Y, Ma L, Zhu R, Pan Y, Wu Q, Pang K, Hou X, Weroha SJ, Han C, Coleman R, Coleman I, Karnes RJ, Zhang J, Nelson PS, **Wang L**, Huang H. EZH2 cooperates with gain-of-function p53 mutants to promote cancer growth and metastasis. ***EMBO J***. 2019 Mar 1; 38 (5) Epub 2019 Feb 05
 
-5. Jimenez RE, Atwell TD, Sicotte H, Eckloff B, **Wang L**, Barman P, Sinnwell JP, Eiken PW, McMenomy BP, Tan W, **Wang L**, Carlson RE, Kohli M. A Prospective Correlation of Tissue Histopathology With Nucleic Acid Yield in Metastatic Castration-Resistant Prostate Cancer Biopsy Specimens. ***Mayo Clin Proc Innov Qual Outcomes***. 2019 Mar; 3 (1):14-22 Epub 2019 Feb 26
+5. Jimenez RE, Atwell TD, Sicotte H, Eckloff B, **Wang L**, Barman P, Sinnwell JP, Eiken PW, McMenomy BP, Tan W, Wang L, Carlson RE, Kohli M. A Prospective Correlation of Tissue Histopathology With Nucleic Acid Yield in Metastatic Castration-Resistant Prostate Cancer Biopsy Specimens. ***Mayo Clin Proc Innov Qual Outcomes***. 2019 Mar; 3 (1):14-22 Epub 2019 Feb 26
 
 6. Jin X, Ding D, Yan Y, Li H, Wang B, Ma L, Ye Z, Ma T, Wu Q, Rodrigues DN, Kohli M, Jimenez R, **Wang L**, Goodrich DW, de Bono J, Dong H, Wu H, Zhu R, Huang H. Phosphorylated RB Promotes Cancer Immunity by Inhibiting NF-kappaB Activation and PD-L1 Expression. ***Mol Cell***. 2019 Jan 3; 73 (1):22-35.e6 Epub 2018 Dec 06
 
@@ -35,13 +35,13 @@ subtitle: Liguo Wang's Bibliography
 
 8. Blee AM, He Y, Yang Y, Ye Z, Yan Y, Pan Y, Ma T, Dugdale J, Kuehn E, Kohli M, Jimenez R, Chen Y, Xu W, **Wang L**#, Huang H. TMPRSS2-ERG Controls Luminal Epithelial Lineage and Antiandrogen Sensitivity in PTEN and TP53-Mutated Prostate Cancer. ***Clin Cancer Res***. 2018 Sep 15; 24 (18):4551-4565 Epub 2018 May 29
 
-9. Kohli M, Li J, Du M, Hillman DW, Dehm SM, Tan W, Carlson R, Campion MB, **Wang L**, Wang L, Zhang H, Zhang P, Kilari D, Huang CC, **Wang L**. Prognostic association of plasma cell-free DNA-based androgen receptor amplification and circulating tumor cells in pre-chemotherapy metastatic castration-resistant prostate cancer patients. ***Prostate Cancer Prostatic Dis***. 2018 Sep; 21 (3):411-418 Epub 2018 June 01
+9. Kohli M, Li J, Du M, Hillman DW, Dehm SM, Tan W, Carlson R, Campion MB, **Wang L**, Wang L, Zhang H, Zhang P, Kilari D, Huang CC, Wang L. Prognostic association of plasma cell-free DNA-based androgen receptor amplification and circulating tumor cells in pre-chemotherapy metastatic castration-resistant prostate cancer patients. ***Prostate Cancer Prostatic Dis***. 2018 Sep; 21 (3):411-418 Epub 2018 June 01
 
 10. Xu Y, Lee JH, Li Z, **Wang L**, Ordog T, Bailey RC. A droplet microfluidic platform for efficient enzymatic chromatin digestion enables robust determination of nucleosome positioning. ***Lab Chip***. 2018 Aug 21; 18 (17):2583-2592
 
 11. Jin X, Yan Y, Wang D, Ding D, Ma T, Ye Z, Jimenez R, **Wang L**, Wu H, Huang H. DUB3 Promotes BET Inhibitor Resistance and Cancer Progression by Deubiquitinating BRD4. ***Mol Cell***. 2018 Aug 16; 71 (4):592-605.e4 Epub 2018 July 26
 
-12. Gao P, Xia JH, Sipeky C, Dong XM, Zhang Q, Yang Y, Zhang P, Cruz SP, Zhang K, Zhu J, Lee HM, Suleman S, Giannareas N, Liu S, Tammela TLJ, Auvinen A, Wang X, Huang Q, **Wang L**, Manninen A, Vaarala MH, **Wang L**, Schleutker J, Wei GH, PRACTICAL Consortium. Biology and Clinical Implications of the 19q13 Aggressive Prostate Cancer Susceptibility Locus. ***Cell***. 2018 Jul 26; 174 (3):576-589.e18 Epub 2018 July 19
+12. Gao P, Xia JH, Sipeky C, Dong XM, Zhang Q, Yang Y, Zhang P, Cruz SP, Zhang K, Zhu J, Lee HM, Suleman S, Giannareas N, Liu S, Tammela TLJ, Auvinen A, Wang X, Huang Q, **Wang L**, Manninen A, Vaarala MH, Wang L, Schleutker J, Wei GH, PRACTICAL Consortium. Biology and Clinical Implications of the 19q13 Aggressive Prostate Cancer Susceptibility Locus. ***Cell***. 2018 Jul 26; 174 (3):576-589.e18 Epub 2018 July 19
 
 13. Ye Z, Dong H, Li Y, Ma T, Huang H, Leong HS, Eckel-Passow J, Kocher JA, Liang H, **Wang L**#. Prevalent Homozygous Deletions of Type I Interferon and Defensin Genes in Human Cancers Associate with Immunotherapy Resistance. ***Clin Cancer Res***. 2018 Jul 15; 24 (14):3299-3308 Epub 2018 Apr 04
 
@@ -53,7 +53,7 @@ subtitle: Liguo Wang's Bibliography
 
 17. He Y, Lu J, Ye Z, Hao S, Wang L, Kohli M, Tindall DJ, Li B, Zhu R, **Wang L**#, Huang H. Androgen receptor splice variants bind to constitutively open chromatin and promote abiraterone-resistant growth of prostate cancer. ***Nucleic Acids Res***. 2018 Feb 28; 46 (4):1895-1911
 
-18. **Wang L**\*, Dehm SM, Hillman DW, Sicotte H, Tan W, Gormley M, Bhargava V, Jimenez R, Xie F, Yin P, Qin S, Quevedo F, Costello BA, Pitot HC, Ho T, Ho T, Bryce AH, Ye Z, Li Y, Eiken P, Vedell PT, Barman P, McMenomy BP, Atwell TD, Carlson RE, Ellingson M, Eckloff BW, Qin R, Ou F, Hart SN, Huang H, Jen J, Wieben ED, Kalari KR, Weinshilboum RM, **Wang L**, Kohli M. A prospective genome-wide study of prostate cancer metastases reveals association of wnt pathway activation and increased cell cycle proliferation with primary resistance to abiraterone acetate-prednisone. ***Ann Oncol***. 2018 Feb 1; 29 (2):352-360
+18. **Wang L**\*, Dehm SM, Hillman DW, Sicotte H, Tan W, Gormley M, Bhargava V, Jimenez R, Xie F, Yin P, Qin S, Quevedo F, Costello BA, Pitot HC, Ho T, Ho T, Bryce AH, Ye Z, Li Y, Eiken P, Vedell PT, Barman P, McMenomy BP, Atwell TD, Carlson RE, Ellingson M, Eckloff BW, Qin R, Ou F, Hart SN, Huang H, Jen J, Wieben ED, Kalari KR, Weinshilboum RM, Wang L, Kohli M. A prospective genome-wide study of prostate cancer metastases reveals association of wnt pathway activation and increased cell cycle proliferation with primary resistance to abiraterone acetate-prednisone. ***Ann Oncol***. 2018 Feb 1; 29 (2):352-360
 
 19. He Y, Zhao Y, **Wang L**, Bohrer LR, Wang L, Pan Y, Wang L, Huang H. LSD1 promotes S-phase entry and tumorigenesis via chromatin co-occupation with E2F1 and selective H3K9 demethylation. ***Oncogene***. 2018 Jan 25; 37 (4):534-543 Epub 2017 Oct 09
 
