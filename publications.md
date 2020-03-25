@@ -12,7 +12,7 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2020
 
-
+1. Du M, Tian Y, Tan W, Wang L, **Wang L**, Kilari D, Huang CC, Wang L, Kohli M. Plasma cell-free DNA-based predictors of response to abiraterone acetate/prednisone and prognostic factors in metastatic castration-resistant prostate cancer. ***Prostate Cancer Prostatic Dis***. 2020 Mar 18. doi: 10.1038/s41391-020-0224-4.
 
 
 ### 2019
