@@ -4,7 +4,7 @@ title: Liguo Wang
 subtitle: Associate Professor of Biomedical Informatics
 ---
 
-### Current Position (2012-)
+### Current Position (2017-)
 
 - Associate Professor of Biomedical Informatics
 - Senior Associate Consultant
