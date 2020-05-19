@@ -7,6 +7,10 @@ title: Research Interests
 ---------------------
 
 ### Bioinformatics tools/algorithms development
+Develop bioinformatics tools and analytic approaches to analyze next generation sequencing
+data including genomic, epigenomic and transcriptomic data. At the same time, we actively
+collaborate with biologists and physician scientists working on prostate cancer, kidney cancer,
+central nervous system (CNS) tumors and other diseases. 
 
 We have developed many useful tools to analyze and visualize high dimensional biomedical data .
 These tools have been widely used by academic institutions and industries, and have been
@@ -34,9 +38,10 @@ is also incorporated into Illumina [BaseSpace cloud computing platform](https://
 
 ### Biomarker discovery
 
-Identification of biomarkers associated with certain phenotype such as drug resistance
-will help design new therapeutic agents, and enable stratified healthcare and precise medicine.
-For example:
+Identification of biomarkers (i.e., SNPs, mutations, DNA methylations, copy number variations,
+RNA splice variants) that are associated with certain phenotypes such as poor prognosis,
+tumor subtypes, drug resistance, etc. With the aim to help developing new therapeutic agents,
+and enable stratified healthcare and precise medicine. For example:
 
 - Identification of genomic and transcriptomic aberrations associated with primary resistance
 to abiraterone acetate (ZYTIGA®) treatments in metastatic castration-resistant prostrate cancer
@@ -63,4 +68,8 @@ Through analyzing the DNA methylation (5-methylcytosine [5mC]) profiles of 94 A1
 DNA methylation signature that can be used to stratify patients for liver disease risk. 
 [Hepatology, 2019](https://www.ncbi.nlm.nih.gov/pubmed/30681738)
 
-### High dimensional data mining and integration using system biology and machine learning approaches. 
+### Data mining and integration 
+
+High dimensional biomedical data mining and integration using system biology and machine
+learning approaches. With the aim to use data science approaches to build descriptive model
+or predictive models to improve healthcare.  
