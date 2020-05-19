@@ -16,13 +16,13 @@ We have developed many useful tools to analyze and visualize high dimensional bi
 These tools have been widely used by academic institutions and industries, and have been
 cited hundreds of times. For example:
 
-- I developed the [RSeQC](http://rseqc.sourceforge.net) package
+- We developed the [RSeQC](http://rseqc.sourceforge.net) package
 to comprehensively evaluate different aspects of RNA-Seq experiments. RSeQC has been
 downloaded tens of thousands of time by people all over the world.  It has been installed
 in institute level computing clusters of many institutions including [NIH](https://hpc.nih.gov/apps/rseqc.html),
 Boston University, Pennsylvania State University (Galaxy platform), etc.
 
--  I developed [CPAT](http://lilab.research.bcm.edu/cpat) - to quickly recognize noncoding
+-  We developed [CPAT](http://lilab.research.bcm.edu/cpat) - to quickly recognize noncoding
 RNAs from protein coding mRNAs. CPAT uses a logistic regression model built with four
 sequence features. CPAT is not only accurate (sensitivity: 0.96, specificity: 0.97),
 but also much more efficient (~10,000 times faster) than other tools, which enables the
@@ -30,7 +30,7 @@ users to process thousands of transcripts within seconds. We also developed a we
 for CPAT that allows users to submit sequences and receive the prediction results almost
 instantly.
 
-- I developed [CrossMap](http://crossmap.sourceforge.net/), a versatile and efficient
+- We developed [CrossMap](http://crossmap.sourceforge.net/), a versatile and efficient
 tool for converting genome analysis results between assemblies. It has been used by
 [Ensembl](http://www.ensembl.org/) since 2015 to lift over genomic analysis results, it
 is also incorporated into Illumina [BaseSpace cloud computing platform](https://basespace.illumina.com/home).
