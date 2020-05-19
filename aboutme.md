@@ -4,11 +4,10 @@ title: Liguo Wang
 subtitle: Associate Professor of Biomedical Informatics
 ---
 
-### Current Position (2017-)
+### Current Position
 
-- Associate Professor of Biomedical Informatics
-- Senior Associate Consultant
-- Mayo Clinic (Rochester MN)
+- Associate Professor of Biomedical Informatics,  Mayo Clinic College of Medicine (2017-)
+- Graduate Faculty of the Bioinformatics and Computational Biology Program, University of Minnesota Rochester (2020-)
 
 ### Education
 
