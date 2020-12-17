@@ -14,6 +14,9 @@ subtitle: Liguo Wang's Bibliography
 
 1. Du M, Tian Y, Tan W, Wang L, **Wang L**, Kilari D, Huang CC, Wang L, Kohli M. Plasma cell-free DNA-based predictors of response to abiraterone acetate/prednisone and prognostic factors in metastatic castration-resistant prostate cancer. ***Prostate Cancer Prostatic Dis***. 2020 Mar 18. doi: 10.1038/s41391-020-0224-4.
 
+2. Liu L, Wang G, **Wang L**, Yu C, Li M, Song S, Hao L, Ma L, Zhang Z. Computational identification and characterization of glioma candidate biomarkers through multi-omics integrative profiling. ***Biol Direct***. 2020 Jun 15; 15 (1):10 Epub 2020 June 15
+
+3. Li Y, **Wang L**#. RNA Coding Potential Prediction Using Alignment-Free Logistic Regression Model.  ***Methods Mol Biol*** (book chapter). 2020 Dec 17. DOI: 10.1007/978-1-0716-1158-6_3
 
 ### 2019
 
