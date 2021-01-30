@@ -10,29 +10,33 @@ subtitle: Liguo Wang's Bibliography
 
 ***\* first author, \# corresponding author***
 
+
+### 2021
+1. Identification of DNA methylation signatures associated with poor outcome in lower-risk Stage, Size, Grade and Necrosis (SSIGN) score clear cell renal cell cancer.	**Clin Epigenetics** 2021 Jan 18; 13(1):12. doi: 10.1186/s13148-020-00998-z.
+
 ### 2020
 
 1. Du M, Tian Y, Tan W, Wang L, **Wang L**, Kilari D, Huang CC, Wang L, Kohli M. Plasma cell-free DNA-based predictors of response to abiraterone acetate/prednisone and prognostic factors in metastatic castration-resistant prostate cancer. ***Prostate Cancer Prostatic Dis***. 2020 Mar 18. doi: 10.1038/s41391-020-0224-4.
 
-2. Liu L, Wang G, **Wang L**, Yu C, Li M, Song S, Hao L, Ma L, Zhang Z. Computational identification and characterization of glioma candidate biomarkers through multi-omics integrative profiling. ***Biol Direct***. 2020 Jun 15; 15 (1):10 Epub 2020 June 15
+2. Liu L, Wang G, **Wang L**, Yu C, Li M, Song S, Hao L, Ma L, Zhang Z. Computational identification and characterization of glioma candidate biomarkers through multi-omics integrative profiling. ***Biol Direct***. 2020 Jun 15; 15 (1):10 Epub 2020 June 15. doi: 10.1186/s13062-020-00264-5.
 
 3. Li Y, **Wang L**#. RNA Coding Potential Prediction Using Alignment-Free Logistic Regression Model.  ***Methods Mol Biol*** (book chapter). 2020 Dec 17. DOI: 10.1007/978-1-0716-1158-6_3
 
 ### 2019
 
-1. Wei T, Nie J, Larson NB, Ye Z, Eckel Passow JE, Robertson KD, Kocher JA, **Wang L**#. CpGtools: A Python Package for DNA Methylation Analysis. ***Bioinformatics***. 2019 Dec 6 Epub 2019 Dec 06
+1. Wei T, Nie J, Larson NB, Ye Z, Eckel Passow JE, Robertson KD, Kocher JA, **Wang L**#. CpGtools: A Python Package for DNA Methylation Analysis. ***Bioinformatics***. 2019 Dec 6 Epub 2019 Dec 06. doi: 10.1093/bioinformatics/btz916.
 
-2. Wang G, Yin H, Li B, Yu C, Wang F, Xu X, Cao J, Bao Y, **Wang L**, Abbasi AA, Bajic VB, Ma L, Zhang Z. Characterization and identification of long non-coding RNAs based on feature relationship. ***Bioinformatics***. 2019 Sep 1; 35 (17):2949-2956
+2. Wang G, Yin H, Li B, Yu C, Wang F, Xu X, Cao J, Bao Y, **Wang L**, Abbasi AA, Bajic VB, Ma L, Zhang Z. Characterization and identification of long non-coding RNAs based on feature relationship. ***Bioinformatics***. 2019 Sep 1; 35 (17):2949-2956. doi: 10.1093/bioinformatics/btz008.
 
-3. **Wang L**\*, Marek GW 3rd\*, Hlady RA\*, Wagner RT, Zhao X, Clark VC, Fan AX, Liu C, Brantly M, Robertson KD. Alpha-1 Antitrypsin Deficiency Liver Disease, Mutational Homogeneity Modulated by Epigenetic Heterogeneity With Links to Obesity. ***Hepatology***. 2019 Jul; 70 (1):51-66 Epub 2019 Mar 20
+3. **Wang L**\*, Marek GW 3rd\*, Hlady RA\*, Wagner RT, Zhao X, Clark VC, Fan AX, Liu C, Brantly M, Robertson KD. Alpha-1 Antitrypsin Deficiency Liver Disease, Mutational Homogeneity Modulated by Epigenetic Heterogeneity With Links to Obesity. ***Hepatology***. 2019 Jul; 70 (1):51-66 Epub 2019 Mar 20. doi: 10.1002/hep.30526.
 
-4. Zhao Y, Ding L, Wang D, Ye Z, He Y, Ma L, Zhu R, Pan Y, Wu Q, Pang K, Hou X, Weroha SJ, Han C, Coleman R, Coleman I, Karnes RJ, Zhang J, Nelson PS, **Wang L**, Huang H. EZH2 cooperates with gain-of-function p53 mutants to promote cancer growth and metastasis. ***EMBO J***. 2019 Mar 1; 38 (5) Epub 2019 Feb 05
+4. Zhao Y, Ding L, Wang D, Ye Z, He Y, Ma L, Zhu R, Pan Y, Wu Q, Pang K, Hou X, Weroha SJ, Han C, Coleman R, Coleman I, Karnes RJ, Zhang J, Nelson PS, **Wang L**, Huang H. EZH2 cooperates with gain-of-function p53 mutants to promote cancer growth and metastasis. ***EMBO J***. 2019 Mar 1; 38 (5) Epub 2019 Feb 05. doi: 10.15252/embj.201899599.
 
-5. Jimenez RE, Atwell TD, Sicotte H, Eckloff B, **Wang L**, Barman P, Sinnwell JP, Eiken PW, McMenomy BP, Tan W, Wang L, Carlson RE, Kohli M. A Prospective Correlation of Tissue Histopathology With Nucleic Acid Yield in Metastatic Castration-Resistant Prostate Cancer Biopsy Specimens. ***Mayo Clin Proc Innov Qual Outcomes***. 2019 Mar; 3 (1):14-22 Epub 2019 Feb 26
+5. Jimenez RE, Atwell TD, Sicotte H, Eckloff B, **Wang L**, Barman P, Sinnwell JP, Eiken PW, McMenomy BP, Tan W, Wang L, Carlson RE, Kohli M. A Prospective Correlation of Tissue Histopathology With Nucleic Acid Yield in Metastatic Castration-Resistant Prostate Cancer Biopsy Specimens. ***Mayo Clin Proc Innov Qual Outcomes***. 2019 Mar; 3 (1):14-22 Epub 2019 Feb 26. doi: 10.1016/j.mayocpiqo.2018.12.005.
 
-6. Jin X, Ding D, Yan Y, Li H, Wang B, Ma L, Ye Z, Ma T, Wu Q, Rodrigues DN, Kohli M, Jimenez R, **Wang L**, Goodrich DW, de Bono J, Dong H, Wu H, Zhu R, Huang H. Phosphorylated RB Promotes Cancer Immunity by Inhibiting NF-kappaB Activation and PD-L1 Expression. ***Mol Cell***. 2019 Jan 3; 73 (1):22-35.e6 Epub 2018 Dec 06
+6. Jin X, Ding D, Yan Y, Li H, Wang B, Ma L, Ye Z, Ma T, Wu Q, Rodrigues DN, Kohli M, Jimenez R, **Wang L**, Goodrich DW, de Bono J, Dong H, Wu H, Zhu R, Huang H. Phosphorylated RB Promotes Cancer Immunity by Inhibiting NF-kappaB Activation and PD-L1 Expression. ***Mol Cell***. 2019 Jan 3; 73 (1):22-35.e6 Epub 2018 Dec 06. Doi: 10.1016/j.molcel.2018.10.034.
 
-7. Ma T, Ye Z, **Wang L**#. Genome Wide Approaches to Identify Protein-DNA Interactions. ***Curr Med Chem***. 2019; 26 (42):7641-7654
+7. Ma T, Ye Z, **Wang L**#. Genome Wide Approaches to Identify Protein-DNA Interactions. ***Curr Med Chem***. 2019; 26 (42):7641-7654. doi: 10.2174/0929867325666180530115711.
 
 ### 2018
 
