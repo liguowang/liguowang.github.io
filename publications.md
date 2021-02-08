@@ -12,7 +12,9 @@ subtitle: Liguo Wang's Bibliography
 
 
 ### 2021
-1. Identification of DNA methylation signatures associated with poor outcome in lower-risk Stage, Size, Grade and Necrosis (SSIGN) score clear cell renal cell cancer.	**Clin Epigenetics** 2021 Jan 18; 13(1):12. doi: 10.1186/s13148-020-00998-z.
+1. Zhou Y, Jin X, Ma J, Ding D, Huang Z, Sheng H, Yan Y, Pan Y, Wei T, **Wang L**, Wu H, Huang H. HDAC5 loss impairs RB repression of pro-oncogenic genes and confers CDK4/6 inhibitor resistance in cancer. **Cancer Res**. 2021 Jan 8;. doi: 10.1158/0008-5472.CAN-20-2828.
+
+2. El Khoury LY, Fu S, Hlady RA, Wagner RT, **Wang L**, Eckel-Passow JE, Castle EP, Stanton ML, Thompson RH, Parker AS, Ho TH, Robertson KD. Identification of DNA methylation signatures associated with poor outcome in lower-risk Stage, Size, Grade and Necrosis (SSIGN) score clear cell renal cell cancer. **Clin Epigenetics** 2021 Jan 18; 13(1):12. doi: 10.1186/s13148-020-00998-z.
 
 ### 2020
 
