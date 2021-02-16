@@ -12,7 +12,7 @@ subtitle: Liguo Wang's Bibliography
 
 
 ### 2021
-1. Tang B, Run R, Wang D, Sheng H, Wei T, **Wang L**, Zhang J, Ho T, Yang L, Wei Q, Hang H. ZMYND8 preferentially binds phosphorylated EZH2 to promote a PRC2-dependent to -independent function switch in hypoxia-inducible factor–activated cancer. Proc Natl Acad Sci USA February 23, 2021 118 (8) e2019052118; doi: 10.1073/pnas.2019052118
+1. Tang B, Run R, Wang D, Sheng H, Wei T, **Wang L**, Zhang J, Ho T, Yang L, Wei Q, Hang H. ZMYND8 preferentially binds phosphorylated EZH2 to promote a PRC2-dependent to -independent function switch in hypoxia-inducible factor–activated cancer. **Proc Natl Acad Sci USA** February 23, 2021 118 (8) e2019052118; doi: 10.1073/pnas.2019052118
 
 2. Wu D, Yan Y, Wei T, Ye Z, Xiao Y, Pan Y, Orme J, Wang D, **Wang L**#, Ren S#, Huang H#. An acetyl-histone vulnerability in PI3K/AKT inhibition-resistant cancers is targetable by both BET and HDAC inhibitors. **Cell Reports** (accepted)
 
