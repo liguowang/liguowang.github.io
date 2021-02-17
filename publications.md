@@ -12,13 +12,17 @@ subtitle: Liguo Wang's Bibliography
 
 
 ### 2021
-1. Tang B, Run R, Wang D, Sheng H, Wei T, **Wang L**, Zhang J, Ho T, Yang L, Wei Q, Hang H. ZMYND8 preferentially binds phosphorylated EZH2 to promote a PRC2-dependent to -independent function switch in hypoxia-inducible factor–activated cancer. **Proc Natl Acad Sci USA** February 23, 2021 118 (8) e2019052118; doi: 10.1073/pnas.2019052118
 
-2. Wu D, Yan Y, Wei T, Ye Z, Xiao Y, Pan Y, Orme J, Wang D, **Wang L**#, Ren S#, Huang H#. An acetyl-histone vulnerability in PI3K/AKT inhibition-resistant cancers is targetable by both BET and HDAC inhibitors. **Cell Reports** (accepted)
+1. Zhou Y, Jin X, Ma J, Ding D, Huang Z, Sheng H, Yan Y, Pan Y, Wei T, **Wang L**, Wu H, Huang H. HDAC5 loss impairs RB repression of pro-oncogenic genes and confers CDK4/6 inhibitor resistance in cancer. **Cancer Res**. 2021 Jan 8;. doi: 10.1158/0008-5472.CAN-20-2828.
 
-3. Zhou Y, Jin X, Ma J, Ding D, Huang Z, Sheng H, Yan Y, Pan Y, Wei T, **Wang L**, Wu H, Huang H. HDAC5 loss impairs RB repression of pro-oncogenic genes and confers CDK4/6 inhibitor resistance in cancer. **Cancer Res**. 2021 Jan 8;. doi: 10.1158/0008-5472.CAN-20-2828.
+2. El Khoury LY, Fu S, Hlady RA, Wagner RT, **Wang L**, Eckel-Passow JE, Castle EP, Stanton ML, Thompson RH, Parker AS, Ho TH, Robertson KD. Identification of DNA methylation signatures associated with poor outcome in lower-risk Stage, Size, Grade and Necrosis (SSIGN) score clear cell renal cell cancer. **Clin Epigenetics** 2021 Jan 18; 13(1):12. doi: 10.1186/s13148-020-00998-z.
 
-4. El Khoury LY, Fu S, Hlady RA, Wagner RT, **Wang L**, Eckel-Passow JE, Castle EP, Stanton ML, Thompson RH, Parker AS, Ho TH, Robertson KD. Identification of DNA methylation signatures associated with poor outcome in lower-risk Stage, Size, Grade and Necrosis (SSIGN) score clear cell renal cell cancer. **Clin Epigenetics** 2021 Jan 18; 13(1):12. doi: 10.1186/s13148-020-00998-z.
+3. Wu D, Yan Y, Wei T, Ye Z, Xiao Y, Pan Y, Orme J, Wang D, **Wang L**#, Ren S#, Huang H#. An acetyl-histone vulnerability in PI3K/AKT inhibition-resistant cancers is targetable by both BET and HDAC inhibitors. **Cell Reports** 2021 Feb 16; doi:https://doi.org/10.1016/j.celrep.2021.108744
+
+4. Tang B, Run R, Wang D, Sheng H, Wei T, **Wang L**, Zhang J, Ho T, Yang L, Wei Q, Hang H. ZMYND8 preferentially binds phosphorylated EZH2 to promote a PRC2-dependent to -independent function switch in hypoxia-inducible factor–activated cancer. **Proc Natl Acad Sci USA** February 23, 2021 118 (8) e2019052118; doi: 10.1073/pnas.2019052118
+
+5. He Y, Wei T, Ye Z, Orme J, Lin D, Sheng H, Fazli L, Karnes R, Jimenez R, **Wang L**, Wang L, Gleave M, Wang Y, Shi L, Huang H. A noncanonical AR addiction drives enzalutamide resistance in prostate cancer. **Nature Communications**
+
 
 ### 2020
 
@@ -26,7 +30,7 @@ subtitle: Liguo Wang's Bibliography
 
 2. Liu L, Wang G, **Wang L**, Yu C, Li M, Song S, Hao L, Ma L, Zhang Z. Computational identification and characterization of glioma candidate biomarkers through multi-omics integrative profiling. ***Biol Direct***. 2020 Jun 15; 15 (1):10 Epub 2020 June 15. doi: 10.1186/s13062-020-00264-5.
 
-3. Li Y, **Wang L**#. RNA Coding Potential Prediction Using Alignment-Free Logistic Regression Model.  ***Methods Mol Biol*** (book chapter). 2020 Dec 17. DOI: 10.1007/978-1-0716-1158-6_3
+3. Li Y, **Wang L**#. RNA Coding Potential Prediction Using Alignment-Free Logistic Regression Model.  ***Methods Mol Biol*** (book chapter). 2020 Dec 17. doi: 10.1007/978-1-0716-1158-6_3
 
 ### 2019
 
