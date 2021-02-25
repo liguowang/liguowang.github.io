@@ -5,7 +5,7 @@ subtitle: Liguo Wang's Bibliography
 ---
 
 
-## Journal Publications 
+## Publications 
 ------------------------
 
 ***\* first author, \# corresponding author***
@@ -23,6 +23,7 @@ subtitle: Liguo Wang's Bibliography
 
 5. He Y, Wei T, Ye Z, Orme J, Lin D, Sheng H, Fazli L, Karnes R, Jimenez R, **Wang L**, Wang L, Gleave M, Wang Y, Shi L, Huang H. A noncanonical AR addiction drives enzalutamide resistance in prostate cancer. **Nature Communications**
 
+6. X Xu, B Wang, Z Jiang, Q Chen, K Mao, X Shi, C Yan, J Hu, Y Zha, C Ma, Zhang J, Guo R, **Wang L**, Zhao S, Liu H, Zhang Q, Zhang Y. Novel risk factors for craniofacial microsomia and assessment of their utility in clinic diagnosis. **Hum Mol Genet**. 2021 Feb 22;ddab055. doi: 10.1093/hmg/ddab055. 
 
 ### 2020
 
@@ -199,6 +200,6 @@ subtitle: Liguo Wang's Bibliography
 
 ## Other resources
 
-- [Mayo Clinic Faculty Profile](https://www.mayo.edu/research/faculty/wang-liguo-ph-d/bio-00055202)
+- [Mayo Clinic Profile](https://www.mayo.edu/research/faculty/wang-liguo-ph-d/bio-00055202)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=9sQzL0IAAAAJ&hl=en)
 - [My NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1rKnDv7Czr9Qi/bibliography/public/)
