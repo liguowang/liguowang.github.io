@@ -33,8 +33,8 @@ subtitle: Associate Professor of Biomedical Informatics
 
 ### Contact
 Liguo Wang, Ph.D.  
-Division of Biomedical Statistics and Informatics  
-Department of Health Sciences Research  
+Division of Computational Biology  
+Department of Quantitative Health Sciences  
 Harwick Building  
 200 First Street SW Rochester, MN 55905  
 Phone:(507)284-8728  
