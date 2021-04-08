@@ -21,9 +21,11 @@ subtitle: Liguo Wang's Bibliography
 
 4. Tang B, Sun R, Wang D, Sheng H, Wei T, **Wang L**, Zhang J, Ho TH, Yang L, Wei Q, Huang H. ZMYND8 preferentially binds phosphorylated EZH2 to promote a PRC2-dependent to -independent function switch in hypoxia-inducible factor–activated cancer. **Proc Natl Acad Sci USA** February 23, 2021 118 (8) e2019052118; doi: 10.1073/pnas.2019052118
 
-5. He Y, Wei T, Ye Z, Orme J, Lin D, Sheng H, Fazli L, Karnes R, Jimenez R, **Wang L**, Wang L, Gleave M, Wang Y, Shi L, Huang H. A noncanonical AR addiction drives enzalutamide resistance in prostate cancer. **Nature Communications**
+5. He Y, Wei T, Ye Z, Orme JJ, Lin D, Sheng H, Fazli L, Jeffrey Karnes R, Jimenez R, **Wang L**, Wang L, Gleave ME, Wang Y, Shi L, Huang H. A noncanonical AR addiction drives enzalutamide resistance in prostate cancer. **Nat Commun**. 2021 Mar 9; 12 (1):1521 Epub 2021 Mar 09
 
-6. X Xu, B Wang, Z Jiang, Q Chen, K Mao, X Shi, C Yan, J Hu, Y Zha, C Ma, Zhang J, Guo R, **Wang L**, Zhao S, Liu H, Zhang Q, Zhang Y. Novel risk factors for craniofacial microsomia and assessment of their utility in clinic diagnosis. **Hum Mol Genet**. 2021 Feb 22;ddab055. doi: 10.1093/hmg/ddab055. 
+6. X Xu, B Wang, Z Jiang, Q Chen, K Mao, X Shi, C Yan, J Hu, Y Zha, C Ma, Zhang J, Guo R, **Wang L**, Zhao S, Liu H, Zhang Q, Zhang Y. Novel risk factors for craniofacial microsomia and assessment of their utility in clinic diagnosis. **Hum Mol Genet**. 2021 Feb 22;ddab055. doi:10.1093/hmg/ddab055. 
+
+7. Cutrer FM, Moyer A, Atkinson E, **Wang L**, Tian S, Wu Y, Garza I, Robertson C, Huebert C, Moore B, Klein CJ. Genetic variants related to successful migraine prophylaxis with verapamil. **Molecular Genetics & Genomic Medicine** 2021 Apr 7. doi:https://doi.org/10.1002/mgg3.1680
 
 ### 2020
 
