@@ -6,7 +6,7 @@ subtitle: Associate Professor of Biomedical Informatics
 
 ### Current Position
 
-- Associate Professor of Biomedical Informatics,  Mayo Clinic College of Medicine (2017-)
+- Associate Professor of Biomedical Informatics, Mayo Clinic College of Medicine (2017-)
 - Faculty, Bioinformatics and Computational Biology Program, University of Minnesota Rochester (2020-)
 
 ### Education
@@ -36,8 +36,8 @@ subtitle: Associate Professor of Biomedical Informatics
 Liguo Wang, Ph.D.  
 Division of Computational Biology  
 Department of Quantitative Health Sciences  
-Harwick Building  
-200 First Street SW Rochester, MN 55905  
+[Harwick Building](https://goo.gl/maps/TpisJE6XZyJaL36t9)  
+200 First Street SW Rochester, MN 55902  
 Phone:(507)284-8728  
 Fax:(507)284-0745  
 E-mail: Wang.Liguo@mayo.edu  
