@@ -7,7 +7,7 @@ subtitle: Associate Professor of Biomedical Informatics
 ### Current Position
 
 - Associate Professor of Biomedical Informatics,  Mayo Clinic College of Medicine (2017-)
-- Graduate Faculty of the Bioinformatics and Computational Biology Program, University of Minnesota Rochester (2020-)
+- Faculty, Bioinformatics and Computational Biology Program, University of Minnesota Rochester (2020-)
 
 ### Education
 
@@ -24,7 +24,8 @@ subtitle: Associate Professor of Biomedical Informatics
 
 ### Professional Memberships
 
-- Member, [American Association for Cancer Research](https://www.aacr.org/)
+- Member, [American Association for Cancer Research, AACR](https://www.aacr.org/)
+- Member, [American Society of Human Genetics, ASHG](https://www.ashg.org/)
 - Faculty, [Alliance for Clinical Trials in Oncology](https://www.allianceforclinicaltrialsinoncology.org/)
 
 ### Journal Editorial
