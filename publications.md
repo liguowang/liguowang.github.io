@@ -12,20 +12,21 @@ subtitle: Liguo Wang's Bibliography
 
 
 ### 2021
+1. Wei T, Lu J, Ma T, Huang H, Kocher JP, **Wang L**#. Re-evaluate fusion genes in prostate cancer. **Cancer Informatics** 2021; (accepted)
 
-1. Zhou Y, Jin X, Ma J, Ding D, Huang Z, Sheng H, Yan Y, Pan Y, Wei T, **Wang L**, Wu H, Huang H. HDAC5 loss impairs RB repression of pro-oncogenic genes and confers CDK4/6 inhibitor resistance in cancer. **Cancer Res**. 2021 Jan 8;. doi: 10.1158/0008-5472.CAN-20-2828.
+2. Zhou Y, Jin X, Ma J, Ding D, Huang Z, Sheng H, Yan Y, Pan Y, Wei T, **Wang L**, Wu H, Huang H. HDAC5 loss impairs RB repression of pro-oncogenic genes and confers CDK4/6 inhibitor resistance in cancer. **Cancer Res**. 2021 Jan 8;. doi: 10.1158/0008-5472.CAN-20-2828.
 
-2. El Khoury LY, Fu S, Hlady RA, Wagner RT, **Wang L**, Eckel-Passow JE, Castle EP, Stanton ML, Thompson RH, Parker AS, Ho TH, Robertson KD. Identification of DNA methylation signatures associated with poor outcome in lower-risk Stage, Size, Grade and Necrosis (SSIGN) score clear cell renal cell cancer. **Clin Epigenetics** 2021 Jan 18; 13(1):12. doi: 10.1186/s13148-020-00998-z.
+3. El Khoury LY, Fu S, Hlady RA, Wagner RT, **Wang L**, Eckel-Passow JE, Castle EP, Stanton ML, Thompson RH, Parker AS, Ho TH, Robertson KD. Identification of DNA methylation signatures associated with poor outcome in lower-risk Stage, Size, Grade and Necrosis (SSIGN) score clear cell renal cell cancer. **Clin Epigenetics** 2021 Jan 18; 13(1):12. doi: 10.1186/s13148-020-00998-z.
 
-3. Wu D, Yan Y, Wei T, Ye Z, Xiao Y, Pan Y, Orme J, Wang D, **Wang L**#, Ren S#, Huang H#. An acetyl-histone vulnerability in PI3K/AKT inhibition-resistant cancers is targetable by both BET and HDAC inhibitors. **Cell Rep**. 2021 Feb 16;34(7):108744. doi: 10.1016/j.celrep.2021.108744.
+4. Wu D, Yan Y, Wei T, Ye Z, Xiao Y, Pan Y, Orme J, Wang D, **Wang L**#, Ren S#, Huang H#. An acetyl-histone vulnerability in PI3K/AKT inhibition-resistant cancers is targetable by both BET and HDAC inhibitors. **Cell Rep**. 2021 Feb 16;34(7):108744. doi: 10.1016/j.celrep.2021.108744.
 
-4. Tang B, Sun R, Wang D, Sheng H, Wei T, **Wang L**, Zhang J, Ho TH, Yang L, Wei Q, Huang H. ZMYND8 preferentially binds phosphorylated EZH2 to promote a PRC2-dependent to -independent function switch in hypoxia-inducible factor–activated cancer. **Proc Natl Acad Sci USA** February 23, 2021 118 (8) e2019052118; doi: 10.1073/pnas.2019052118
+5. Tang B, Sun R, Wang D, Sheng H, Wei T, **Wang L**, Zhang J, Ho TH, Yang L, Wei Q, Huang H. ZMYND8 preferentially binds phosphorylated EZH2 to promote a PRC2-dependent to -independent function switch in hypoxia-inducible factor–activated cancer. **Proc Natl Acad Sci USA** February 23, 2021 118 (8) e2019052118; doi: 10.1073/pnas.2019052118
 
-5. He Y, Wei T, Ye Z, Orme JJ, Lin D, Sheng H, Fazli L, Jeffrey Karnes R, Jimenez R, **Wang L**, Wang L, Gleave ME, Wang Y, Shi L, Huang H. A noncanonical AR addiction drives enzalutamide resistance in prostate cancer. **Nat Commun**. 2021 Mar 9; 12 (1):1521 Epub 2021 Mar 09
+6. He Y, Wei T, Ye Z, Orme JJ, Lin D, Sheng H, Fazli L, Jeffrey Karnes R, Jimenez R, **Wang L**, Wang L, Gleave ME, Wang Y, Shi L, Huang H. A noncanonical AR addiction drives enzalutamide resistance in prostate cancer. **Nat Commun**. 2021 Mar 9; 12 (1):1521 Epub 2021 Mar 09
 
-6. X Xu, B Wang, Z Jiang, Q Chen, K Mao, X Shi, C Yan, J Hu, Y Zha, C Ma, Zhang J, Guo R, **Wang L**, Zhao S, Liu H, Zhang Q, Zhang Y. Novel risk factors for craniofacial microsomia and assessment of their utility in clinic diagnosis. **Hum Mol Genet**. 2021 Feb 22;ddab055. doi:10.1093/hmg/ddab055. 
+7. X Xu, B Wang, Z Jiang, Q Chen, K Mao, X Shi, C Yan, J Hu, Y Zha, C Ma, Zhang J, Guo R, **Wang L**, Zhao S, Liu H, Zhang Q, Zhang Y. Novel risk factors for craniofacial microsomia and assessment of their utility in clinic diagnosis. **Hum Mol Genet**. 2021 Feb 22;ddab055. doi:10.1093/hmg/ddab055. 
 
-7. Cutrer FM, Moyer A, Atkinson E, **Wang L**, Tian S, Wu Y, Garza I, Robertson C, Huebert C, Moore B, Klein CJ. Genetic variants related to successful migraine prophylaxis with verapamil. **Molecular Genetics & Genomic Medicine** 2021 Apr 7. doi:https://doi.org/10.1002/mgg3.1680
+8. Cutrer FM, Moyer A, Atkinson E, **Wang L**, Tian S, Wu Y, Garza I, Robertson C, Huebert C, Moore B, Klein CJ. Genetic variants related to successful migraine prophylaxis with verapamil. **Molecular Genetics & Genomic Medicine** 2021 Apr 7. doi:https://doi.org/10.1002/mgg3.1680
 
 ### 2020
 
