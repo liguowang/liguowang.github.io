@@ -18,7 +18,7 @@ subtitle: Liguo Wang's Bibliography
 
 2. Wei T, Lu J, Ma T, Huang H, Kocher JP, **Wang L**#. Re-evaluate fusion genes in prostate cancer. **Cancer Informatics** 2021; doi: 10.1177/11769351211027592. (accepted)
 
-3. He Y, **Wang L**, Wei T, Xiao YT, Sheng H, Su H, Hollern DP, Zhang X, Ma J, Wen S, Xie H, Yan Y, Pan Y, Hou X, Tang X, Suman VJ, Carter JM, Weinshilboum R, Wang L, Kalari KR, Weroha SJ, Bryce AH, Boughey JC, Dong H, Perou CM, Ye D, Goetz MP, Ren S, Huang H. FOXA1 overexpression suppresses interferon signaling and immune response in cancer. J Clin Invest. 2021 Jun 8 Epub 2021 June 08. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34101624/)
+3. He Y, **Wang L**, Wei T, Xiao YT, Sheng H, Su H, Hollern DP, Zhang X, Ma J, Wen S, Xie H, Yan Y, Pan Y, Hou X, Tang X, Suman VJ, Carter JM, Weinshilboum R, Wang L, Kalari KR, Weroha SJ, Bryce AH, Boughey JC, Dong H, Perou CM, Ye D, Goetz MP, Ren S, Huang H. FOXA1 overexpression suppresses interferon signaling and immune response in cancer. **J Clin Invest**. 2021 Jun 8 Epub 2021 June 08. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34101624/)
 
 4. Zhou Y, Jin X, Ma J, Ding D, Huang Z, Sheng H, Yan Y, Pan Y, Wei T, **Wang L**, Wu H, Huang H. HDAC5 loss impairs RB repression of pro-oncogenic genes and confers CDK4/6 inhibitor resistance in cancer. **Cancer Res**. 2021 Jan 8;. doi: 10.1158/0008-5472.CAN-20-2828. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33419772/)
 
