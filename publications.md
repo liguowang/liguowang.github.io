@@ -14,7 +14,7 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2021
 
-1. Wu D, **Wang L**, Huang H. Protocol for capture of massive histone acetylation. **STAR Protocols** 2021 (accepted)
+1. Wu D, **Wang L**, Huang H. Protocol to apply spike-in ChIP-seq to capture massive histone acetylation in human cells. **STAR Protocols** 2021 Jul 17;  doi: 10.1016/j.xpro.2021.100681. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34337446/)
 
 2. Wei T, Lu J, Ma T, Huang H, Kocher JP, **Wang L**#. Re-evaluate fusion genes in prostate cancer. **Cancer Informatics** 2021 Jun 21; doi: 10.1177/11769351211027592. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34234399/)
 
