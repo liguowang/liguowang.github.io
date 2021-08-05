@@ -6,8 +6,6 @@ subtitle: Collaborative projects
 
 I serve as the co-investigator/collaborator, and provides bioinformatics supports for these projects:
 
----
-
 **Active**
 
 ---
