@@ -10,13 +10,13 @@ I serve as the co-investigator/collaborator, and provides bioinformatics support
 
 ---
 
-+ **Title**: Alliance Statistics and Data Management Center
+**Title**: Alliance Statistics and Data Management Center
 + **Funding Mechanism**: U10
 + **Source of Support**: NIH/NCI
 + **Start and End Date**: 2021-2025
 + **PI**: Mandrekar
 
-- **Title**: Mayo Comprehensive Cancer Center Grant
+**Title**: Mayo Comprehensive Cancer Center Grant
 - **Funding Mechanism**: P30
 - **Source of Support**: NIH/NCI
 - **Start and End Date**: 2021 \- 2024
