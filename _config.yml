@@ -23,9 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Collaboration: "collaboration"
-  Publications: "publications"
+  Publication: "publications"
   Software: "software"
-  Links:
+  Other Links:
     - Google Scholar: "https://scholar.google.com/citations?user=9sQzL0IAAAAJ&hl=en"
     - Academic Profile: "https://www.mayo.edu/research/faculty/wang-liguo-ph-d/bio-00055202"
     - ORCiD: "https://orcid.org/0000-0003-2072-4826"
