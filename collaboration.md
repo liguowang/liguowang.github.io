@@ -28,20 +28,26 @@ Discovery and validation of non-invasive epigenetic biomarkers for AATD liver di
 - **Start and End Date**: 2020 \- 2021
 - **PI**: Robertson
 
+Single-cell transcriptional and epigenomic dissection to identify therapeutic targets for ALS and FTD. 
+- **Funding Mechanism**: R01
+- **Source of Support**: NIH/NIA
+- **Start and End Date**: 2020 \- 2021
+- **PI**: Belzil
+
 Epigenetic Heterogeneity as a Driver of Liver Disease and Cancer
-- **Funding Mechanism**: RO1
+- **Funding Mechanism**: R01
 - **Source of Support**: NIH/NIAAA
 - **Start and End Date**: 2018 \- 2023
 - **PI**: Robertson
 
 Epigenetic Mechanisms Underlying Hepatitis C-Induced Hepatocarcinogenesis
-- **Funding Mechanism**: RO1
+- **Funding Mechanism**: R01
 - **Source of Support**: NIH/NCI
 - **Start and End Date**: 2017 \- 2022
 - **PI**: Robertson
 
 Deciphering the interplay between H3K36 and DNA methylation in renal cancer
-- **Funding Mechanism**: RO1
+- **Funding Mechanism**: R01
 - **Source of Support**: NIH/NCI
 - **Start and End Date**: 2018 \- 2023
 - **PI**: Robertson
@@ -53,19 +59,19 @@ Understanding the interactions between germline and somatic alterations in the p
 - **PI**: Jenkins
 
 Role of proinflammatory cytokine-induced AR degradation in castration-resistant prostate cancer
-- **Funding Mechanism**: RO1
+- **Funding Mechanism**: R01
 - **Source of Support**: NIH/NCI
 - **Start and End Date**: 2018 \- 2023
 - **PI**: Huang
 
 Role of FOXO1 Inactivation in Prostate Tumorigenesis
-- **Funding Mechanism**: RO1
+- **Funding Mechanism**: R01
 - **Source of Support**: NIH/NCI
 - **Start and End Date**: 2015 \- 2021
 - **PI**: Huang
 
 Role of proinflammatory cytokine-induced AR degradation in castration-resistant prostate cancer
-- **Funding Mechanism**: RO1
+- **Funding Mechanism**: R01
 - **Source of Support**: NIH/NCI
 - **Start and End Date**: 2017 \- 2022
 - **PI**: Huang
@@ -81,7 +87,7 @@ Migraine genomic marker discovery
 ---
 
 Role of RUNX2 in prostate cancer intratumoral androgen synthesis and progression
-- **Funding Mechanism**: RO1
+- **Funding Mechanism**: R01
 - **Source of Support**: NIH/NCI
 - **Start and End Date**: 2015 \- 2020
 - **PI**: Huang
