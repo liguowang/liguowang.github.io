@@ -41,7 +41,7 @@ subtitle: Collaborative projects
 
 - **Title**: Epigenetic Mechanisms Underlying Hepatitis C-Induced Hepatocarcinogenesis
 - **Funding Mechanism**: RO1
-- **Source of Support**: NIH/NIAAA
+- **Source of Support**: NIH/NCI
 - **Start and End Date**: 2017 - 2022
 - **PI**: Robertson
 - **Role**: Co-investigator
