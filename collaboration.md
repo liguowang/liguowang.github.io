@@ -31,8 +31,8 @@ Discovery and validation of non-invasive epigenetic biomarkers for AATD liver di
 Single-cell transcriptional and epigenomic dissection to identify therapeutic targets for ALS and FTD. 
 - **Funding Mechanism**: R01
 - **Source of Support**: NIH/NIA
-- **Start and End Date**: 2020 \- 2021
-- **PI**: Belzil
+- **Start and End Date**: 2021 \- 2025
+- **PI**: Belzil/Kellis
 
 Epigenetic Heterogeneity as a Driver of Liver Disease and Cancer
 - **Funding Mechanism**: R01
