@@ -4,7 +4,7 @@ title: Collaborations
 subtitle: Collaborative projects
 ---
 
-I serve as the co-investigator/collaborator, and provides bioinformatics supports for these projects:
+I am serving as the co-investigator/collaborator, and providing bioinformatics supports for these projects:
 
 **Active**
 
