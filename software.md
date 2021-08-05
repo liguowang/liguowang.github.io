@@ -63,6 +63,7 @@ subtitle: Bioinformatics Tools
 - [Documentation](https://cpgtools.readthedocs.io/en/latest) 
 - [Paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz916/5663456)
 
-### [Spiker](https://spiker.readthedocs.io/en/latest/) is a Python package to analzye Spike-In ChIP-seq data.
+### [Spiker](https://spiker.readthedocs.io/en/latest/)
+- Spiker is a Python package to analzye Spike-In ChIP-seq data.
 - [Documentation](https://spiker.readthedocs.io/en/latest/)
 - [Paper](https://pubmed.ncbi.nlm.nih.gov/34337446/) 
