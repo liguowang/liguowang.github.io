@@ -53,7 +53,7 @@ Deciphering the interplay between H3K36 and DNA methylation in renal cancer
 - **PI**: Robertson
 
 Understanding the interactions between germline and somatic alterations in the pathogenesis of gliomas
-- **Funding Mechanism**: RO1
+- **Funding Mechanism**: R01
 - **Start and End Date**: 2018 \- 2023
 - **Source of Support**: NIH/NCI
 - **PI**: Jenkins
