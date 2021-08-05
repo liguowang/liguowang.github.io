@@ -4,9 +4,13 @@ title: Collaborations
 subtitle: Collaborative projects
 ---
 
-## I serve as the co-investigator/collaborator, and provides bioinformatics supports for these projects:
+I serve as the co-investigator/collaborator, and provides bioinformatics supports for these projects:
 
-### Active
+---
+
+**Active**
+
+---
 
 - **Title**: Alliance Statistics and Data Management Center
 - **Funding Mechanism**: U10
@@ -74,7 +78,9 @@ subtitle: Collaborative projects
 - **Start and End Date**: 2019 - 2024
 - **PI**: Cutrer
 
-### Completed
+**Completed**
+
+---
 
 - **Title**: Role of RUNX2 in prostate cancer intratumoral androgen synthesis and progression
 - **Funding Mechanism**: RO1
