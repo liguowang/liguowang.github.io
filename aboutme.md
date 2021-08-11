@@ -34,8 +34,9 @@ subtitle: Associate Professor of Biomedical Informatics
 
 ### Contact
 Liguo Wang, Ph.D.  
-Division of Computational Biology  
-Department of Quantitative Health Sciences  
+Division of Computational Biology, Department of Quantitative Health Sciences
+[Center for Individualized Medicine](https://www.mayo.edu/research/centers-programs/center-individualized-medicine)
+Department of Biochemistry and Molecular Biology (joint appointment)
 [Harwick Building](https://goo.gl/maps/TpisJE6XZyJaL36t9)  
 200 First Street SW Rochester, MN 55902  
 Phone:(507)284-8728  
