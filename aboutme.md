@@ -37,7 +37,6 @@ Liguo Wang, Ph.D.
 Division of Computational Biology
 Department of Quantitative Health Sciences
 Center for Individualized Medicine
-Department of Biochemistry and Molecular Biology (joint appointment)
 200 First Street SW Rochester, MN 55902  
 Phone:(507)284-8728  
 Fax:(507)284-0745  
