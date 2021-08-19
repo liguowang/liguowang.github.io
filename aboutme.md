@@ -33,13 +33,13 @@ subtitle: Associate Professor of Biomedical Informatics
 - Associate editor, [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/about)
 
 ### Contact
-Liguo Wang, Ph.D.  
+
+Liguo Wang, Ph.D.
 Division of Computational Biology
 Department of Quantitative Health Sciences
 Center for Individualized Medicine
-200 First Street SW Rochester, MN 55902  
-Phone:(507)284-8728  
-Fax:(507)284-0745  
-E-mail: Wang.Liguo@mayo.edu  
-[https://www.mayoclinic.org](https://www.mayoclinic.org)  
-
+200 First Street SW Rochester, MN 55902
+Phone:(507)284-8728
+Fax:(507)284-0745
+E-mail: Wang.Liguo@mayo.edu
+[https://www.mayoclinic.org](https://www.mayoclinic.org)
