@@ -105,5 +105,10 @@ Targeting aberrant AR-FL and AR-V expression and activity to overcome therapy re
 - **PI**: Huang
 
 
+Mechanism of Action and Disease Relevance of Androgen Receptor-Bound Enhancer RNAs (AR-eRNAs) in Prostate Cancer
+- **Funding Mechanism**: Internal
+- **Source of Support**: Mayo Cilnic
+- **Start and End Date**: 2015 \- 2017
+- **PI**: Huang
 
 
