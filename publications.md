@@ -14,7 +14,7 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2021
 
-1. SPOP mutation induces replication over-firing by impairing Geminin ubiquitination and triggers replication catastrophe upon ATR inhibition. **Nat Commun**. (acceputed)
+1. SPOP mutation induces replication over-firing by impairing Geminin ubiquitination and triggers replication catastrophe upon ATR inhibition. **Nat Commun**. (accepted)
 
 2. Lavoie RR, Gargollo PC, Ahmed ME, Kim Y, Baer E, Phelps DA, Charlesworth CM, Madden BJ, **Wang L**, Houghton PJ, Cheville J, Dong H, Granberg CF, Lucien F. Surfaceome Profiling of Rhabdomyosarcoma Reveals B7-H3 as a Mediator of Immune Evasion. **Cancers**. 2021; 13(18):4528. doi: https://doi.org/10.3390/cancers13184528
 
