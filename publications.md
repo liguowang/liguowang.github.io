@@ -216,4 +216,8 @@ subtitle: Liguo Wang's Bibliography
 
 2. L. Y, **Wang L**#. *RNA coding potential prediction using alignment-free logistic regression model*. (Springer). [View PubMed](https://pubmed.ncbi.nlm.nih.gov/33326068/)
 
+## Other resources
 
+- [Mayo Clinic Profile](https://www.mayo.edu/research/faculty/wang-liguo-ph-d/bio-00055202)
+- [Google Scholar Profile](https://scholar.google.com/citations?user=9sQzL0IAAAAJ&hl=en)
+- [My NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1rKnDv7Czr9Qi/bibliography/public/)
