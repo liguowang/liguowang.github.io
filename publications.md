@@ -14,11 +14,11 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2021
 
-1. SPOP mutation induces replication over-firing by impairing Geminin ubiquitination and triggers replication catastrophe upon ATR inhibition. **Nat Commun**. (accepted)
+1. *SPOP mutation induces replication over-firing by impairing Geminin ubiquitination and triggers replication catastrophe upon ATR inhibition*. **Nat Commun**. (accepted)
 
-2. Lavoie RR, Gargollo PC, Ahmed ME, Kim Y, Baer E, Phelps DA, Charlesworth CM, Madden BJ, **Wang L**, Houghton PJ, Cheville J, Dong H, Granberg CF, Lucien F. Surfaceome Profiling of Rhabdomyosarcoma Reveals B7-H3 as a Mediator of Immune Evasion. **Cancers**. 2021; 13(18):4528. doi: https://doi.org/10.3390/cancers13184528
+2. Lavoie RR, Gargollo PC, Ahmed ME, Kim Y, Baer E, Phelps DA, Charlesworth CM, Madden BJ, **Wang L**, Houghton PJ, Cheville J, Dong H, Granberg CF, Lucien F. *Surfaceome Profiling of Rhabdomyosarcoma Reveals B7-H3 as a Mediator of Immune Evasion*. **Cancers**. 2021; 13(18):4528. doi: https://doi.org/10.3390/cancers13184528
 
-3. Wu D, **Wang L**, Huang H. Protocol to apply spike-in ChIP-seq to capture massive histone acetylation in human cells. **STAR Protocols** 2021 Jul 17;  doi: 10.1016/j.xpro.2021.100681. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34337446/)
+3. Wu D, **Wang L**, Huang H. *Protocol to apply spike-in ChIP-seq to capture massive histone acetylation in human cells*. **STAR Protocols** 2021 Jul 17;  doi: 10.1016/j.xpro.2021.100681. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34337446/)
 
 4. Wei T, Lu J, Ma T, Huang H, Kocher JP, **Wang L**#. Re-evaluate fusion genes in prostate cancer. **Cancer Informatics** 2021 Jun 21; doi: 10.1177/11769351211027592. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34234399/)
 
