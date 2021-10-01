@@ -16,7 +16,7 @@ subtitle: Liguo Wang's Bibliography
 
 1. *SPOP mutation induces replication over-firing by impairing Geminin ubiquitination and triggers replication catastrophe upon ATR inhibition*. **Nat Commun**. (accepted)
 
-2. Zhang J, Gao K, Xie H, Wang D, Zhang P, Wei T, Yan Y, Pan Y, Ye W, Chen H, Shi Q, Li Y, Zhao SM, Hou X, Weroha SJ, Wang Y, Zhang J, Karnes RJ, He HH, **Wang L**, Wang C, Huang H. *SPOP mutation induces DNA methylation via stabilizing GLP/G9a8. **Nat Commun**.  DOI: 10.1038/s41467-021-25951-3. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34588438/)
+2. Zhang J, Gao K, Xie H, Wang D, Zhang P, Wei T, Yan Y, Pan Y, Ye W, Chen H, Shi Q, Li Y, Zhao SM, Hou X, Weroha SJ, Wang Y, Zhang J, Karnes RJ, He HH, **Wang L**, Wang C, Huang H. *SPOP mutation induces DNA methylation via stabilizing GLP/G9a8*. **Nat Commun**.  DOI: 10.1038/s41467-021-25951-3. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34588438/)
 
 3. Lavoie RR, Gargollo PC, Ahmed ME, Kim Y, Baer E, Phelps DA, Charlesworth CM, Madden BJ, **Wang L**, Houghton PJ, Cheville J, Dong H, Granberg CF, Lucien F. *Surfaceome Profiling of Rhabdomyosarcoma Reveals B7-H3 as a Mediator of Immune Evasion*. **Cancers**. 2021; 13(18):4528. doi: https://doi.org/10.3390/cancers13184528. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34572755/)
 
