@@ -58,7 +58,7 @@ subtitle: Bioinformatics Tools
 
 ### [CpGtools](https://cpgtools.readthedocs.io/en/latest/)
 
-- CpGtools is a Python package to perform DNA methylation analysis. 
+- CpGtools is a Python package to perform DNA methylation analysis. This package consists of three types of modules: (i) 'CpG position modules' focus on analyzing the genomic positions of CpGs, including associating other genomic and epigenomic features to a given list of CpGs and generating the DNA motif logo enriched in the genomic contexts of a given list of CpGs; (ii) 'CpG signal modules' are designed to analyze DNA methylation values, such as performing the PCA or t-SNE analyses, using Bayesian Gaussian mixture modeling to classify CpG sites into fully methylated, partially methylated and unmethylated groups, profiling the average DNA methylation level over user-specified genomics regions and generating the bean/violin plots and (iii) 'differential CpG analysis modules' focus on identifying differentially methylated CpGs between groups using different statistical methods including Fisher's Exact Test, Student's t-test, ANOVA, non-parametric tests, linear regression, logistic regression, beta-binomial regression and Bayesian estimation.
 - [Website](https://github.com/liguowang/cpgtools)
 - [Documentation](https://cpgtools.readthedocs.io/en/latest) 
 - [Paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz916/5663456)
@@ -69,5 +69,5 @@ subtitle: Bioinformatics Tools
 - [Paper](https://pubmed.ncbi.nlm.nih.gov/34337446/)
 
 ### [cobind](https://cobind.readthedocs.io/en/latest/)
-- Collocation analysis of genomic intervals
+- Collocation analysis of genomic intervals.
 - Manuscript in preparation
