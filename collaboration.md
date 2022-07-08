@@ -11,57 +11,57 @@ I am serving as the co-investigator/collaborator, and providing bioinformatics s
 ---
 
 Title: Alliance Statistics and Data Management Center Grant
-+ **Major Goals**: The major goal of this project is to serve as the Statistics and Data Management Center for all research conducted by the Alliance for Clinical Trials in Oncology, which is a multi-institution, multi-specialty oncology research organization.
++ **Major Goals**: *The major goal of this project is to serve as the Statistics and Data Management Center for all research conducted by the Alliance for Clinical Trials in Oncology, which is a multi-institution, multi-specialty oncology research organization*.
 + **Project Number**: U10CA 180882-8
 + **Source of Support**: NIH/NCI
 + **Start and End Date**: 2019 \- 2025
 + **PI**: Mandrekar S.
 
 Title: Spatially-resolved protein and transcriptome mapping of senescent cells
-+ **Major Goals**: The primary goal of this project is to develop and optimize iterative and complementary high-dimensional multimarker imaging and spatial transcriptomic methods to phenotype senescent cells in aged mouse tissues.
++ **Major Goals**: *The primary goal of this project is to develop and optimize iterative and complementary high-dimensional multimarker imaging and spatial transcriptomic methods to phenotype senescent cells in aged mouse tissues*.
 + **Project Number**: 1UG3CA 275669-01
 + **Source of Support**: NIH
 + **Start and End Date**: 2022 \- 2026
 + **PI**: Schafer M.
 
 Title: Cooperativity of TMPRSS2-ERG fusion with p53 inactivation in prostate cancer pathogenesis
-+ **Major Goals**: The primary goal of this project is to determine the molecular mechanism of TMPRSS2-ERG fusion gene and p53 inactivation in prostate cancer development and progression.
++ **Major Goals**: *The primary goal of this project is to determine the molecular mechanism of TMPRSS2-ERG fusion gene and p53 inactivation in prostate cancer development and progression*.
 + **Project Number**: R01CA 271486-1
 + **Source of Support**: NIH/NCI
 + **Start and End Date**: 2023 \- 2027
 + **PI**: Huang H.
 
 Title: Role of proinflammatory cytokine-induced AR degradation in castration-resistant prostate cancer
-+ **Major Goals**: The primary goal of this project is to determine the molecular mechanism and functional importance of IKK-mediated AR degradation in response to the inflammatory cytokine in PCa cells.
++ **Major Goals**: *The primary goal of this project is to determine the molecular mechanism and functional importance of IKK-mediated AR degradation in response to the inflammatory cytokine in PCa cells*.
 + **Project Number**: RO1CA 130908-12
 + **Source of Support**: NIH/NCI
 + **Start and End Date**: 2017 \- 2023
 + **PI**: Huang H.
 
 Title: Mechanism and role of aberrant AR activity in castration-resistant prostate cancer
-+ **Major Goals**: The goal of this project is to elucidate the aberrant AR activity during prostate cancer progression and the relationship with therapeutic resistance.
++ **Major Goals**: *The goal of this project is to elucidate the aberrant AR activity during prostate cancer progression and the relationship with therapeutic resistance*.
 + **Project Number**: RO1CA 203849-4
 + **Source of Support**: NIH/NCI
 + **Start and End Date**: 2018 \- 2023
 + **PI**: Huang H.
 
 
-Understanding the interactions between germline and somatic alterations in the pathogenesis of gliomas
-+ **Major Goals**: The goals of this project is to evaluate the clinical relevance of combined germline and somatic alterations associated with IDH-mutant glioma and characterize the functional implication of the known and newly identified glioma germline variants in the context of IDH-mutant glioma.
+Title: Understanding the interactions between germline and somatic alterations in the pathogenesis of gliomas
++ **Major Goals**: *The goals of this project is to evaluate the clinical relevance of combined germline and somatic alterations associated with IDH-mutant glioma and characterize the functional implication of the known and newly identified glioma germline variants in the context of IDH-mutant glioma*.
 + **Project Number**: RO1CA 230712-4
 - **Start and End Date**: 2018 \- 2023
 - **Source of Support**: NIH/NCI
 - **PI**: Jenkins R.
 
 Title: Epigenetic Mechanisms Underlying Hepatitis C-Induced Hepatocarcinogenesis
-- **Major Goals**: The goal of this project is to determine how acute and chronic HCV infection deregulates DNA methylation and hydroxymethylation patterns to promote hepatitis, fibrosis, liver disease, and eventual progression to hepatocellular cancer. The project also seeks to identify epigenetic markers of this progression.
+- **Major Goals**: *The goal of this project is to determine how acute and chronic HCV infection deregulates DNA methylation and hydroxymethylation patterns to promote hepatitis, fibrosis, liver disease, and eventual progression to hepatocellular cancer. The project also seeks to identify epigenetic markers of this progression*.
 - **Project Number**: R01DK 110024-4
 - **Source of Support**: NIH/NCI
 - **Start and End Date**: 2017 \- 2022
 - **PI**: Robertson K.
 
 Title: Discovery and validation of non-invasive epigenetic biomarkers for AATD liver disease
-- **Major Goals**: Identification of predictive DNA methylation markers for Alpha-1 antitrypsin deficiency liver disease.
+- **Major Goals**: *Identification of predictive DNA methylation markers for Alpha-1 antitrypsin deficiency liver disease*.
 - **Project Number**: 682189
 - **Source of Support**: Alpha 1 foundation
 - **Start and End Date**: 2020 \- 2022
@@ -69,7 +69,7 @@ Title: Discovery and validation of non-invasive epigenetic biomarkers for AATD l
 
 
 Title: Identify the genomic biomarkers of migraine
-- **Major Goals**: The goal of this project is to identify genomic variants and develop polygenic scores to predict migraine patients’ response to Atenolol and Topiramate treatment.
+- **Major Goals**: *The goal of this project is to identify genomic variants and develop polygenic scores to predict migraine patients’ response to Atenolol and Topiramate treatment*.
 - **Project Number**: N/A
 - **Source of Support**: Benefactor
 - **Start and End Date**: 2019 \- 2024
@@ -77,14 +77,14 @@ Title: Identify the genomic biomarkers of migraine
 
 
 Title: Single-cell transcriptional and epigenomic dissection to identify therapeutic targets for ALS and FTD. 
-- **Major Goals**: (1) Profile the transcriptional and epigenomic alterations of FTLD and ALS patients at single-cell resolution using post-mortem brain samples. (2) Study the link between genetic, epigenomic, transcriptional, and cellular signatures of FTLD and ALS, and to study the common and distinct genes and pathways altered in each, to predict new therapeutic targets.
+- **Major Goals**: *(1) Profile the transcriptional and epigenomic alterations of FTLD and ALS patients at single-cell resolution using post-mortem brain samples. (2) Study the link between genetic, epigenomic, transcriptional, and cellular signatures of FTLD and ALS, and to study the common and distinct genes and pathways altered in each, to predict new therapeutic targets*.
 - **Project Number**: R01AG067151
 - **Source of Support**: NIH/NIA
 - **Start and End Date**: 2021 \- 2025
 - **PI**: Belzil/Kellis
 
 Title: Epigenetic Heterogeneity as a Driver of Liver Disease and Cancer
-- **Major Goals**: The goal of this project is to elucidate the functional impacts of DNA methylation heterogeneities in liver disease and cancer. 
+- **Major Goals**: *The goal of this project is to elucidate the functional impacts of DNA methylation heterogeneities in liver disease and cancer*. 
 - **Project Number**: R01AA 27179
 - **Source of Support**: National Institute on Alcohol Abuse and Alcoholism
 - **Start and End Date**: 2018 \- 2023
