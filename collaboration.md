@@ -93,13 +93,13 @@ Title: Epigenetic Heterogeneity as a Driver of Liver Disease and Cancer
 
 ---
 
-The role of EZH2 in PTEN-deficient prostate cancer pathogenesis and therapy
+Title: The role of EZH2 in PTEN-deficient prostate cancer pathogenesis and therapy
 - **Project Number**: W81XWH-14-1-0486 
 - **Source of Support**: U.S. Department of Defense
 - **Start and End Date**: 2014 \- 2017
 - **PI**: Huang H.
 
-Targeting aberrant AR-FL and AR-V expression and activity to overcome therapy resistance in metastatic castration-resistant prostate cancer
+Title: Targeting aberrant AR-FL and AR-V expression and activity to overcome therapy resistance in metastatic castration-resistant prostate cancer
 - **Project Number**: N/A
 - **Source of Support**: Prostate Cancer Foundation (PCF)
 - **Start and End Date**: 2014 \- 2017
