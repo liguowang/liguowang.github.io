@@ -76,7 +76,7 @@ Title: Identify the genomic biomarkers of migraine
 
 
 Title: Single-cell transcriptional and epigenomic dissection to identify therapeutic targets for ALS and FTD. 
-_ **Major Goals**: (1) Profile the transcriptional and epigenomic alterations of FTLD and ALS patients at single-cell resolution using post-mortem brain samples. (2) Study the link between genetic, epigenomic, transcriptional, and cellular signatures of FTLD and ALS, and to study the common and distinct genes and pathways altered in each, to predict new therapeutic targets.
+- **Major Goals**: (1) Profile the transcriptional and epigenomic alterations of FTLD and ALS patients at single-cell resolution using post-mortem brain samples. (2) Study the link between genetic, epigenomic, transcriptional, and cellular signatures of FTLD and ALS, and to study the common and distinct genes and pathways altered in each, to predict new therapeutic targets.
 - **Project Number**: R01AG067151
 - **Source of Support**: NIH/NIA
 - **Start and End Date**: 2021 \- 2025
