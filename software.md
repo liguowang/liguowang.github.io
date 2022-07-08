@@ -68,6 +68,6 @@ subtitle: Bioinformatics Tools
 - [Documentation](https://spiker.readthedocs.io/en/latest/)
 - [Paper](https://pubmed.ncbi.nlm.nih.gov/34337446/)
 
-### [cobind] (https://cobind.readthedocs.io/en/latest/)
+### [cobind](https://cobind.readthedocs.io/en/latest/)
 - Collocation analysis of genomic intervals
 - Manuscript in preparation
