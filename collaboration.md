@@ -34,7 +34,6 @@ Title: Cooperativity of TMPRSS2-ERG fusion with p53 inactivation in prostate can
 Title: Role of proinflammatory cytokine-induced AR degradation in castration-resistant prostate cancer
 + **Major Goals**: The primary goal of this project is to determine the molecular mechanism and functional importance of IKK-mediated AR degradation in response to the inflammatory cytokine in PCa cells.
 + **Project Number**: RO1CA 130908-12
-+ **Funding Mechanism**: RO1
 + **Source of Support**: NIH/NCI
 + **Start and End Date**: 2017 \- 2023
 + **PI**: Huang H.
@@ -62,6 +61,7 @@ Title: Epigenetic Mechanisms Underlying Hepatitis C-Induced Hepatocarcinogenesis
 - **PI**: Robertson K.
 
 Title: Discovery and validation of non-invasive epigenetic biomarkers for AATD liver disease
+- **Major Goals**: Identification of predictive DNA methylation markers for Alpha-1 antitrypsin deficiency liver disease.
 - **Project Number**: 682189
 - **Source of Support**: Alpha 1 foundation
 - **Start and End Date**: 2020 \- 2022
@@ -71,6 +71,7 @@ Title: Discovery and validation of non-invasive epigenetic biomarkers for AATD l
 Title: Identify the genomic biomarkers of migraine
 - **Major Goals**: The goal of this project is to identify genomic variants and develop polygenic scores to predict migraine patients’ response to Atenolol and Topiramate treatment.
 - **Project Number**: N/A
+- **Source of Support**: Benefactor
 - **Start and End Date**: 2019 \- 2024
 - **PI**: Cutrer M.
 
