@@ -69,5 +69,5 @@ subtitle: Bioinformatics Tools
 - [Paper](https://pubmed.ncbi.nlm.nih.gov/34337446/)
 
 ### [cobind](https://cobind.readthedocs.io/en/latest/)
-- Collocation analysis of genomic intervals.
+- Collocated genomic intervals indicate biological association. The conventional approach to evaluate the strength of collocation involves arbitrary thresholds to decide the total number of overlapped genomic regions, which leads to biased, non-reproducible, and incomparable results. The cobind package provides six different metrics to measure the strength of overlapping between two sets of genomic intervals. Using transcription factor ChIP-seq, bulk and single-cell ATAC-seq data.  We demonstrated that the normalized pointwise mutual information (NPMI) and collocation coefficient (C) are the best metrics to quantify genomic collocation, which successfully distinguished CTCF’s co-factors from over 1200 transcription factors and revealed potential master regulators from tissue and cell type specific open chromatin regions. 
 - Manuscript in preparation
