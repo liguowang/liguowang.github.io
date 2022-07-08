@@ -49,8 +49,8 @@ Title: Mechanism and role of aberrant AR activity in castration-resistant prosta
 Title: Understanding the interactions between germline and somatic alterations in the pathogenesis of gliomas
 + **Major Goals**: *The goals of this project is to evaluate the clinical relevance of combined germline and somatic alterations associated with IDH-mutant glioma and characterize the functional implication of the known and newly identified glioma germline variants in the context of IDH-mutant glioma*.
 + **Project Number**: RO1CA 230712-4
-- **Start and End Date**: 2018 \- 2023
 - **Source of Support**: NIH/NCI
+- **Start and End Date**: 2018 \- 2023
 - **PI**: Jenkins R.
 
 Title: Epigenetic Mechanisms Underlying Hepatitis C-Induced Hepatocarcinogenesis
