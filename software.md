@@ -66,4 +66,8 @@ subtitle: Bioinformatics Tools
 ### [Spiker](https://spiker.readthedocs.io/en/latest/)
 - Spiker is a Python package to analzye Spike-In ChIP-seq data.
 - [Documentation](https://spiker.readthedocs.io/en/latest/)
-- [Paper](https://pubmed.ncbi.nlm.nih.gov/34337446/) 
+- [Paper](https://pubmed.ncbi.nlm.nih.gov/34337446/)
+
+### [cobind] (https://cobind.readthedocs.io/en/latest/)
+- Collocation analysis of genomic intervals
+- Manuscript in preparation
