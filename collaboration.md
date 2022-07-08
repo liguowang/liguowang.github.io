@@ -10,6 +10,12 @@ I am serving as the co-investigator/collaborator, and providing bioinformatics s
 
 ---
 
+Spatially-resolved protein and transcriptome mapping of senescent cells
++ **Funding Mechanism**: UG3/UH3
++ **Source of Support**: NIH
++ **Start and End Date**: 2022 \- 2026
++ **PI**: Schafer
+
 Alliance Statistics and Data Management Center Grant
 + **Funding Mechanism**: U10
 + **Source of Support**: NIH/NCI
@@ -25,7 +31,7 @@ Mayo Comprehensive Cancer Center Grant
 Discovery and validation of non-invasive epigenetic biomarkers for AATD liver disease
 - **Funding Mechanism**: Foundation
 - **Source of Support**: Alpha 1 foundation
-- **Start and End Date**: 2020 \- 2021
+- **Start and End Date**: 2020 \- 2022
 - **PI**: Robertson
 
 Single-cell transcriptional and epigenomic dissection to identify therapeutic targets for ALS and FTD. 
