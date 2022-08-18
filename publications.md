@@ -15,7 +15,7 @@ subtitle: Liguo Wang's Bibliography
 
 1. Sun R, Wei T, Ding D, Zhang J, Chen S, He H. H, **Wang L**, Huang H. *CYCLIN K downregulation induces androgen receptor gene intronic polyadenylation and castration resistance in prostate cancer*. **Proceedings of the National Academy of Sciences (PNAS)** (accepted)
 
-2. Li, Q., Y. Zhang, Z. Zhang, A. L. Oberg, D. E. Kozono, H. Lu, J. N. Sarkaria, L. Ma, and L. Wang. *Identify non-mutational p53 loss of function in human cancers*. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.28.501874v1.full) (Under review)
+2. Li Q, Zhang Y, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L, and **Wang L**. *Identify non-mutational p53 loss of function in human cancers*. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.07.28.501874v1.full) (Under review)
 
 3. Yanchus, Connor, et al. *A non-coding single nucleotide polymorphism at 8q24 drives IDH1-mutant glioma formation*. [medRxiv](https://www.medrxiv.org/content/10.1101/2022.03.08.22272044v1.full-text) (Under review)
 
