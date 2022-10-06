@@ -22,7 +22,7 @@ subtitle: Liguo Wang's Bibliography
 
 3. Connor Yanchus, Kristen L. Drucker, Thomas M. Kollmeyer, Ricky Tsai, Minggao Liang, Lingyan Jiang, Judy Pawling, Asma Ali, Paul Decker, Matt Kosel, Arijit Panda, Ahmad Malik, Khalid N. Al-Zahrani, J. Javier Hernandez, Musaddeque Ahmed, Sampath Kumar Loganathan, Daniel Trcka, Antony Michaelraj, Jerome Fortin, Parisa Mazrooei, Lily Zhou, Andrew Elia, Mathieu Lupien, Housheng Hansen He, **Liguo Wang**, Alexej Abyzov, James W. Dennis, Michael D. Wilson, Jeffrey Wrana, Daniel Lachance, Margaret Wrensch, John Wiencke, Len A. Pennacchio, Diane E. Dickel, Axel Visel, Michael Taylor, Gelareh Zadeh, Peter Dirks, Jeanette E. Eckel-Passow, Tak Mak, Evgeny Kvon, Robert B. Jenkins, Daniel Schramek. *A non-coding single nucleotide polymorphism at 8q24 drives IDH1-mutant glioma formation*. **Science**. 2022. (accepted, [medRxiv](https://www.medrxiv.org/content/10.1101/2022.03.08.22272044v1.full-text))
 
-4. Sun R, Wei T, Ding D, Zhang J, Chen S, He H. H, **Wang L**, Huang H. *CYCLIN K downregulation induces androgen receptor gene intronic polyadenylation and castration resistance in prostate cancer*. **Proceedings of the National Academy of Sciences**. Proc Natl Acad Sci U S A. 2022 Sep 27;119(39):e2205509119. doi: 10.1073/pnas.2205509119. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/36129942/)
+4. Sun R, Wei T, Ding D, Zhang J, Chen S, He H. H, **Wang L**, Huang H. *CYCLIN K downregulation induces androgen receptor gene intronic polyadenylation and castration resistance in prostate cancer*. **Proc Natl Acad Sci U S A**. 2022 Sep 27;119(39):e2205509119. doi: 10.1073/pnas.2205509119. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/36129942/)
 
 
 ### 2021
