@@ -12,7 +12,6 @@ subtitle: Liguo Wang's Bibliography
 ---
 
 
-
 ### 2022
 
 
@@ -26,6 +25,7 @@ subtitle: Liguo Wang's Bibliography
 
 5. Sun R, Wei T, Ding D, Zhang J, Chen S, He H. H, **Wang L**, Huang H. [CYCLIN K downregulation induces androgen receptor gene intronic polyadenylation and castration resistance in prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36129942/). **Proc Natl Acad Sci U S A**. 2022 Sep 27;119(39):e2205509119. doi: 10.1073/pnas.2205509119.
 
+---
 
 ### 2021
 
@@ -60,6 +60,8 @@ subtitle: Liguo Wang's Bibliography
 
 15. Cutrer FM, Moyer A, Atkinson E, **Wang L**, Tian S, Wu Y, Garza I, Robertson C, Huebert C, Moore B, Klein CJ. [Genetic variants related to successful migraine prophylaxis with verapamil](https://pubmed.ncbi.nlm.nih.gov/33829662/). **Molecular Genetics & Genomic Medicine** 2021 Apr 7. doi:https://doi.org/10.1002/mgg3.1680.
 
+---
+
 ### 2020
 
 1. Du M, Tian Y, Tan W, Wang L, **Wang L**, Kilari D, Huang CC, Wang L, Kohli M. [Plasma cell-free DNA-based predictors of response to abiraterone acetate/prednisone and prognostic factors in metastatic castration-resistant prostate cancer](https://pubmed.ncbi.nlm.nih.gov/32203070/). ***Prostate Cancer Prostatic Dis***. 2020 Mar 18. doi: 10.1038/s41391-020-0224-4.
@@ -67,6 +69,8 @@ subtitle: Liguo Wang's Bibliography
 2. Liu L, Wang G, **Wang L**, Yu C, Li M, Song S, Hao L, Ma L, Zhang Z. [Computational identification and characterization of glioma candidate biomarkers through multi-omics integrative profiling](https://pubmed.ncbi.nlm.nih.gov/32539851/). ***Biol Direct***. 2020 Jun 15; 15 (1):10 Epub 2020 June 15. doi: 10.1186/s13062-020-00264-5.
 
 3. Li Y, **Wang L**#. [RNA Coding Potential Prediction Using Alignment-Free Logistic Regression Model](https://pubmed.ncbi.nlm.nih.gov/33326068/).  ***Methods Mol Biol*** (book chapter). 2020 Dec 17. doi: 10.1007/978-1-0716-1158-6_3.
+
+---
 
 ### 2019
 
@@ -83,6 +87,8 @@ subtitle: Liguo Wang's Bibliography
 6. Jin X, Ding D, Yan Y, Li H, Wang B, Ma L, Ye Z, Ma T, Wu Q, Rodrigues DN, Kohli M, Jimenez R, **Wang L**, Goodrich DW, de Bono J, Dong H, Wu H, Zhu R, Huang H. [Phosphorylated RB Promotes Cancer Immunity by Inhibiting NF-kappaB Activation and PD-L1 Expression](https://pubmed.ncbi.nlm.nih.gov/30527665/). ***Mol Cell***. 2019 Jan 3; 73 (1):22-35.e6 Epub 2018 Dec 06. Doi: 10.1016/j.molcel.2018.10.034.
 
 7. Ma T, Ye Z, **Wang L**#. [Genome Wide Approaches to Identify Protein-DNA Interactions](https://pubmed.ncbi.nlm.nih.gov/29848263/). ***Curr Med Chem***. 2019; 26 (42):7641-7654. doi: 10.2174/0929867325666180530115711.
+
+---
 
 ### 2018
 
@@ -110,6 +116,8 @@ subtitle: Liguo Wang's Bibliography
 
 12. He Y, Zhao Y, **Wang L**, Bohrer LR, Wang L, Pan Y, Wang L, Huang H. [LSD1 promotes S-phase entry and tumorigenesis via chromatin co-occupation with E2F1 and selective H3K9 demethylation](https://pubmed.ncbi.nlm.nih.gov/28991226/). ***Oncogene***. 2018 Jan 25;37(4):534-543. doi: 10.1038/onc.2017.353.
 
+---
+
 ### 2017
 
 1. Zhang X, Saarinen AM, Hitosugi T, Wang Z, **Wang L**, Ho TH, Liu J. [Inhibition of intracellular lipolysis promotes human cancer cell adaptation to hypoxia](https://pubmed.ncbi.nlm.nih.gov/29256392/). ***Elife***. 2017 Dec 19;6:e31132. doi: 10.7554/eLife.31132.
@@ -130,6 +138,7 @@ subtitle: Liguo Wang's Bibliography
 
 9. Ho TH, Serie DJ, Parasramka M, Cheville JC, Bot BM, Tan W, **Wang L**, Joseph RW, Hilton T, Leibovich BC, Parker AS, Eckel-Passow JE. [Differential gene expression profiling of matched primary renal cell carcinoma and metastases reveals upregulation of extracellular matrix genes](https://pubmed.ncbi.nlm.nih.gov/27993815/). ***Ann Oncol***. 2017 Mar 1;28(3):604-610. doi: 10.1093/annonc/mdw652.
 
+---
 
 ### 2016
 
@@ -146,6 +155,8 @@ subtitle: Liguo Wang's Bibliography
 6. Hart SN, Ellingson MS, Schahl K, Vedell PT, Carlson RE, Sinnwell JP, Barman P, Sicotte H, Eckel-Passow JE, **Wang L**, Kalari KR, Qin R, Kruisselbrink TM, Jimenez RE, Bryce AH, Tan W, Weinshilboum R, Wang L, Kohli M. [Determining the frequency of pathogenic germline variants from exome sequencing in patients with castrate-resistant prostate cancer](https://pubmed.ncbi.nlm.nih.gov/27084275/). ***BMJ Open***. 2016 Apr 15;6(4):e010332. doi: 10.1136/bmjopen-2015-010332.
 
 7. **Wang L**\*, Nie J\*, Sicotte H, Li Y, Eckel-Passow JE, Dasari S, Vedell PT, Barman P, Wang L, Weinshiboum R, Jen J, Huang H, Kohli M, Kocher JP. [Measure transcript integrity using RNA-seq data](https://pubmed.ncbi.nlm.nih.gov/26842848/). ***BMC Bioinformatics***. 2016 Feb 3;17:58. doi: 10.1186/s12859-016-0922-z.
+
+---
 
 ### 2015
 
@@ -165,6 +176,7 @@ subtitle: Liguo Wang's Bibliography
 
 8. Sowalsky AG, Xia Z, **Wang L**, Zhao H, Chen S, Bubley GJ, Balk SP, Li W. [Whole Transcriptome Sequencing Reveals Extensive Unspliced mRNA in Metastatic Castration-Resistant Prostate Cancer](https://pubmed.ncbi.nlm.nih.gov/25189356/). ***Mol Cancer Res***. 2015 Jan;13(1):98-106. doi: 10.1158/1541-7786.MCR-14-0273.
 
+---
 
 ### 2014
 
@@ -180,6 +192,7 @@ subtitle: Liguo Wang's Bibliography
 
 6. Ding L, Chen S, Liu P, Pan Y, Zhong J, Regan KM, **Wang L**, Yu C, Rizzardi A, Cheng L, Zhang J, Schmechel SC, Cheville JC, Van Deursen J, Tindall DJ, Huang H. [CBP loss cooperates with PTEN haploinsufficiency to drive prostate cancer: implications for epigenetic therapy](https://pubmed.ncbi.nlm.nih.gov/24491799/). ***Cancer Res***. 2014 Apr 1;74(7):2050-61. doi: 10.1158/0008-5472.CAN-13-1659.
 
+---
 
 ### 2013
 
@@ -191,11 +204,13 @@ subtitle: Liguo Wang's Bibliography
 
 4. Rijnkels M, Freeman-Zadrowski C, Hernandez J, Potluri V, **Wang L**, Li W, Lemay DG. [Epigenetic modifications unlock the milk protein gene loci during mouse mammary gland development and differentiation](https://pubmed.ncbi.nlm.nih.gov/23301053/). ***PLoS One***. 2013;8(1):e53270. doi: 10.1371/journal.pone.0053270.
 
+---
 
 ### 2012
 
 1. **Wang L**\*, Wang S, Li W. [RSeQC: quality control of RNA-seq experiments](https://pubmed.ncbi.nlm.nih.gov/22743226/). **Bioinformatics**.  2012 Aug 15;28(16):2184-5. doi: 10.1093/bioinformatics/bts356.
 
+---
 
 ### 2011
 
@@ -208,6 +223,7 @@ subtitle: Liguo Wang's Bibliography
 5. Daines B\*, Wang H\*, **Wang L**\*, Li Y, Han Y, Emmert D, Gelbart W, Wang X, Li W, Gibbs R, Chen R. [The Drosophila melanogaster transcriptome by paired-end RNA sequencing](https://pubmed.ncbi.nlm.nih.gov/21177959/). ***Genome Res***. 2011 Feb;21(2):315-24. doi: 10.1101/gr.107854.110.
 
 
+---
 
 ### 2010
 
@@ -218,6 +234,7 @@ subtitle: Liguo Wang's Bibliography
 3. **Wang L**\*, Xi Y, Yu J, Dong L, Yen L, Li W. [A statistical method for the detection of alternative splicing using RNA-seq](https://pubmed.ncbi.nlm.nih.gov/20072613/)
 . ***PLoS One***. 2010 Jan 8;5(1):e8529. doi: 10.1371/journal.pone.0008529.
 
+---
 
 ### 2009
 
@@ -226,6 +243,7 @@ subtitle: Liguo Wang's Bibliography
 2. Li X, Tan L, **Wang L**, Hu S, Sun C. [Isolation and characterization of conserved non-coding sequences among rice (Oryza sativa L.) paralogous regions](https://pubmed.ncbi.nlm.nih.gov/18825415/). ***Mol Genet Genomics***. 2009 Jan;281(1):11-8. doi: 10.1007/s00438-008-0388-4. Epub 2008 Sep 30.
 
 
+---
 
 ### 2008
 
@@ -233,9 +251,9 @@ subtitle: Liguo Wang's Bibliography
 
 
 
+---
 
 ## Book Chapter
-----------------
 
 1. Li X, Nair A, Wang S, **Wang L**#. [Quality control of RNA-seq experiments](https://pubmed.ncbi.nlm.nih.gov/25577376/). **Methods Mol Biol**. (Springer). 2015;1269:137-46. doi: 10.1007/978-1-4939-2291-8_8.
 
