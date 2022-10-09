@@ -7,9 +7,11 @@ subtitle: Liguo Wang's Bibliography
 
 ## Publications 
 
+***\* first author, \# corresponding author***
+
 ---
 
-***\* first author, \# corresponding author***
+
 
 ### 2022
 
