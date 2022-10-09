@@ -14,7 +14,6 @@ subtitle: Liguo Wang's Bibliography
 ### 2022
 
 
-
 1. Li Q, Zhang Y, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L, and **Wang L**#. [Identify non-mutational p53 loss of function in human cancers](https://www.biorxiv.org/content/10.1101/2022.07.28.501874v1.full). (Submitted)
 
 2. Ma T, Guo L, Yan H, and **Wang L**#. *Cobind: capture biological associations through genomic collocation analysis*. (Submitted)
@@ -39,7 +38,7 @@ subtitle: Liguo Wang's Bibliography
 
 5. Wei T, Lu J, Ma T, Huang H, Kocher JP, **Wang L**#. [Re-evaluate fusion genes in prostate cancer](https://pubmed.ncbi.nlm.nih.gov/34234399/). **Cancer Informatics** 2021 Jun 21; doi: 10.1177/11769351211027592.
 
-6. Huang Z, Tang B, Yang Y, Yang Z, Shi L, Bai Y, Yan B, Karnes RJ, Zhang J, Jimenez R, **Wang L**, Wei Q, Yang J, Xu W, Jia Z, Huang H. *MAP3K7-IKK inflammatory signaling modulates AR protein degradation and prostate cancer progression*. **Cancer Res**. 2021 Jun 22:canres.4194.2020. doi: 10.1158/0008-5472.CAN-20-4194. Epub ahead of print. [View PubMed](https://pubmed.ncbi.nlm.nih.gov/34158377/)
+6. Huang Z, Tang B, Yang Y, Yang Z, Shi L, Bai Y, Yan B, Karnes RJ, Zhang J, Jimenez R, **Wang L**, Wei Q, Yang J, Xu W, Jia Z, Huang H. [MAP3K7-IKK inflammatory signaling modulates AR protein degradation and prostate cancer progression](https://pubmed.ncbi.nlm.nih.gov/34158377/). **Cancer Res**. 2021 Jun 22:canres.4194.2020. doi: 10.1158/0008-5472.CAN-20-4194.
 
 7. Wang D, Ma J, Botuyan MV, Cui G, Yan Y, Ding D, Zhou Y, Krueger EW, Pei J, Wu X, **Wang L** , Pei H, McNiven MA, Ye D, Mer G, Huang H. [ATM-phosphorylated SPOP contributes to 53BP1 exclusion from chromatin during DNA replication](https://pubmed.ncbi.nlm.nih.gov/34144977/). **Sci Adv.** 2021 Jun; 7 (25) Epub 2021 June 18. doi: 10.1126/sciadv.abd9208
 
