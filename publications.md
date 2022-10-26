@@ -21,7 +21,7 @@ subtitle: Liguo Wang's Bibliography
 
 3. Yanchus C, Drucker KL, Kollmeyer TM, Tsai R, Winick-Ng W, Liang M, Malik A, Pawling J, De Lorenzo SB, Ali A, Decker PA, Kosel ML, Panda A, Al-Zahrani KN, Jiang L, Browning JWL, Lowden C, Geuenich M, Hernandez JJ, Gosio JT, Ahmed M, Loganathan SK, Berman J, Trcka D, Michealraj KA, Fortin J, Carson B, Hollingsworth EW, Jacinto S, Mazrooei P, Zhou L, Elia A, Lupien M, He HH, Murphy DJ, **Wang L**, Abyzov A, Dennis JW, Maass PG, Campbell K, Wilson MD, Lachance DH, Wrensch M, Wiencke J, Mak T, Pennacchio LA, Dickel DE, Visel A, Wrana J, Taylor MD, Zadeh G, Dirks P, Eckel-Passow JE, Attisano L, Pombo A, Ida CM, Kvon EZ, Jenkins RB, Schramek D. [A non-coding single nucleotide polymorphism at 8q24 drives IDH1-mutant glioma formation](https://pubmed.ncbi.nlm.nih.gov/36201590/). **Science**. 2022 Oct 6;. doi: 10.1126/science.abj2890
 
-4. Ding D, Zheng R, Tian Y, Jimenez R, Hou X, Weroha S, **Wang L**#, Lei S, Huang H. *Retinoblastoma protein as an intrinsic BRD4 inhibitor modulates small molecule BET inhibitor sensitivity in cancer*. **Nature Communications**. 2022. (accepted)
+4. Ding D, Zheng R, Tian Y, Jimenez R, Hou X, Weroha S, **Wang L**, Lei S, Huang H. *Retinoblastoma protein as an intrinsic BRD4 inhibitor modulates small molecule BET inhibitor sensitivity in cancer*. **Nature Communications**. 2022. (accepted)
 
 5. Sun R, Wei T, Ding D, Zhang J, Chen S, He H. H, **Wang L**, Huang H. [CYCLIN K downregulation induces androgen receptor gene intronic polyadenylation and castration resistance in prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36129942/). **Proc Natl Acad Sci U S A**. 2022 Sep 27;119(39):e2205509119. doi: 10.1073/pnas.2205509119.
 
