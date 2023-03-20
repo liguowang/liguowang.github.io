@@ -13,7 +13,7 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2023
 
-1. Sperger J, Helzer K, Stahlfeld K, Jiang D, Singh A, Kaufmann K, Niles D, Heninger E, Rydzewski N, **Wang L**, Wang L, Yang R, Ren Y, Engle J, Huang P, Kyriakopoulos, C, Slovin S, Soule H, Zhao S, Kohli M, Tagawa S, Cai W, Dehm S, and Lang J. Expression and therapeutic targeting of Trop-2 in treatment resistant prostate cancer. **Clinical Cancer Research**. 2023. [accepted]
+1. Sperger J, Helzer K, Stahlfeld K, Jiang D, Singh A, Kaufmann K, Niles D, Heninger E, Rydzewski N, **Wang L**, Wang L, Yang R, Ren Y, Engle J, Huang P, Kyriakopoulos, C, Slovin S, Soule H, Zhao S, Kohli M, Tagawa S, Cai W, Dehm S, and Lang J. [Expression and therapeutic targeting of Trop-2 in treatment resistant prostate cancer](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-22-1305/718829/Expression-and-therapeutic-targeting-of-Trop-2-in). **Clinical Cancer Research**. 2023 Mar 20. doi: 10.1158/1078-0432.CCR-22-1305
 
 ### 2022
 
