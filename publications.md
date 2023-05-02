@@ -15,7 +15,7 @@ subtitle: Liguo Wang's Bibliography
 
 1. Sperger J, Helzer K, Stahlfeld K, Jiang D, Singh A, Kaufmann K, Niles D, Heninger E, Rydzewski N, **Wang L**, Wang L, Yang R, Ren Y, Engle J, Huang P, Kyriakopoulos, C, Slovin S, Soule H, Zhao S, Kohli M, Tagawa S, Cai W, Dehm S, and Lang J. [Expression and therapeutic targeting of Trop-2 in treatment resistant prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36939530/). **Clin Cancer Res**. 2023 Mar 20:CCR-22-1305. doi: 10.1158/1078-0432.CCR-22-1305.
 
-2. El Khoury et al., Extensive intratumor regional epigenetic heterogeneity in clear cell renal cell carcinoma targets kidney enhancers and is associated with poor outcome. **Clinical Epigenetics**. (accepted) 
+2. El Khoury LY, Pan X, Hlady RA, Wagner RT, Shaikh S, **Wang L**, Humphreys MR, Castle EP, Stanton ML, Ho TH, Robertson KD. [Extensive intratumor regional epigenetic heterogeneity in clear cell renal cell carcinoma targets kidney enhancers and is associated with poor outcome](https://pubmed.ncbi.nlm.nih.gov/37120552/). **Clin Epigenetics**. 2023 Apr 29;15(1):71. doi: 10.1186/s13148-023-01471-3.
 
 ### 2022
 
