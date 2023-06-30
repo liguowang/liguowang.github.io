@@ -10,6 +10,20 @@ I am serving as the co-investigator/collaborator, and providing bioinformatics s
 
 ---
 
+Title: Mechanism and therapeutic targeting of castration resistance in SPOP-mutated prostate cancer
++ **Major Goals**: Major Goals: The major goals of this project are to determine the molecular mechanisms by which SPOP mutation cooperates with aberrantly activated MAPK pathway to drive aberrant activation of AR and castration-resistant progression of prostate cancer and define new strategies for the effective treatment of SPOP-mutated castration-resistant prostate cancer.
++ **Project Number**: R01 CA285345-01 (pending)
++ **Source of Support**: NIH/NCI
++ **Start and End Date**: 2023 \- 2028
++ **PI**: Huang, H
+
+Title: Determine the Microphthalmia Transcription Factor (MITF)-regulated cell rewiring mechanisms in lethal prostate cancer
++ **Major Goals**: Determine the role of Microphthalmia Transcription Factor regulated cell rewiring mechanisms in lethal prostate cancer
++ **Project Number**: R01CA 271486-1
++ **Source of Support**: NIH/NCI
++ **Start and End Date**: 2022 \- 2026
++ **PI**: Domingo Domenech, J.
+
 Title: Alliance Statistics and Data Management Center Grant
 + **Major Goals**: *The major goal of this project is to serve as the Statistics and Data Management Center for all research conducted by the Alliance for Clinical Trials in Oncology, which is a multi-institution, multi-specialty oncology research organization*.
 + **Project Number**: U10CA 180882-8
