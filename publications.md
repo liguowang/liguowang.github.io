@@ -13,28 +13,32 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2023
 
-1. Sun R, Yan B, Li H, Ding D, Pang J, **Wang L**, Huang H. Androgen receptor variants confer castration resistance in prostate cancer by counteracting antiandrogen-induced ferroptosis. **Cancer Res**. (accepted)
+1. Ma T, Guo L, Yan H, and **Wang L**#. Cobind: quantitative analysis of the genomic overlaps. Bioinformatics Advances. (accepted July 20, 2023)
 
-2. Wang T, Wagner R, Hlady R, Pan X, Zhao X, Kim S, **Wang L**, Lee J, Luo H, Castle EP, Ho T, Robertson K. [SETD2 loss in renal epithelial cells drives epithelial to mesenchymal transition in a TGF-β independent manner](https://pubmed.ncbi.nlm.nih.gov/37418588/). **Mol Oncol**. 2023 Jul 7. doi: 10.1002/1878-0261.13487
+2. Ding D, Blee A, Zhang J, Pan Y, Jimenez R, **Wang L**, Becker N, Maher LJ III, Huang H. Gain-of-function mutant p53 together with ERG proto-oncogene drive prostate cancer by beta-catenin activation and pyrimidine synthesis. **Nat Commun**. (accepted July 20, 2023)
 
-3. Sperger J, Helzer K, Stahlfeld K, Jiang D, Singh A, Kaufmann K, Niles D, Heninger E, Rydzewski N, **Wang L**, Wang L, Yang R, Ren Y, Engle J, Huang P, Kyriakopoulos, C, Slovin S, Soule H, Zhao S, Kohli M, Tagawa S, Cai W, Dehm S, and Lang J. [Expression and therapeutic targeting of Trop-2 in treatment resistant prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36939530/). **Clin Cancer Res**. 2023 Mar 20:CCR-22-1305. doi: 10.1158/1078-0432.CCR-22-1305.
+3. Sun R, Yan B, Li H, Ding D, Pang J, **Wang L**, Huang H. Androgen receptor variants confer castration resistance in prostate cancer by counteracting antiandrogen-induced ferroptosis. **Cancer Res**. (accepted July 14, 2023)
 
-4. El Khoury LY, Pan X, Hlady RA, Wagner RT, Shaikh S, **Wang L**, Humphreys MR, Castle EP, Stanton ML, Ho TH, Robertson KD. [Extensive intratumor regional epigenetic heterogeneity in clear cell renal cell carcinoma targets kidney enhancers and is associated with poor outcome](https://pubmed.ncbi.nlm.nih.gov/37120552/). **Clin Epigenetics**. 2023 Apr 29;15(1):71. doi: 10.1186/s13148-023-01471-3.
+4. Wang T, Wagner R, Hlady R, Pan X, Zhao X, Kim S, **Wang L**, Lee J, Luo H, Castle EP, Ho T, Robertson K. [SETD2 loss in renal epithelial cells drives epithelial to mesenchymal transition in a TGF-β independent manner](https://pubmed.ncbi.nlm.nih.gov/37418588/). **Mol Oncol**. 2023 Jul 7. doi: 10.1002/1878-0261.13487
+
+5. Sperger J, Helzer K, Stahlfeld K, Jiang D, Singh A, Kaufmann K, Niles D, Heninger E, Rydzewski N, **Wang L**, Wang L, Yang R, Ren Y, Engle J, Huang P, Kyriakopoulos, C, Slovin S, Soule H, Zhao S, Kohli M, Tagawa S, Cai W, Dehm S, and Lang J. [Expression and therapeutic targeting of Trop-2 in treatment resistant prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36939530/). **Clin Cancer Res**. 2023 Mar 20:CCR-22-1305. doi: 10.1158/1078-0432.CCR-22-1305.
+
+6. El Khoury LY, Pan X, Hlady RA, Wagner RT, Shaikh S, **Wang L**, Humphreys MR, Castle EP, Stanton ML, Ho TH, Robertson KD. [Extensive intratumor regional epigenetic heterogeneity in clear cell renal cell carcinoma targets kidney enhancers and is associated with poor outcome](https://pubmed.ncbi.nlm.nih.gov/37120552/). **Clin Epigenetics**. 2023 Apr 29;15(1):71. doi: 10.1186/s13148-023-01471-3.
+
+---
 
 ### 2022
 
 
 1. Li Q, Zhang Y, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L, and **Wang L**#. [Identify non-mutational p53 loss of function in human cancers](https://www.biorxiv.org/content/10.1101/2022.07.28.501874v1.full). (Submitted)
 
-2. Ma T, Guo L, Yan H, and **Wang L**#. *Cobind: capture biological associations through genomic collocation analysis*. (Submitted)
+2. Ding D, Zheng R, Tian Y, Jimenez R, Hou X, Weroha S, **Wang L**, Lei S, Huang H. [Retinoblastoma protein as an intrinsic BRD4 inhibitor modulates small molecule BET inhibitor sensitivity in cancer](https://pubmed.ncbi.nlm.nih.gov/36274096/). **Nat Commun**. 2022 Oct 23;13(1):6311. doi: 10.1038/s41467-022-34024-y.
 
-3. Ding D, Zheng R, Tian Y, Jimenez R, Hou X, Weroha S, **Wang L**, Lei S, Huang H. [Retinoblastoma protein as an intrinsic BRD4 inhibitor modulates small molecule BET inhibitor sensitivity in cancer](https://pubmed.ncbi.nlm.nih.gov/36274096/). **Nat Commun**. 2022 Oct 23;13(1):6311. doi: 10.1038/s41467-022-34024-y.
+3. Larson NB, Oberg AL, Adjei AA, **Wang L**. [A clinician’s guide to bioinformatics for next-generation sequencing](https://pubmed.ncbi.nlm.nih.gov/36379355/). **J Thorac Oncol**. 2022 Nov 12;S1556-0864(22)01908-6. doi: 10.1016/j.jtho.2022.11.006
 
-4. Larson NB, Oberg AL, Adjei AA, **Wang L**. [A clinician’s guide to bioinformatics for next-generation sequencing](https://pubmed.ncbi.nlm.nih.gov/36379355/). **J Thorac Oncol**. 2022 Nov 12;S1556-0864(22)01908-6. doi: 10.1016/j.jtho.2022.11.006
+4. Yanchus C, Drucker KL, Kollmeyer TM, Tsai R, Winick-Ng W, Liang M, Malik A, Pawling J, De Lorenzo SB, Ali A, Decker PA, Kosel ML, Panda A, Al-Zahrani KN, Jiang L, Browning JWL, Lowden C, Geuenich M, Hernandez JJ, Gosio JT, Ahmed M, Loganathan SK, Berman J, Trcka D, Michealraj KA, Fortin J, Carson B, Hollingsworth EW, Jacinto S, Mazrooei P, Zhou L, Elia A, Lupien M, He HH, Murphy DJ, **Wang L**, Abyzov A, Dennis JW, Maass PG, Campbell K, Wilson MD, Lachance DH, Wrensch M, Wiencke J, Mak T, Pennacchio LA, Dickel DE, Visel A, Wrana J, Taylor MD, Zadeh G, Dirks P, Eckel-Passow JE, Attisano L, Pombo A, Ida CM, Kvon EZ, Jenkins RB, Schramek D. [A non-coding single nucleotide polymorphism at 8q24 drives IDH1-mutant glioma formation](https://pubmed.ncbi.nlm.nih.gov/36201590/). **Science**. 2022 Oct 6;. doi: 10.1126/science.abj2890
 
-5. Yanchus C, Drucker KL, Kollmeyer TM, Tsai R, Winick-Ng W, Liang M, Malik A, Pawling J, De Lorenzo SB, Ali A, Decker PA, Kosel ML, Panda A, Al-Zahrani KN, Jiang L, Browning JWL, Lowden C, Geuenich M, Hernandez JJ, Gosio JT, Ahmed M, Loganathan SK, Berman J, Trcka D, Michealraj KA, Fortin J, Carson B, Hollingsworth EW, Jacinto S, Mazrooei P, Zhou L, Elia A, Lupien M, He HH, Murphy DJ, **Wang L**, Abyzov A, Dennis JW, Maass PG, Campbell K, Wilson MD, Lachance DH, Wrensch M, Wiencke J, Mak T, Pennacchio LA, Dickel DE, Visel A, Wrana J, Taylor MD, Zadeh G, Dirks P, Eckel-Passow JE, Attisano L, Pombo A, Ida CM, Kvon EZ, Jenkins RB, Schramek D. [A non-coding single nucleotide polymorphism at 8q24 drives IDH1-mutant glioma formation](https://pubmed.ncbi.nlm.nih.gov/36201590/). **Science**. 2022 Oct 6;. doi: 10.1126/science.abj2890
-
-6. Sun R, Wei T, Ding D, Zhang J, Chen S, He H. H, **Wang L**, Huang H. [CYCLIN K downregulation induces androgen receptor gene intronic polyadenylation and castration resistance in prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36129942/). **Proc Natl Acad Sci U S A**. 2022 Sep 27;119(39):e2205509119. doi: 10.1073/pnas.2205509119.
+5. Sun R, Wei T, Ding D, Zhang J, Chen S, He H. H, **Wang L**, Huang H. [CYCLIN K downregulation induces androgen receptor gene intronic polyadenylation and castration resistance in prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36129942/). **Proc Natl Acad Sci U S A**. 2022 Sep 27;119(39):e2205509119. doi: 10.1073/pnas.2205509119.
 
 ---
 
