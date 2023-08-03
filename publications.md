@@ -19,7 +19,7 @@ subtitle: Liguo Wang's Bibliography
 
 3. Ding D, Blee A, Zhang J, Pan Y, Jimenez R, **Wang L**, Becker N, Maher LJ III, Huang H. Gain-of-function mutant p53 together with ERG proto-oncogene drive prostate cancer by beta-catenin activation and pyrimidine synthesis. **Nat Commun**. (accepted July 20, 2023)
 
-4. Zhang J, Wei J, Sun R, Sheng H, Yin K, Pan Y, Jimenez R, Chen S, Cui X, Zou Z, Yue Z, Emch MJ, Hawse JR, **Wang L**, He HH, Xia S, Han B, He C, Huang H. [A lncRNA from the FTO locus acts as a suppressor of the m6A writer complex and p53 tumor suppression signaling](https://www.sciencedirect.com/science/article/pii/S1097276523004719). **Mol Cell**. (accepted July 20, 2023)
+4. Zhang J, Wei J, Sun R, Sheng H, Yin K, Pan Y, Jimenez R, Chen S, Cui XL, Zou Z, Yue Z, Emch MJ, Hawse JR, **Wang L**, He HH, Xia S, Han B, He C, Huang H. [A lncRNA from the FTO locus acts as a suppressor of the m(6)A writer complex and p53 tumor suppression signaling](https://pubmed.ncbi.nlm.nih.gov/37478845/). **Mol Cell**. 2023 Jul 12:S1097-2765(23)00471-9. doi: 10.1016/j.molcel.2023.06.024.
 
 5. Sun R, Yan B, Li H, Ding D, **Wang L**, Pang J, Ye D, Huang H. [Androgen receptor variants confer castration resistance in prostate cancer by counteracting antiandrogen-induced ferroptosis](https://pubmed.ncbi.nlm.nih.gov/37527336/). **Cancer Res**. 2023 Aug 1:CAN-23-0285. doi: 10.1158/0008-5472.CAN-23-0285.
 
