@@ -17,7 +17,7 @@ subtitle: Liguo Wang's Bibliography
 
 2. Ma T, Guo L, Yan H, and **Wang L**#. Cobind: quantitative analysis of the genomic overlaps. **Bioinformatics Advances**. (accepted July 20, 2023)
 
-3. Ding D, Blee AM, Zhang J, Pan Y, Becker NA, Maher LJ III, Jimenez R, **Wang L**#, Huang H. [Gain-of-function mutant p53 together with ERG proto-oncogene drive prostate cancer by beta-catenin activation and pyrimidine synthesis](https://www.nature.com/articles/s41467-023-40352-4). **Nat Commun**. (accepted July 20, 2023)
+3. Ding D, Blee AM, Zhang J, Pan Y, Becker NA, Maher LJ III, Jimenez R, **Wang L**#, Huang H. [Gain-of-function mutant p53 together with ERG proto-oncogene drive prostate cancer by beta-catenin activation and pyrimidine synthesis](https://www.nature.com/articles/s41467-023-40352-4). **Nat Commun** 14, 4671 (2023). https://doi.org/10.1038/s41467-023-40352-4
 
 4. Zhang J, Wei J, Sun R, Sheng H, Yin K, Pan Y, Jimenez R, Chen S, Cui XL, Zou Z, Yue Z, Emch MJ, Hawse JR, **Wang L**, He HH, Xia S, Han B, He C, Huang H. [A lncRNA from the FTO locus acts as a suppressor of the m(6)A writer complex and p53 tumor suppression signaling](https://pubmed.ncbi.nlm.nih.gov/37478845/). **Mol Cell**. 2023 Jul 12:S1097-2765(23)00471-9. doi: 10.1016/j.molcel.2023.06.024.
 
