@@ -13,7 +13,7 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2023
 
-1. **Wang L**#. Reference-guided search for open reading frames. **Nature Computational Science**. doi: 10.1038/s43588-023-00497-0
+1. **Wang L**#. [Reference-guided search for open reading frames](https://www.nature.com/articles/s43588-023-00497-0). **Nature Computational Science**. doi: 10.1038/s43588-023-00497-0
 
 2. Ma T, Guo L, Yan H, and **Wang L**#. Cobind: quantitative analysis of the genomic overlaps. **Bioinformatics Advances**. (accepted July 20, 2023)
 
