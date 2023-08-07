@@ -58,5 +58,5 @@ subtitle: Bioinformatics Tools
 - Reference: Wu D, Wang L, Huang H. [Protocol to apply spike-in ChIP-seq to capture massive histone acetylation in human cells](https://pubmed.ncbi.nlm.nih.gov/34337446/). **STAR Protoc**. 2021 Jul 17;2(3):100681. doi: 10.1016/j.xpro.2021.100681. PMID: 34337446; PMCID: PMC8313745.
 
 ### [cobind](https://cobind.readthedocs.io/en/latest/)
-- cobind is for collocation analysis of genomic intervals.
+- Cobind is designed for quantitative analysis of the genomic overlaps.
 - Reference: Ma T, Guo L, Yan H, and Wang L. Cobind: quantitative analysis of the genomic overlaps. **Bioinformatics Advances** (accepted).
