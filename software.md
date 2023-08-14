@@ -11,13 +11,13 @@ subtitle: Bioinformatics Tools
 - RSeQC package provides many useful python modules to QC, analyze and visualize RNA-seq data.
 - Reference: Wang L, Wang S, Li W. [RSeQC: quality control of RNA-seq experiments](https://pubmed.ncbi.nlm.nih.gov/22743226/). **Bioinformatics**. 2012 Aug 15;28(16):2184-5. doi: 10.1093/bioinformatics/bts356. Epub 2012 Jun 27. PMID: 22743226.
 
-### [CPAT](http://rna-cpat.sourceforge.net/)
+### [CPAT](https://cpat.readthedocs.io/en/latest/)
 
 - CPAT (Coding-Potential Assessment Tool) trained a logistic regression model from pure sequence features to distinguish noncoding RNAs from protein coding mRNAs.
-- [Webserver](http://lilab.research.bcm.edu/cpat)   
+- [Webserver](https://wlcb.oit.uci.edu/cpat)   
 - Reference: Wang L, Park HJ, Dasari S, Wang S, Kocher JP, Li W. [CPAT: Coding-Potential Assessment Tool using an alignment-free logistic regression model](https://pubmed.ncbi.nlm.nih.gov/23335781/). **Nucleic Acids Res**. 2013 Apr 1;41(6):e74. doi: 10.1093/nar/gkt006. Epub 2013 Jan 17. PMID: 23335781; PMCID: PMC3616698.
 
-### [CrossMap](http://crossmap.sourceforge.net)
+### [CrossMap](https://crossmap.readthedocs.io/en/latest/)
 
 - CrossMap is a program to liftover genome coordinates between different genome assemblies. It supports multiple file formats including BED, BAM/SAM/CRAM, VCF, Wiggle/BigWig, etc. 
 - Reference: Zhao H, Sun Z, Wang J, Huang H, Kocher JP, Wang L. [CrossMap: a versatile tool for coordinate conversion between genome assemblies](https://pubmed.ncbi.nlm.nih.gov/24351709/). **Bioinformatics**. 2014 Apr 1;30(7):1006-7. doi: 10.1093/bioinformatics/btt730. Epub 2013 Dec 18. PMID: 24351709; PMCID: PMC3967108.
@@ -59,4 +59,5 @@ subtitle: Bioinformatics Tools
 
 ### [cobind](https://cobind.readthedocs.io/en/latest/)
 - Cobind is designed for quantitative analysis of the genomic overlaps.
-- Reference: Ma T, Guo L, Yan H, and Wang L. Cobind: quantitative analysis of the genomic overlaps. **Bioinformatics Advances** (accepted).
+- Reference: Ma T, Guo L, Yan H, and Wang L. Cobind: quantitative analysis of the genomic overlaps, Bioinformatics Advances, 2023;, vbad104, https://doi.org/10.1093/bioadv/vbad104
+

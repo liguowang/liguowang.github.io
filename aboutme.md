@@ -24,6 +24,7 @@ subtitle: Associate Professor of Biomedical Informatics
 
 ### Professional Memberships
 
+- Member, [American Medical Informatics Association](https://amia.org/)
 - Member, [American Association for Cancer Research, AACR](https://www.aacr.org/)
 - Member, [American Society of Human Genetics, ASHG](https://www.ashg.org/)
 - Faculty, [Alliance for Clinical Trials in Oncology](https://www.allianceforclinicaltrialsinoncology.org/)
