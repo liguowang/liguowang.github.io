@@ -18,7 +18,7 @@ Master transcription factor reprograming unleashes selective translation promoti
 
 2. **Wang L**#. [Reference-guided search for open reading frames](https://www.nature.com/articles/s43588-023-00497-0). **Nature Computational Science**. doi: 10.1038/s43588-023-00497-0
 
-3. Ma T, Guo L, Yan H, and **Wang L**#. [Cobind: quantitative analysis of the genomic overlaps](https://doi.org/10.1093/bioadv/vbad104). **Bioinformatics Advances**,  vbad104.
+3. Ma T, Guo L, Yan H, and **Wang L**#. [Cobind: quantitative analysis of the genomic overlaps](https://pubmed.ncbi.nlm.nih.gov/37600846/). **Bioinformatics Advances**, 2023 Aug 7;3(1):vbad104. doi: 10.1093/bioadv/vbad104
 
 4. Ding D, Blee AM, Zhang J, Pan Y, Becker NA, Maher LJ III, Jimenez R, **Wang L**#, Huang H. [Gain-of-function mutant p53 together with ERG proto-oncogene drive prostate cancer by beta-catenin activation and pyrimidine synthesis](https://www.nature.com/articles/s41467-023-40352-4). **Nat Commun** 14, 4671 (2023). https://doi.org/10.1038/s41467-023-40352-4
 
