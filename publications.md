@@ -13,21 +13,24 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2023
 
-1. **Wang L**#. [Reference-guided search for open reading frames](https://www.nature.com/articles/s43588-023-00497-0). **Nature Computational Science**. doi: 10.1038/s43588-023-00497-0
+1. Santasusagna S, Zhu S, Jawalagatti V, Carceles-Cordon M, Ertel A, Garcia-Longarte S, Song W, Fujiwara N, Li P, Mendizabal I, Petrylak DP, Kelly WK, Reddy EP, **Wang L**, Schiewer MJ, Lujambio A, Karnes J, Knudsen KE, Cordon-Cardo C, Dong H, Huang H, Carracedo A, Hoshida Y, Rodriguez-Bravo V. Domingo-Domenech J.
+Master transcription factor reprograming unleashes selective translation promoting castration resistance and immune evasion in lethal prostate cancer. **Cancer Discovery**, 2023 (accepted)
 
-2. Ma T, Guo L, Yan H, and **Wang L**#. [Cobind: quantitative analysis of the genomic overlaps](https://doi.org/10.1093/bioadv/vbad104). **Bioinformatics Advances**,  vbad104.
+2. **Wang L**#. [Reference-guided search for open reading frames](https://www.nature.com/articles/s43588-023-00497-0). **Nature Computational Science**. doi: 10.1038/s43588-023-00497-0
 
-3. Ding D, Blee AM, Zhang J, Pan Y, Becker NA, Maher LJ III, Jimenez R, **Wang L**#, Huang H. [Gain-of-function mutant p53 together with ERG proto-oncogene drive prostate cancer by beta-catenin activation and pyrimidine synthesis](https://www.nature.com/articles/s41467-023-40352-4). **Nat Commun** 14, 4671 (2023). https://doi.org/10.1038/s41467-023-40352-4
+3. Ma T, Guo L, Yan H, and **Wang L**#. [Cobind: quantitative analysis of the genomic overlaps](https://doi.org/10.1093/bioadv/vbad104). **Bioinformatics Advances**,  vbad104.
 
-4. Zhang J, Wei J, Sun R, Sheng H, Yin K, Pan Y, Jimenez R, Chen S, Cui XL, Zou Z, Yue Z, Emch MJ, Hawse JR, **Wang L**, He HH, Xia S, Han B, He C, Huang H. [A lncRNA from the FTO locus acts as a suppressor of the m(6)A writer complex and p53 tumor suppression signaling](https://pubmed.ncbi.nlm.nih.gov/37478845/). **Mol Cell**. 2023 Jul 12:S1097-2765(23)00471-9. doi: 10.1016/j.molcel.2023.06.024.
+4. Ding D, Blee AM, Zhang J, Pan Y, Becker NA, Maher LJ III, Jimenez R, **Wang L**#, Huang H. [Gain-of-function mutant p53 together with ERG proto-oncogene drive prostate cancer by beta-catenin activation and pyrimidine synthesis](https://www.nature.com/articles/s41467-023-40352-4). **Nat Commun** 14, 4671 (2023). https://doi.org/10.1038/s41467-023-40352-4
 
-5. Sun R, Yan B, Li H, Ding D, **Wang L**, Pang J, Ye D, Huang H. [Androgen receptor variants confer castration resistance in prostate cancer by counteracting antiandrogen-induced ferroptosis](https://pubmed.ncbi.nlm.nih.gov/37527336/). **Cancer Res**. 2023 Aug 1:CAN-23-0285. doi: 10.1158/0008-5472.CAN-23-0285.
+5. Zhang J, Wei J, Sun R, Sheng H, Yin K, Pan Y, Jimenez R, Chen S, Cui XL, Zou Z, Yue Z, Emch MJ, Hawse JR, **Wang L**, He HH, Xia S, Han B, He C, Huang H. [A lncRNA from the FTO locus acts as a suppressor of the m(6)A writer complex and p53 tumor suppression signaling](https://pubmed.ncbi.nlm.nih.gov/37478845/). **Mol Cell**. 2023 Jul 12:S1097-2765(23)00471-9. doi: 10.1016/j.molcel.2023.06.024.
 
-6. Wang T, Wagner R, Hlady R, Pan X, Zhao X, Kim S, **Wang L**, Lee J, Luo H, Castle EP, Ho T, Robertson K. [SETD2 loss in renal epithelial cells drives epithelial to mesenchymal transition in a TGF-β independent manner](https://pubmed.ncbi.nlm.nih.gov/37418588/). **Mol Oncol**. 2023 Jul 7. doi: 10.1002/1878-0261.13487
+6. Sun R, Yan B, Li H, Ding D, **Wang L**, Pang J, Ye D, Huang H. [Androgen receptor variants confer castration resistance in prostate cancer by counteracting antiandrogen-induced ferroptosis](https://pubmed.ncbi.nlm.nih.gov/37527336/). **Cancer Res**. 2023 Aug 1:CAN-23-0285. doi: 10.1158/0008-5472.CAN-23-0285.
 
-7. Sperger J, Helzer K, Stahlfeld K, Jiang D, Singh A, Kaufmann K, Niles D, Heninger E, Rydzewski N, **Wang L**, Wang L, Yang R, Ren Y, Engle J, Huang P, Kyriakopoulos, C, Slovin S, Soule H, Zhao S, Kohli M, Tagawa S, Cai W, Dehm S, and Lang J. [Expression and therapeutic targeting of Trop-2 in treatment resistant prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36939530/). **Clin Cancer Res**. 2023 Mar 20:CCR-22-1305. doi: 10.1158/1078-0432.CCR-22-1305.
+7. Wang T, Wagner R, Hlady R, Pan X, Zhao X, Kim S, **Wang L**, Lee J, Luo H, Castle EP, Ho T, Robertson K. [SETD2 loss in renal epithelial cells drives epithelial to mesenchymal transition in a TGF-β independent manner](https://pubmed.ncbi.nlm.nih.gov/37418588/). **Mol Oncol**. 2023 Jul 7. doi: 10.1002/1878-0261.13487
 
-8. El Khoury LY, Pan X, Hlady RA, Wagner RT, Shaikh S, **Wang L**, Humphreys MR, Castle EP, Stanton ML, Ho TH, Robertson KD. [Extensive intratumor regional epigenetic heterogeneity in clear cell renal cell carcinoma targets kidney enhancers and is associated with poor outcome](https://pubmed.ncbi.nlm.nih.gov/37120552/). **Clin Epigenetics**. 2023 Apr 29;15(1):71. doi: 10.1186/s13148-023-01471-3.
+8. Sperger J, Helzer K, Stahlfeld K, Jiang D, Singh A, Kaufmann K, Niles D, Heninger E, Rydzewski N, **Wang L**, Wang L, Yang R, Ren Y, Engle J, Huang P, Kyriakopoulos, C, Slovin S, Soule H, Zhao S, Kohli M, Tagawa S, Cai W, Dehm S, and Lang J. [Expression and therapeutic targeting of Trop-2 in treatment resistant prostate cancer](https://pubmed.ncbi.nlm.nih.gov/36939530/). **Clin Cancer Res**. 2023 Mar 20:CCR-22-1305. doi: 10.1158/1078-0432.CCR-22-1305.
+
+9. El Khoury LY, Pan X, Hlady RA, Wagner RT, Shaikh S, **Wang L**, Humphreys MR, Castle EP, Stanton ML, Ho TH, Robertson KD. [Extensive intratumor regional epigenetic heterogeneity in clear cell renal cell carcinoma targets kidney enhancers and is associated with poor outcome](https://pubmed.ncbi.nlm.nih.gov/37120552/). **Clin Epigenetics**. 2023 Apr 29;15(1):71. doi: 10.1186/s13148-023-01471-3.
 
 ---
 
