@@ -13,8 +13,8 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2023
 
-1. Santasusagna S, Zhu S, Jawalagatti V, Carceles-Cordon M, Ertel A, Garcia-Longarte S, Song W, Fujiwara N, Li P, Mendizabal I, Petrylak DP, Kelly WK, Reddy EP, **Wang L**, Schiewer MJ, Lujambio A, Karnes J, Knudsen KE, Cordon-Cardo C, Dong H, Huang H, Carracedo A, Hoshida Y, Rodriguez-Bravo V., Domingo-Domenech J.
-Master transcription factor reprograming unleashes selective translation promoting castration resistance and immune evasion in lethal prostate cancer. **Cancer Discovery**, 2023 (accepted)
+1. Santasusagna S, Zhu S, Jawalagatti V, Carceles-Cordon M, Ertel A, Garcia-Longarte S, Song WM, Fujiwara N, Li P, Mendizabal I, Petrylak DP, Kelly WK, Reddy EP, **Wang L**, Schiewer MJ, Lujambio A, Karnes J, Knudsen KE, Cordon-Cardo C, Dong H, Huang H, Carracedo A, Hoshida Y, Rodriguez-Bravo V, Domingo-Domenech J.
+[Master transcription factor reprograming unleashes selective translation promoting castration resistance and immune evasion in lethal prostate cancer](https://pubmed.ncbi.nlm.nih.gov/37676710/). **Cancer Discov**. 2023 Sep 7;. doi: 10.1158/2159-8290.CD-23-0306.
 
 2. **Wang L**#. [Reference-guided search for open reading frames](https://www.nature.com/articles/s43588-023-00497-0). **Nature Computational Science**. doi: 10.1038/s43588-023-00497-0
 
