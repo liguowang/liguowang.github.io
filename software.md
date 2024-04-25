@@ -61,3 +61,5 @@ subtitle: Bioinformatics Tools
 - Cobind is designed for quantitative analysis of the genomic overlaps.
 - Reference: Ma T, Guo L, Yan H, and Wang L. Cobind: quantitative analysis of the genomic overlaps, Bioinformatics Advances, 2023;, vbad104, https://doi.org/10.1093/bioadv/vbad104
 
+### [Epical](https://epical.readthedocs.io/en/latest/)
+- A DNA methylation based biological age calculator, including 21 human clocks and 4 mouse clocks. 
