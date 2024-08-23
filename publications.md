@@ -17,7 +17,7 @@ subtitle: Liguo Wang's Bibliography
 
 2. Hlady, R, Zhao, X, El Khoury, L, Wagner, R, Luna, A, Pham, K, Pyrosopoulos, N, Jain, D, Wang, L, Liu, C, & Robertson, K. (2024). [Epigenetic heterogeneity hotspots in human liver disease progression](https://pubmed.ncbi.nlm.nih.gov/39028883/). **Hepatology**. 2024 Jul 19;. doi: 10.1097/HEP.0000000000001023
 
-3. Advancing Towards Precision Migraine Treatment: Predicting Responses to Preventive Medications with Machine Learning Models Based on Patient and Migraine Features. **The Journal of Head and Face Pain**. 2024 doi: 10.1111/head.14806
+3. Chiang CC, Schwedt TJ, Dumkrieger G, **Wang L**, Chao CJ, Ouellette HA, Banerjee I, Chen YC, Jones BM, Burke KM, Wang H, Murray AM, Montenegro MM, Stern JI, Whealy M, Kissoon N, Cutrer FM. [Advancing toward precision migraine treatment: Predicting responses to preventive medications with machine learning models based on patient and migraine features](https://pubmed.ncbi.nlm.nih.gov/39176658/). **Headache**. 2024 Aug 23. doi: 10.1111/head.14806. Epub ahead of print. PMID: 39176658.
 
 ---
 
