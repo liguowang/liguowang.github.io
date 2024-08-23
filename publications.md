@@ -13,9 +13,11 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2024
 
-1. Hlady, R, Zhao, X, El Khoury, L, Wagner, R, Luna, A, Pham, K, Pyrosopoulos, N, Jain, D, **Wang, L**, Liu, C, & Robertson, K. (2024). [Epigenetic heterogeneity hotspots in human liver disease progression](https://pubmed.ncbi.nlm.nih.gov/39028883/). **Hepatology** 2024 Jul 19;. doi: 10.1097/HEP.0000000000001023
+1. Li Q, Zhang Y, Luo S, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L#, and **Wang L** #. [Identify non-mutational p53 loss of function in human cancers](https://www.biorxiv.org/content/10.1101/2022.07.28.501874v3). **Genomics, Proteomics & Bioinformatics**. (accepted) doi: https://doi.org/10.1101/2022.07.28.501874
 
-2. Advancing Towards Precision Migraine Treatment: Predicting Responses to Preventive Medications with Machine Learning Models Based on Patient and Migraine Features. **The Journal of Head and Face Pain** doi: 10.1111/head.14806
+2. Hlady, R, Zhao, X, El Khoury, L, Wagner, R, Luna, A, Pham, K, Pyrosopoulos, N, Jain, D, Wang, L, Liu, C, & Robertson, K. (2024). [Epigenetic heterogeneity hotspots in human liver disease progression](https://pubmed.ncbi.nlm.nih.gov/39028883/). **Hepatology**. 2024 Jul 19;. doi: 10.1097/HEP.0000000000001023
+
+3. Advancing Towards Precision Migraine Treatment: Predicting Responses to Preventive Medications with Machine Learning Models Based on Patient and Migraine Features. **The Journal of Head and Face Pain**. 2024 doi: 10.1111/head.14806
 
 ---
 
