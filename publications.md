@@ -13,7 +13,7 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2024
 
-1. Li Q, Zhang Y, Luo S, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L#, and **Wang L** #. [Identify non-mutational p53 loss of function in human cancers](https://www.biorxiv.org/content/10.1101/2022.07.28.501874v3). **Genomics, Proteomics & Bioinformatics**. 2024. (accepted)
+1. Li Q, Zhang Y, Luo S, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L#, and **Wang L** #. [Identify Non-mutational p53 Functional Deficiency in Human Cancers](https://pubmed.ncbi.nlm.nih.gov/39325855/). **Genomics, Proteomics & Bioinformatics**. Genomics Proteomics Bioinformatics. 2024 Sep 26. doi: 10.1093/gpbjnl/qzae064.
 
 2. Hlady RA, Zhao X, El Khoury LY, Wagner RT, Luna A, Pham K, Pyrosopoulos NT, Jain D, **Wang L**, Liu C, Robertson KD. [Epigenetic heterogeneity hotspots in human liver disease progression](https://pubmed.ncbi.nlm.nih.gov/39028883/). **Hepatology**. 2024 Jul 19;. doi: 10.1097/HEP.0000000000001023
 
