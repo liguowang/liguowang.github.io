@@ -13,11 +13,13 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2024
 
-1. Li Q, Zhang Y, Luo S, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L#, and **Wang L** #. [Identify Non-mutational p53 Functional Deficiency in Human Cancers](https://pubmed.ncbi.nlm.nih.gov/39325855/). **Genomics, Proteomics & Bioinformatics**. Genomics Proteomics Bioinformatics. 2024 Sep 26. doi: 10.1093/gpbjnl/qzae064.
+1. Gomez PT, Carver CM, Rodriguez SL, **Wang L**, Zhang X, Schafer MJ. Aging and senescent fates of oligodendrocyte precursor cells in the mouse brain. **npj Aging** 2024 (accepted)
 
-2. Hlady RA, Zhao X, El Khoury LY, Wagner RT, Luna A, Pham K, Pyrosopoulos NT, Jain D, **Wang L**, Liu C, Robertson KD. [Epigenetic heterogeneity hotspots in human liver disease progression](https://pubmed.ncbi.nlm.nih.gov/39028883/). **Hepatology**. 2024 Jul 19;. doi: 10.1097/HEP.0000000000001023
+2. Li Q, Zhang Y, Luo S, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L#, and **Wang L** #. [Identify Non-mutational p53 Functional Deficiency in Human Cancers](https://pubmed.ncbi.nlm.nih.gov/39325855/). **Genomics, Proteomics & Bioinformatics**. Genomics Proteomics Bioinformatics. 2024 Sep 26. doi: 10.1093/gpbjnl/qzae064.
 
-3. Chiang CC, Schwedt TJ, Dumkrieger G, **Wang L**, Chao CJ, Ouellette HA, Banerjee I, Chen YC, Jones BM, Burke KM, Wang H, Murray AM, Montenegro MM, Stern JI, Whealy M, Kissoon N, Cutrer FM. [Advancing toward precision migraine treatment: Predicting responses to preventive medications with machine learning models based on patient and migraine features](https://pubmed.ncbi.nlm.nih.gov/39176658/). **Headache**. 2024 Aug 23. doi: 10.1111/head.14806.
+3. Hlady RA, Zhao X, El Khoury LY, Wagner RT, Luna A, Pham K, Pyrosopoulos NT, Jain D, **Wang L**, Liu C, Robertson KD. [Epigenetic heterogeneity hotspots in human liver disease progression](https://pubmed.ncbi.nlm.nih.gov/39028883/). **Hepatology**. 2024 Jul 19;. doi: 10.1097/HEP.0000000000001023
+
+4. Chiang CC, Schwedt TJ, Dumkrieger G, **Wang L**, Chao CJ, Ouellette HA, Banerjee I, Chen YC, Jones BM, Burke KM, Wang H, Murray AM, Montenegro MM, Stern JI, Whealy M, Kissoon N, Cutrer FM. [Advancing toward precision migraine treatment: Predicting responses to preventive medications with machine learning models based on patient and migraine features](https://pubmed.ncbi.nlm.nih.gov/39176658/). **Headache**. 2024 Aug 23. doi: 10.1111/head.14806.
 
 ---
 
