@@ -10,6 +10,13 @@ I am serving as the co-investigator/collaborator, and providing bioinformatics s
 
 ---
 
+Title: Overcoming tumor-intrinsic mechanisms of immune evasion to boost systemic response to radiotherapy
++ **Major Goals**: Elucidate the molecular and cellular mechanisms of B7-H3 induced CD8 T cell dysfunction, and dissect the mechanisms of systemic immunosuppression mediated by B7-H3+ tdEVs in response to radiotherapy.
++ **Project Number**: R01 CA278908
++ **Source of Support**: NIH/NCI
++ **Start and End Date**: 2024 \- 2029
++ **PI**: Lucien-Matteoni, F
+
 Title: Mechanism and therapeutic targeting of castration resistance in SPOP-mutated prostate cancer
 + **Major Goals**: Major Goals: The major goals of this project are to determine the molecular mechanisms by which SPOP mutation cooperates with aberrantly activated MAPK pathway to drive aberrant activation of AR and castration-resistant progression of prostate cancer and define new strategies for the effective treatment of SPOP-mutated castration-resistant prostate cancer.
 + **Project Number**: R01 CA285345-01 (pending)
