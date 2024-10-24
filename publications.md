@@ -13,7 +13,8 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2024
 
-1. Gomez PT, Carver CM, Rodriguez SL, **Wang L**, Zhang X, Schafer MJ. Aging and senescent fates of oligodendrocyte precursor cells in the mouse brain. **npj Aging** 2024 (accepted)
+1. Gomez PT, Carver CM, Rodriguez SL, **Wang L**, Zhang X, Schafer MJ. `Aging and senescent fates of oligodendrocyte precursor cells in the mouse brain <https://pubmed.ncbi.nlm.nih.gov/39438481/>`_. **NPJ Aging**. 2024 Oct 22;10(1):47. doi: 10.1038/s41514-024-00176-y.
+
 
 2. Li Q, Zhang Y, Luo S, Zhang Z, Oberg L. A, Kozono E. D, Lu H, Sarkaria N. J, Ma L#, and **Wang L** #. [Identify Non-mutational p53 Functional Deficiency in Human Cancers](https://pubmed.ncbi.nlm.nih.gov/39325855/). **Genomics, Proteomics & Bioinformatics**. Genomics Proteomics Bioinformatics. 2024 Sep 26. doi: 10.1093/gpbjnl/qzae064.
 
