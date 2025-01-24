@@ -11,6 +11,16 @@ subtitle: Liguo Wang's Bibliography
 
 ---
 
+### 2025
+
+1. Y Yan, L Shi, T Ma, **L Wang** #, H Huang #. [SNP rs9364554 Modulates Androgen Receptor Binding and Drug Response in Prostate Cancer](https://www.mdpi.com/2218-273X/15/1/64). **Biomolecules** 2025, 15(1), 64; doi: 10.3390/biom15010064
+
+2. RT Wagner et al. SETD2 loss-of-function uniquely sensitizes cells to epigenetic targeting of NSD1-directed H3K36 methylation. **Genome Biology** 2025 (accepted)
+
+3. S Shaikh et al. Deciphering the interplay between SETD2 mediated H3K36me3 and RNA N6-methyladenosine in clear cell renal cell carcinoma. **Epigenetics** 2025 (accepted)
+
+---
+
 ### 2024
 
 1. Mohammed Ismail W, Fernandez J, Binder M, Lasho TL, Kim M, Geyer S, Mazzone A, Finke CM, Mangaonkar AA, Lee JH, **Wang L** , Kim KH, Simon VA, Rakhshan Rohakthar F, Munankarmy A, Byeon SK, Schwager SM, Harington JJ, Snyder MR, Robertson KD, Pandey A, Wieben ED, Chia N, Gaspar-Maia A, Patnaik MM. [Single cell multiomics reveal divergent effects of DNMT3A and TET2 mutant clonal hematopoiesis in inflammatory response](https://pubmed.ncbi.nlm.nih.gov/39631069/). **Blood Adv**. 2024 Dec 4. doi: 10.1182/bloodadvances.2024014467.
