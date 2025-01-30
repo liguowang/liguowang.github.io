@@ -17,7 +17,8 @@ subtitle: Liguo Wang's Bibliography
 
 2. RT Wagner et al. SETD2 loss-of-function uniquely sensitizes cells to epigenetic targeting of NSD1-directed H3K36 methylation. **Genome Biology** 2025 (accepted)
 
-3. S Shaikh et al. Deciphering the interplay between SETD2 mediated H3K36me3 and RNA N6-methyladenosine in clear cell renal cell carcinoma. **Epigenetics** 2025 (accepted)
+3. Shaikh S, Zhao X, Wagner RT, Pan X, Hlady RA, **Wang L**, Ho TH, Robertson KD. [Deciphering the interplay between SETD2 mediated H3K36me3 and RNA N6-methyladenosine in clear cell renal cell carcinoma (ccRCC)](https://pubmed.ncbi.nlm.nih.gov/39874221/). Epigenetics. 2025 Dec;20(1):2456418. doi: 10.1080/15592294.2025.2456418.
+
 
 ---
 
