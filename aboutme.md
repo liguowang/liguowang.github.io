@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Liguo Wang
-subtitle: Associate Professor of Biomedical Informatics
+subtitle: Decoding Genomes, Advancing Precision Medicine
 ---
 
 ### Current Position
 
-- Associate Professor of Biomedical Informatics, Mayo Clinic College of Medicine (2017-)
+- Professor of Biomedical Informatics, Mayo Clinic College of Medicine (2025-)
+- Associate Professor of Biomedical Informatics, Mayo Clinic College of Medicine (2017-2025)
 - Faculty, Bioinformatics and Computational Biology Program, University of Minnesota Rochester (2020-)
 
 ### Education
