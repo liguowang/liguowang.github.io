@@ -6,9 +6,8 @@ subtitle: Decoding Genomes, Advancing Precision Medicine
 
 ### Current Position
 
-- Professor of Biomedical Informatics, Mayo Clinic College of Medicine (2025-)
-- Associate Professor of Biomedical Informatics, Mayo Clinic College of Medicine (2017-2025)
-- Faculty, Bioinformatics and Computational Biology Program, University of Minnesota Rochester (2020-)
+- Professor of Biomedical Informatics, Mayo Clinic College of Medicine
+- Faculty, Bioinformatics and Computational Biology Program, University of Minnesota Rochester
 
 ### Education
 
