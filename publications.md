@@ -13,9 +13,9 @@ subtitle: Liguo Wang's Bibliography
 
 ### 2025
 
-1. R. Sun, P. Jiang, Z. Wang, B. Yan, S. Zhu, Z. Huang, J. Zhang, D. Ding, X. Li, **L. Wang**, Z. Lou, B. Jin, J. Pang, H. Huang, & D. Xia. `DNA2 protein destruction dictates DNA hyperexcision, cGAS–STING activation, and innate immune response in CDK12-deregulated cancers <https://www.pnas.org/doi/10.1073/pnas.2413732122>`_, **Proc. Natl. Acad. Sci. U.S.A.** 2025, 122 (28)
+1. R. Sun, P. Jiang, Z. Wang, B. Yan, S. Zhu, Z. Huang, J. Zhang, D. Ding, X. Li, **L. Wang**, Z. Lou, B. Jin, J. Pang, H. Huang, & D. Xia. [DNA2 protein destruction dictates DNA hyperexcision, cGAS–STING activation, and innate immune response in CDK12-deregulated cancers](https://www.pnas.org/doi/10.1073/pnas.2413732122). **Proc. Natl. Acad. Sci. U.S.A.** 2025, 122 (28). doi: 10.1073/pnas.2413732122.
 
-2. Y Yan, L Shi, T Ma, **L Wang** #, H Huang #. [SNP rs9364554 Modulates Androgen Receptor Binding and Drug Response in Prostate Cancer](https://www.mdpi.com/2218-273X/15/1/64). **Biomolecules** 2025, 15(1), 64; doi: 10.3390/biom15010064
+2. Y Yan, L Shi, T Ma, **L Wang** #, H Huang #. [SNP rs9364554 Modulates Androgen Receptor Binding and Drug Response in Prostate Cancer](https://www.mdpi.com/2218-273X/15/1/64). **Biomolecules** 2025, 15(1), 64; doi: 10.3390/biom15010064.
 
 3. Wagner RT, Hlady RA, Pan X, **Wang L**, Kim S, Zhao X, El Khoury LY, Shaikh S, Zhong J, Lee JH, Grembecka J, Cierpicki T, Ho TH, Robertson KD. [SETD2 loss-of-function uniquely sensitizes cells to epigenetic targeting of NSD1-directed H3K36 methylation](https://pubmed.ncbi.nlm.nih.gov/39910618/). **Genome Biol**. 2025 Feb 5;26(1):22. doi: 10.1186/s13059-025-03483-z.
 
