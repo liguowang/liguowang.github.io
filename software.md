@@ -63,3 +63,6 @@ subtitle: Bioinformatics Tools
 
 ### [Epical](https://epical.readthedocs.io/en/latest/)
 - A DNA methylation based biological age calculator, including 21 human clocks and 4 mouse clocks. 
+
+### [UltraImpute](https://github.com/liguowang/ultra-impute)
+- The ultra-impute package integrates the MOREL (Multi-Output REgression and Learning) framework, which is specifically designed to handle systematic or structural missing values (for example, when integrating data generated from Illumina 450K, 850K and EPICv2 DNA methylationarrays). The MOREL framework includes four multi-output wrapper approaches: random forest (MOREL-RF), support vector regression (MOREL-SVR), k-nearest neighbors (MOREL-KNN), and deep neural networks (MOREL-DNN). In addition to the MOREL methods, ultra-impute also provides other commonly used imputation techniques, including Iterative Imputation, Expectation-Maximization (EM), Nuclear Norm Minimization (NNM), SoftImpute, Iterative SVD, and Matrix Factorization.
